@@ -1,2 +1,2 @@
 # SDS Viewer
-Public record of BC CfE Material Safety Data Sheets (SDS) 
+Public record of BC CfE Safety Data Sheets (SDS) 
