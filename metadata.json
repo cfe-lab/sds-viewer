@@ -1,52 +1,59 @@
 [
     {
-        "name": "Expand HiFi MgCl2 Stock Solution, 25mM",
+        "name": "0.1 - 2 Kb RNA Ladder",
         "category": "PCR",
-        "hazards": null,
-        "date_msds_expires": "June 17, 2025",
-        "filename": "ExpandHiFi_MSDS_2022-06-17_reviewed.pdf"
-    },
-    {
-        "name": "Expand HiFi Buffer 2, 10X w/ MgCl2",
-        "category": "PCR",
-        "hazards": null,
-        "date_msds_expires": "June 17, 2025",
-        "filename": "ExpandHiFi_MSDS_2022-06-17_reviewed.pdf"
-    },
-    {
-        "name": "Hi-Di Formamide",
-        "category": "3730 Sequencing",
-        "hazards": "Toxic",
-        "date_msds_expires": "May 10, 2024",
-        "filename": "11-May-2021_HiDi_Formamide-May-2021.pdf"
-    },
-    {
-        "name": "BigDye Terminator v3.1 Ready Reaction Mix",
-        "category": "3730 Sequencing",
         "hazards": "None",
-        "date_msds_expires": "February 28, 2024",
-        "filename": "BigDye Terminator v3.1 Cycle Sequencing Kit_28Feb2021.zip"
+        "date_msds_expires": "May 11, 2024",
+        "filename": "12-May-2021_RNA_Ladder-May-2020.pdf"
     },
     {
-        "name": "3730 Running Buffer, 10X",
-        "category": "3730 Sequencing",
-        "hazards": null,
-        "date_msds_expires": "October 18, 2024",
-        "filename": "10X_Running Buffer_4335613_2021-10-18.pdf"
-    },
-    {
-        "name": "Protector RNase Inhibitor",
+        "name": "0.1M DTT",
         "category": "PCR",
         "hazards": null,
-        "date_msds_expires": "March 08, 2024",
-        "filename": "SDS_Protector_RNase_Inhibitor_2021_03_08.pdf"
+        "date_msds_expires": "December 30, 2025",
+        "filename": "Dithiothreitol (DTT), 0.1M Solution_707265ML_30Dec2025.pdf"
     },
     {
-        "name": "Glycogen, Ultrapure",
-        "category": "Extraction",
+        "name": "0.1M Sodium Chloride Solution",
+        "category": "Other Chemicals",
         "hazards": null,
-        "date_msds_expires": "January 18, 2024",
-        "filename": "Glycogen_J16445.pdf"
+        "date_msds_expires": "September 13, 2025",
+        "filename": "sds_Sodium Chloride 1 Molar Solution_SS0441_2022-09-13.pdf"
+    },
+    {
+        "name": "1 M Magnesium Sulphate",
+        "category": "Other Chemicals",
+        "hazards": null,
+        "date_msds_expires": "September 13, 2025",
+        "filename": "MgSO4_34276-1L_Fluka_2022-09-13.pdf"
+    },
+    {
+        "name": "10x Klentaq1 Buffer",
+        "category": "PCR",
+        "hazards": null,
+        "date_msds_expires": "March 09, 2026",
+        "filename": "10x Klentaq1 Reaction Buffer pH 7.9_RB21_reviewed_9March2026.pdf"
+    },
+    {
+        "name": "1M Tris-HCL buffer, pH 6.8",
+        "category": "PCR",
+        "hazards": null,
+        "date_msds_expires": "March 09, 2026",
+        "filename": "TRIS__1.0M_Buffer_Solution__pH_6.8_MTR_CLP1_EN_reviewed_9march2026.pdf"
+    },
+    {
+        "name": "1M Tris-HCl, pH 7.5",
+        "category": "Other Chemicals",
+        "hazards": null,
+        "date_msds_expires": "January 25, 2024",
+        "filename": "1M_Tris_pH75_15567027_2021-01-25.pdf"
+    },
+    {
+        "name": "2-Mercaptoethanol",
+        "category": "Extraction",
+        "hazards": "acute toxicity, skin sensitization, organ and reproductive toxicity",
+        "date_msds_expires": "July 21, 2025",
+        "filename": "M6250-10ml_21985023_21Jul2025.pdf"
     },
     {
         "name": "3730 POP-7 Polymer",
@@ -56,95 +63,81 @@
         "filename": "POP7_4363929_MSDS_2021-11-15.pdf"
     },
     {
-        "name": "Phosphate-Buffered Saline (PBS), pH 7.4, 1X",
-        "category": "IDC Specimen Processing",
-        "hazards": null,
-        "date_msds_expires": "February 08, 2024",
-        "filename": "PBS_ph74_10010023_MTR-NALT_EN.pdf"
-    },
-    {
-        "name": "Sodium Acetate",
+        "name": "3730 Running Buffer, 10X",
         "category": "3730 Sequencing",
         "hazards": null,
-        "date_msds_expires": "April 29, 2024",
-        "filename": "Sodium acetate_s8750_2021april29.pdf"
+        "date_msds_expires": "October 18, 2024",
+        "filename": "10X_Running Buffer_4335613_2021-10-18.pdf"
     },
     {
-        "name": "Sucrose",
-        "category": "PCR",
-        "hazards": null,
-        "date_msds_expires": "April 17, 2026",
-        "filename": "Sucrose_15-Apr-2023.pdf"
-    },
-    {
-        "name": "TAE Buffer, 50X, UltraPure DNA Typing Grade",
-        "category": "Gels",
-        "hazards": "mild irritant",
-        "date_msds_expires": "October 25, 2026",
-        "filename": "Thermo_50xTAE_exp25Oct2026-signed.pdf"
-    },
-    {
-        "name": "TE Buffer, 20X, RNase-free",
-        "category": "Quant",
-        "hazards": null,
-        "date_msds_expires": "February 17, 2026",
-        "filename": "20X TE buffer RNase free_T11493_rvwd_17fb2026.pdf"
-    },
-    {
-        "name": "Trizma Hydrochloride Solution, pH 9.0, 1M",
-        "category": "3730 Sequencing",
-        "hazards": "none",
-        "date_msds_expires": "April 25, 2025",
-        "filename": "Trizma_HCL_t2819_2022-04-25.pdf"
-    },
-    {
-        "name": "Trypan Blue 0.4% Stain Solution",
-        "category": "IDC Specimen Processing",
-        "hazards": "toxic, carcinogen",
-        "date_msds_expires": "April 26, 2024",
-        "filename": "TrypanBlueT10282_2021-04-26.pdf"
-    },
-    {
-        "name": "Tween 20 ",
-        "category": "NGS Sequencing",
-        "hazards": null,
-        "date_msds_expires": "January 21, 2024",
-        "filename": "TWEEN 20_SDS_P7949_2021-01-21.pdf"
-    },
-    {
-        "name": "Water, DEPC-treated",
-        "category": "PCR",
-        "hazards": null,
-        "date_msds_expires": "August 18, 2024",
-        "filename": "DEPC-TREATED WATER 1000 ML EACH_AM9922_2021Aug18.pdf"
-    },
-    {
-        "name": "Bromophenol Blue",
-        "category": "PCR",
-        "hazards": null,
-        "date_msds_expires": "April 28, 2025",
-        "filename": "Bromophenolblue_b5525_2022-04-28.pdf"
-    },
-    {
-        "name": "Dulbecco's Phosphate-Buffered Saline (DPBS), 1X",
-        "category": "Quant",
-        "hazards": null,
-        "date_msds_expires": "February 10, 2026",
-        "filename": "Thermo_DPBS_exp10Feb2026-signed.pdf"
-    },
-    {
-        "name": "Magnesium Sulphate, 50mM",
+        "name": "40% Potassium Hydroxide (Voges-Proskauer B)",
         "category": "Other Chemicals",
-        "hazards": null,
-        "date_msds_expires": "March 09, 2026",
-        "filename": "MgSO4 Assay_52044_reviewed_9March2026.pdf"
+        "hazards": "Caustic, harmful if swallowed",
+        "date_msds_expires": "February 22, 2025",
+        "filename": "40%Potassium Hydroxide_SDS_2022-02-22.pdf"
     },
     {
-        "name": "Trypsin-EDTA, 0.05%, 1X",
-        "category": "Tissue Culture",
+        "name": "8N Potassium Hydroxide",
+        "category": "Other Chemicals",
+        "hazards": "Corrosive, Harmful if swallowed, Causes severe skin burns and eye damage",
+        "date_msds_expires": "December 25, 2024",
+        "filename": "Thermo_380625000_exp25Dec2024-signed.pdf"
+    },
+    {
+        "name": "ADS 10x CE Running buffer",
+        "category": "3730 Sequencing",
         "hazards": null,
-        "date_msds_expires": "November 22, 2026",
-        "filename": "Thermo_Trypsin_25300062_exp22NOV2023-signed.pdf"
+        "date_msds_expires": "March 31, 2026",
+        "filename": "ADS 10x CE Running Buffer SDS_v2.2.pdf"
+    },
+    {
+        "name": "ADS Capillary Regeneration Kit for 3730",
+        "category": "3730 Sequencing",
+        "hazards": "toxic, acidic",
+        "date_msds_expires": "December 01, 2026",
+        "filename": "ADS_Capillary_Regeneration_Kit_exp01DEC2026-signed.pdf"
+    },
+    {
+        "name": "Abacavir Sulfate",
+        "category": "Antiviral Drugs/Standards",
+        "hazards": "Eye irritation, Skin sensitisation, Germ cell mutagenicity, Carcinogenicity, Reproductive toxicity",
+        "date_msds_expires": "August 19, 2025",
+        "filename": "Abacavir (sulfate)_CS-2023_19Aug2025.pdf"
+    },
+    {
+        "name": "Acetic Acid, Glacial, HPLC grade",
+        "category": "TDM",
+        "hazards": "corrosive, irritant",
+        "date_msds_expires": "September 18, 2025",
+        "filename": "Acetic acid_000000020238_2019sep18_reviewed.pdf"
+    },
+    {
+        "name": "Acetone, HPLC grade",
+        "category": "TDM",
+        "hazards": "highly flammable, toxic",
+        "date_msds_expires": "December 24, 2024",
+        "filename": "acetone-hplc-fisher-chemical-4_2021-12-24.pdf"
+    },
+    {
+        "name": "Acetonitrile Chromasolv Plus for HPLC, >99.9%",
+        "category": "TDM",
+        "hazards": "Highly flammable, harmful if swallowed or inhaled, causes serious eye irritation aand damage to organs",
+        "date_msds_expires": "December 24, 2024",
+        "filename": "acetonitrile-hplc-fisher-chemical-10.pdf"
+    },
+    {
+        "name": "Acycloguanosine, Acyclovir (ACV)",
+        "category": "Antiviral Drugs/Standards",
+        "hazards": "Not considered a hazard with std use",
+        "date_msds_expires": "April 28, 2025",
+        "filename": "a4669_Acycloguanosine_2022april28.pdf"
+    },
+    {
+        "name": "Agarose, Low Melting, 100g - NuSieve",
+        "category": "Gels",
+        "hazards": null,
+        "date_msds_expires": "May 19, 2024",
+        "filename": "Agarose Low melding_50082_NuSieve_2021-05-19.pdf"
     },
     {
         "name": "Agarose, Standard Low mr - 500g - Bio-Rad",
@@ -161,452 +154,18 @@
         "filename": "Agarose_HRLS00416-13_2021-11-30.pdf"
     },
     {
-        "name": "Agarose, Low Melting, 100g - NuSieve",
-        "category": "Gels",
+        "name": "Agencourt AMPure XP",
+        "category": "NGS Sequencing",
         "hazards": null,
-        "date_msds_expires": "May 19, 2024",
-        "filename": "Agarose Low melding_50082_NuSieve_2021-05-19.pdf"
-    },
-    {
-        "name": "E-Gel Low Range Quantitative DNA Ladder",
-        "category": "Gels",
-        "hazards": null,
-        "date_msds_expires": "March 22, 2025",
-        "filename": "EGel_low range_123730311F_2022-03-22.pdf"
-    },
-    {
-        "name": "Indinavir - USP Reference Standard",
-        "category": "Antiviral Drugs/Standards",
-        "hazards": "irritant",
-        "date_msds_expires": "January 12, 2024",
-        "filename": "IDV_1339178.pdf"
-    },
-    {
-        "name": "Liqui-Jet 2 - Steris Canada",
-        "category": "Disinfectants",
-        "hazards": "Causes serious eye and skin damage",
         "date_msds_expires": "October 18, 2025",
-        "filename": "Liqui-Jet2 2022-Oct-18_reviewed.zip"
+        "filename": "AMPure XP_A63880AF_2019Oct15.pdf"
     },
     {
-        "name": "NEUTRACIT Caustic Neutralizer",
-        "category": "Safety/Emergency",
-        "hazards": "irritant",
-        "date_msds_expires": "July 26, 2025",
-        "filename": "SDS_BAKER 4470-05.pdf"
-    },
-    {
-        "name": "NEUTRASORB Acid Neutralizer",
-        "category": "Safety/Emergency",
-        "hazards": "irritant",
-        "date_msds_expires": "July 19, 2026",
-        "filename": "Avantor_Neutrasorb_exp19Jul2026-signed.pdf"
-    },
-    {
-        "name": "Quant-iT PicoGreen dsDNA Reagent",
-        "category": "Quant",
-        "hazards": null,
-        "date_msds_expires": "November 15, 2024",
-        "filename": "P11495_Quant-iT_MSDS_2021-11-15.pdf"
-    },
-    {
-        "name": "Lambda DNA Standard (100 ug/ml)",
-        "category": "Quant",
-        "hazards": null,
-        "date_msds_expires": "November 08, 2025",
-        "filename": "P7589COMPONENTC_Lamda DNA standard_review_8Nov2022.pdf"
-    },
-    {
-        "name": "easyMAG Extraction Buffer 3",
-        "category": "Extraction",
-        "hazards": null,
-        "date_msds_expires": "July 26, 2025",
-        "filename": "EasyMag_buffer3_MSDS.pdf"
-    },
-    {
-        "name": "easyMAG Extraction Buffer 2",
-        "category": "Extraction",
-        "hazards": null,
-        "date_msds_expires": "July 26, 2025",
-        "filename": "EasyMag_buffer2_MSDS.pdf"
-    },
-    {
-        "name": "easyMAG Extraction Buffer 1",
-        "category": "Extraction",
-        "hazards": "Guanidinium thiocyanate",
-        "date_msds_expires": "July 26, 2025",
-        "filename": "EasyMag_buffer1_MSDS_2019-03-13.pdf"
-    },
-    {
-        "name": "easyMAG Lysis Buffer",
-        "category": "Extraction",
-        "hazards": "Guanidinium thiocyanate",
-        "date_msds_expires": "July 26, 2025",
-        "filename": "EasyMag_lysis_buffer_MSDS_2019-03-13.pdf"
-    },
-    {
-        "name": "easyMAG Magnetic Silica",
-        "category": "Extraction",
-        "hazards": null,
-        "date_msds_expires": "February 12, 2024",
-        "filename": "EasyMag_Silica_MSDS.pdf"
-    },
-    {
-        "name": "BigDye v3.1 3730 Sequencing Standards",
-        "category": "3730 Sequencing",
-        "hazards": null,
-        "date_msds_expires": "June 06, 2025",
-        "filename": "Bigdye_37XX BDT V3.1 SEQ STD,KIT_4336943_reviewed_17eb2026.pdf"
-    },
-    {
-        "name": "Metergoline",
-        "category": "Antiviral Drugs/Standards",
-        "hazards": "toxic",
-        "date_msds_expires": "September 27, 2025",
-        "filename": "Metergoline_m3668_2022sep27.pdf"
-    },
-    {
-        "name": "Nevirapine, Anhydrous - USP Reference Standard",
-        "category": "Antiviral Drugs/Standards",
-        "hazards": "toxic, irritant",
-        "date_msds_expires": "October 25, 2026",
-        "filename": "USP_Nevirapine-Anhydrous_1460703_exp25Oct2025-signed.pdf"
-    },
-    {
-        "name": "Reserpine, RES ",
-        "category": "Antiviral Drugs/Standards",
-        "hazards": "toxic",
-        "date_msds_expires": "March 09, 2026",
-        "filename": "Reserpine_83580_reviewed_09March2026.pdf"
-    },
-    {
-        "name": "Ritonavir (RTV) - USP Reference Standard",
-        "category": "Antiviral Drugs/Standards",
-        "hazards": "irritant",
-        "date_msds_expires": "January 12, 2024",
-        "filename": "RTV_1604803_2017_Dec_26_1.pdf"
-    },
-    {
-        "name": "Expand HiFi Enzyme Mix",
-        "category": "PCR",
-        "hazards": null,
-        "date_msds_expires": "June 17, 2025",
-        "filename": "ExpandHiFi_MSDS_2022-06-17_reviewed.pdf"
-    },
-    {
-        "name": "Acetone, HPLC grade",
-        "category": "TDM",
-        "hazards": "highly flammable, toxic",
-        "date_msds_expires": "December 24, 2024",
-        "filename": "acetone-hplc-fisher-chemical-4_2021-12-24.pdf"
-    },
-    {
-        "name": "Fluoresbrite YG Microspheres, 0.1um",
-        "category": "Other Chemicals",
-        "hazards": null,
-        "date_msds_expires": "July 26, 2024",
-        "filename": "Fluoresbrite_SDS.pdf"
-    },
-    {
-        "name": "Isopropanol (2-Propanol), HPLC grade",
-        "category": "TDM",
-        "hazards": "flammable, toxic",
-        "date_msds_expires": "December 24, 2024",
-        "filename": "2-PROPANOL-HISTO-4L-2021-12-24.pdf"
-    },
-    {
-        "name": "Acetic Acid, Glacial, HPLC grade",
-        "category": "TDM",
-        "hazards": "corrosive, irritant",
-        "date_msds_expires": "September 18, 2025",
-        "filename": "Acetic acid_000000020238_2019sep18_reviewed.pdf"
-    },
-    {
-        "name": "Bleach, Advance",
-        "category": "Disinfectants",
-        "hazards": "corrosive",
-        "date_msds_expires": "June 17, 2025",
-        "filename": "BLEACH_6__-SDS_2022-06-17 reviewed.pdf"
-    },
-    {
-        "name": "Cresol Red",
-        "category": "PCR",
-        "hazards": "none",
-        "date_msds_expires": "April 15, 2025",
-        "filename": "Cresol_red114472_2022-04-15.pdf"
-    },
-    {
-        "name": "Dimethyl Sulfoxide (DMSO), Hybri-Max",
-        "category": "IDC Specimen Processing",
-        "hazards": "combustible",
-        "date_msds_expires": "July 01, 2026",
-        "filename": "Sigma_DMSO_D2650_exp01JUL2026-signed.pdf"
-    },
-    {
-        "name": "EDTA Solution, pH 8.0, 0.5M",
-        "category": "3730 Sequencing",
-        "hazards": "irritant, Organ toxicity",
-        "date_msds_expires": "February 15, 2025",
-        "filename": "EDTA_solution_pH8_05M_Sigma_MSDS_2022-02-15.pdf"
-    },
-    {
-        "name": "Ethanol (Ethyl Alcohol), 95% - Commercial Alcohols",
-        "category": "3730 Sequencing",
-        "hazards": "flammable",
-        "date_msds_expires": "November 05, 2024",
-        "filename": "Ethyl Alcohol (95% VOL)_P016EA95_2021Mar24.pdf"
-    },
-    {
-        "name": "Ethanol (Ethyl Alcohol), Anhydrous - Commercial Alcohols",
-        "category": "NGS Sequencing",
-        "hazards": "flammable",
-        "date_msds_expires": "February 12, 2024",
-        "filename": "Ethyl-Alcohol-Anhydrous_MSDS_2021_02_12.pdf"
-    },
-    {
-        "name": "Fetal Bovine Serum (FBS)",
-        "category": "IDC Specimen Processing",
-        "hazards": null,
-        "date_msds_expires": "May 19, 2024",
-        "filename": "12-May-2021_FBS_Jul-2015.pdf"
-    },
-    {
-        "name": "Guanidine Thiocyanate",
-        "category": "Extraction",
-        "hazards": "acute toxic and aquatic hazard ",
-        "date_msds_expires": "June 30, 2024",
-        "filename": "Guanidine thiocyanate_G9277_2022oct08.pdf"
-    },
-    {
-        "name": "Proguard Hand Cream ",
-        "category": "Disinfectants",
-        "hazards": null,
-        "date_msds_expires": "May 01, 2024",
-        "filename": "Proguard_SDS.pdf"
-    },
-    {
-        "name": "Purell Hand Sanitizer Refill Pack",
-        "category": "Disinfectants",
-        "hazards": null,
-        "date_msds_expires": "March 05, 2024",
-        "filename": "SDS_Purell_Hand_Sanitizer_2021-03-05.pdf"
-    },
-    {
-        "name": "RBC Lysis Solution",
-        "category": "Other Chemicals",
-        "hazards": null,
-        "date_msds_expires": "April 19, 2024",
-        "filename": "00-4333-57_RBC Lysis Buffer 200mL solution_eBioscience_2021April19.pdf"
-    },
-    {
-        "name": "SOLUSORB Solvent Adsorbent",
-        "category": "Safety/Emergency",
-        "hazards": null,
-        "date_msds_expires": "January 10, 2025",
-        "filename": "Solusorb_Adsorbent_SDS.pdf"
-    },
-    {
-        "name": "Spill-X-A, Acid Neutralizer",
-        "category": "Safety/Emergency",
-        "hazards": "Acute toxicity",
-        "date_msds_expires": "May 04, 2025",
-        "filename": "SDS_Spill-X-A_Reviewed 2022-05-04.pdf"
-    },
-    {
-        "name": "Spill-X-C, Caustic Neutralizer",
-        "category": "Safety/Emergency",
-        "hazards": "Toxic, serious eye damage",
-        "date_msds_expires": "May 04, 2025",
-        "filename": "SDS_Spill-X-C_reviewed_2022-05-04.pdf"
-    },
-    {
-        "name": "Spill-X-S, Solvent Adsorbent",
-        "category": "Safety/Emergency",
-        "hazards": null,
-        "date_msds_expires": "February 02, 2026",
-        "filename": "Spill-X-S_077265_2Feb2026.pdf"
-    },
-    {
-        "name": "T36 Disinfex",
-        "category": "Disinfectants",
-        "hazards": "flammable, toxic",
-        "date_msds_expires": "January 10, 2026",
-        "filename": "T36 Disinfex_Din02231344_review_10Jan2026"
-    },
-    {
-        "name": "Acycloguanosine, Acyclovir (ACV)",
-        "category": "Antiviral Drugs/Standards",
-        "hazards": "Not considered a hazard with std use",
-        "date_msds_expires": "April 28, 2025",
-        "filename": "a4669_Acycloguanosine_2022april28.pdf"
-    },
-    {
-        "name": "MS Chemical Kit 1, Low-High Conc. PPGs",
-        "category": "TDM",
-        "hazards": "flammable, toxic",
-        "date_msds_expires": "June 12, 2024",
-        "filename": "pos_ppg_2_x_10_-7_m_4405233_4406127_12June2024.pdf"
-    },
-    {
-        "name": "Trizma Base",
-        "category": "Other Chemicals",
-        "hazards": null,
-        "date_msds_expires": "March 01, 2024",
-        "filename": "Trizmabase_t1503_01March2024.pdf"
-    },
-    {
-        "name": "Thymol",
-        "category": "IDC Specimen Processing",
-        "hazards": "corrosive, toxic",
-        "date_msds_expires": "November 05, 2024",
-        "filename": "SDS_Thymol_2021-Nov-05.pdf"
-    },
-    {
-        "name": "TE Buffer, pH 8.0",
-        "category": "Other Chemicals",
-        "hazards": null,
-        "date_msds_expires": "February 15, 2024",
-        "filename": "AM9849_TE Buffer, pH 8.0_15Feb2021.pdf"
-    },
-    {
-        "name": "Mineral Oil",
-        "category": "Other Chemicals",
-        "hazards": null,
-        "date_msds_expires": "February 02, 2024",
-        "filename": "Mineral Oil_M5904_SDS_2021-02-02.pdf"
-    },
-    {
-        "name": "MiSeq v2 Reagent Kit, 500 & 300 cycles, Box 2 of 2",
-        "category": "NGS Sequencing",
-        "hazards": "may cause skin allergies",
-        "date_msds_expires": "December 28, 2025",
-        "filename": "MiSeq\u00ae v2 Reagent Kit Box 2 of2.zip"
-    },
-    {
-        "name": "Elvitegravir",
-        "category": "Antiviral Drugs/Standards",
-        "hazards": "Skin corrosion, Serious eye damage/irritation",
-        "date_msds_expires": "February 13, 2026",
-        "filename": "Chemscene_Elvitegravir_exp13Feb2026-signed.pdf"
-    },
-    {
-        "name": "Dolutegravir",
-        "category": "Antiviral Drugs/Standards",
-        "hazards": "Toxic, harmful if swallowed",
-        "date_msds_expires": "July 27, 2024",
-        "filename": "ChemScene_Dolutegravir_exp27Jul2024-signed.pdf"
-    },
-    {
-        "name": "Cobicistat",
-        "category": "Antiviral Drugs/Standards",
-        "hazards": "toxic, harmful if swollowed",
-        "date_msds_expires": "December 29, 2023",
-        "filename": "Chemscene-Cobicistat-29DEC2020.pdf"
-    },
-    {
-        "name": "Sodium Chloride Solution, 5M",
+        "name": "Agencourt RNAClean XP",
         "category": "NGS Sequencing",
         "hazards": null,
-        "date_msds_expires": "April 23, 2025",
-        "filename": "NaCL_s5150_2022-04-23.pdf"
-    },
-    {
-        "name": "Poly(ethylene glycol) (PEG-8000)",
-        "category": "NGS Sequencing",
-        "hazards": "Not controlled under WHMIS",
-        "date_msds_expires": "March 12, 2025",
-        "filename": "PEG_P5413_Sigma_MSDS_2022-03-12.pdf"
-    },
-    {
-        "name": "Fluorescein Sodium Salt",
-        "category": "Quant",
-        "hazards": "None",
-        "date_msds_expires": "February 18, 2025",
-        "filename": "Flrorescein sodium salt_f6377_2022-02-18.pdf"
-    },
-    {
-        "name": "Darunavir Ethanolate",
-        "category": "Antiviral Drugs/Standards",
-        "hazards": "Harmful if swallowed, Very toxic to aquatic life with long lasting effects",
-        "date_msds_expires": "March 14, 2025",
-        "filename": "Chemscene_Darunavir_exp14Mar2025-signed.pdf"
-    },
-    {
-        "name": "SuperScript/Platinum High Fidelity Enzyme Mix",
-        "category": "PCR",
-        "hazards": null,
-        "date_msds_expires": "June 01, 2024",
-        "filename": "SSIII-Plat_100005840_MTR-NALT_EN.pdf"
-    },
-    {
-        "name": "SYBR Safe DNA Gel Stain",
-        "category": "Gels",
-        "hazards": "Flammable",
-        "date_msds_expires": "May 04, 2025",
-        "filename": "SybrSafe_DNAStain_reviewed220504.pdf"
-    },
-    {
-        "name": "TOPO TA Cloning Kit, pCR 2.1-TOPO Vector",
-        "category": "Other Chemicals",
-        "hazards": null,
-        "date_msds_expires": "June 20, 2026",
-        "filename": "Thermo_Topo_450641-signed.pdf"
-    },
-    {
-        "name": "PfuUltra II Fusion HS DNA Polymerase",
-        "category": "PCR",
-        "hazards": "toxic, irritant",
-        "date_msds_expires": "February 02, 2025",
-        "filename": "PfuUltra II Fusion HS DNA Polymerase_600672_2022feb02.pdf"
-    },
-    {
-        "name": "Platinum Taq DNA Polymerase High Fidelity",
-        "category": "PCR",
-        "hazards": null,
-        "date_msds_expires": "May 06, 2024",
-        "filename": "Platinum_Taq_52046_2021-05-06.pdf"
-    },
-    {
-        "name": "Quant-iT RiboGreen RNA Assay Kit",
-        "category": "Quant",
-        "hazards": "Combustible and toxic",
-        "date_msds_expires": "October 17, 2025",
-        "filename": "Quant-it RiboGreen RNA Assay Kit_R11490_2019may31_reviewed.zip"
-    },
-    {
-        "name": "Reagent Alcohol, 95% - Surgipath",
-        "category": "Disinfectants",
-        "hazards": "flammable",
-        "date_msds_expires": "February 12, 2024",
-        "filename": "Reagent_Alcohol_95_EN.pdf"
-    },
-    {
-        "name": "Extran MA 01",
-        "category": "Disinfectants",
-        "hazards": "Corrosive",
-        "date_msds_expires": "November 30, 2024",
-        "filename": "Extran MA 01_107555_30Nov2024.PDF"
-    },
-    {
-        "name": "PhiX  Control v3",
-        "category": "NGS Sequencing",
-        "hazards": null,
-        "date_msds_expires": "April 18, 2026",
-        "filename": "PhiX_v1.1_20Jan2020.pdf"
-    },
-    {
-        "name": "Human Plasma, Normal, Pooled, K2 EDTA",
-        "category": "TDM",
-        "hazards": "potentially infectious",
-        "date_msds_expires": "January 05, 2025",
-        "filename": "HumanBiologicalFluids_SDS_2022-01-05.pdf"
-    },
-    {
-        "name": "Anti-HIV1 GP120 Goat Polyclonal Antibody",
-        "category": "Other Chemicals",
-        "hazards": null,
-        "date_msds_expires": "November 15, 2024",
-        "filename": "GP120GoatPolyconalAntibody_SDS.pdf"
+        "date_msds_expires": "May 31, 2026",
+        "filename": "Beckman_RNACleanXP_exp31May2026-signed.pdf"
     },
     {
         "name": "Albumin, from Bovine Serum",
@@ -616,60 +175,123 @@
         "filename": "Sigma_Bovine-Serum_exp01Jul2026-signed.pdf"
     },
     {
-        "name": "QIAGEN Buffer EB Elution Buffer",
-        "category": "NGS Sequencing",
-        "hazards": null,
-        "date_msds_expires": "March 06, 2026",
-        "filename": "Qiagen_BufferEB_exp06Mar2026-signed.pdf"
-    },
-    {
-        "name": "Trifluoroacetic Acid",
+        "name": "Ammonium Acetate - Fisher",
         "category": "TDM",
-        "hazards": "highly corrosive",
-        "date_msds_expires": "July 18, 2025",
-        "filename": "Sigma_Triluoroacetic_acid_v6.7_18JUL2022.pdf"
-    },
-    {
-        "name": "Sodium Hydroxide, 10N Concentrate",
-        "category": "NGS Sequencing",
-        "hazards": "corrosive, causes severe skin burns and eye damage",
-        "date_msds_expires": "December 24, 2024",
-        "filename": "SOD-HYDROX-SOL-CONC-40--100ML.pdf"
-    },
-    {
-        "name": "Ficoll-Paque PLUS",
-        "category": "IDC Specimen Processing",
         "hazards": null,
-        "date_msds_expires": "March 09, 2026",
-        "filename": "Ficoll-Paque PLUS, 6 x 100 ml_17-1440-02_reviewed_9March2026.pdf"
+        "date_msds_expires": "January 12, 2024",
+        "filename": "AMMONIUM-ACETATE-HPLC-A639_Fisher.pdf"
     },
     {
-        "name": "Efavirenz",
-        "category": "Antiviral Drugs/Standards",
-        "hazards": "toxic, irritant, reproductive hazard",
-        "date_msds_expires": "October 12, 2024",
-        "filename": "Efavirenz_sml0536_2021oct12.pdf"
+        "name": "Ammonium formate",
+        "category": "TDM",
+        "hazards": "eye and skin irritation.  Do not swallow",
+        "date_msds_expires": "October 26, 2024",
+        "filename": "Ammonium formate_70221_2021-10-26.pdf"
     },
     {
-        "name": "Emtricitabine (FTC) - USP Reference Standard",
-        "category": "Antiviral Drugs/Standards",
-        "hazards": "Not considered a hazard with std use",
-        "date_msds_expires": "June 25, 2024",
-        "filename": "Emtricitabine_2021-06-25.pdf"
+        "name": "Anti-HIV1 GP120 Goat Polyclonal Antibody",
+        "category": "Other Chemicals",
+        "hazards": null,
+        "date_msds_expires": "November 15, 2024",
+        "filename": "GP120GoatPolyconalAntibody_SDS.pdf"
     },
     {
-        "name": "Lamivudine (3TC) - USP Reference Standard",
+        "name": "Atazanavir (sulfate)",
         "category": "Antiviral Drugs/Standards",
-        "hazards": "toxic, irritant, weak mutagen",
-        "date_msds_expires": "September 26, 2026",
-        "filename": "USP_3TC_1356836_exp26Sep2026-signed.pdf"
+        "hazards": "Health Hazard, Corrosive ",
+        "date_msds_expires": "May 16, 2025",
+        "filename": "Atazanavir-sulfate-SDS-MedChemExpress_2019-04-03_reviewed2022-05-16.pdf"
     },
     {
-        "name": "Lopinavir (LPV)",
+        "name": "Atazanavir Bisulphate",
         "category": "Antiviral Drugs/Standards",
-        "hazards": "Harmful if swollowed, in contact with skin, if inhaled",
+        "hazards": null,
+        "date_msds_expires": "August 26, 2024",
+        "filename": "ATV bisulfate_TRC_A790050MSDS.pdf"
+    },
+    {
+        "name": "Atazanavir Sulfate",
+        "category": "Antiviral Drugs/Standards",
+        "hazards": "Serious eye damage, Specific target organ toxicity",
+        "date_msds_expires": "May 09, 2025",
+        "filename": "ATV-sulfate_cs-1890_reviewed_2022-05-09.pdf"
+    },
+    {
+        "name": "Automated Droplet Generation Oil for Probes",
+        "category": "Other Chemicals",
+        "hazards": null,
+        "date_msds_expires": "May 07, 2024",
+        "filename": "Droplet oil HRLS00192-2_MTR_HGHS_EN_2021-05-07.pdf"
+    },
+    {
+        "name": "Bar Keeper's Friend",
+        "category": "Other Chemicals",
+        "hazards": null,
+        "date_msds_expires": "November 15, 2024",
+        "filename": "Bar Keepers Friend_2021-11-15.pdf"
+    },
+    {
+        "name": "Betaine Solution, 5M",
+        "category": "PCR",
+        "hazards": null,
+        "date_msds_expires": "June 30, 2024",
+        "filename": "Betaine_B0300_SDS_2021-06-30.pdf"
+    },
+    {
+        "name": "Bictegravir",
+        "category": "Antiviral Drugs/Standards",
+        "hazards": "Toxic, harmful if swallowed",
+        "date_msds_expires": "May 17, 2025",
+        "filename": "BIC_MSDS_S5911_reviewed_2022-05-17.pdf"
+    },
+    {
+        "name": "Big Dye Xterminator Purification Kit",
+        "category": "3730 Sequencing",
+        "hazards": "Tube Xterminator Solution, BTL Xterminator solution-eye irritation;",
+        "date_msds_expires": "April 08, 2024",
+        "filename": "BigDye XTerminator_4376486_2021April08.zip"
+    },
+    {
+        "name": "BigDye Terminator v3.1 Ready Reaction Mix",
+        "category": "3730 Sequencing",
+        "hazards": "None",
+        "date_msds_expires": "February 28, 2024",
+        "filename": "BigDye Terminator v3.1 Cycle Sequencing Kit_28Feb2021.zip"
+    },
+    {
+        "name": "BigDye v3.1 3730 Sequencing Standards",
+        "category": "3730 Sequencing",
+        "hazards": null,
+        "date_msds_expires": "June 06, 2025",
+        "filename": "Bigdye_37XX BDT V3.1 SEQ STD,KIT_4336943_reviewed_17eb2026.pdf"
+    },
+    {
+        "name": "Bleach, Advance",
+        "category": "Disinfectants",
+        "hazards": "corrosive",
         "date_msds_expires": "June 17, 2025",
-        "filename": "LPV_EN-GP6351_2022-06-17_Reviewed.pdf"
+        "filename": "BLEACH_6__-SDS_2022-06-17 reviewed.pdf"
+    },
+    {
+        "name": "Boceprevir",
+        "category": "Antiviral Drugs/Standards",
+        "hazards": null,
+        "date_msds_expires": "June 17, 2025",
+        "filename": "Boceprevir_GP0844_2022-06-17_reviewed.pdf"
+    },
+    {
+        "name": "Bromophenol Blue",
+        "category": "PCR",
+        "hazards": null,
+        "date_msds_expires": "April 28, 2025",
+        "filename": "Bromophenolblue_b5525_2022-04-28.pdf"
+    },
+    {
+        "name": "Buffer Solution pH 1.68 (White)",
+        "category": "TDM",
+        "hazards": null,
+        "date_msds_expires": "February 02, 2025",
+        "filename": "pH 1.68 Buffer_910168_02Feb2022.pdf"
     },
     {
         "name": "Buffer Solution pH 10, Blue",
@@ -693,53 +315,109 @@
         "filename": "ph7-yellow.pdf"
     },
     {
-        "name": "Rilpivirine (RPV)",
+        "name": "Cabotegravir",
         "category": "Antiviral Drugs/Standards",
-        "hazards": null,
-        "date_msds_expires": "January 29, 2025",
-        "filename": "Rilpivirine_CS-0440_29Jan2025.pdf"
+        "hazards": "Harmful if swallowed, very toxic to aquatic life with long lasting effects",
+        "date_msds_expires": "February 26, 2024",
+        "filename": "Cabotegravir_combined_2021-02-26.pdf"
     },
     {
-        "name": "Betaine Solution, 5M",
+        "name": "Cabotegravir-d5",
+        "category": "Antiviral Drugs/Standards",
+        "hazards": "Acute toxicity; harmful if swallowed or inhaled, in contact with skin",
+        "date_msds_expires": "July 19, 2026",
+        "filename": "Cayman_cabotegravir-d5_31319m_exp19-Jul2026-signed.pdf"
+    },
+    {
+        "name": "Cederroth Eye Wash, Sterile, 500ml",
+        "category": "Safety/Emergency",
+        "hazards": null,
+        "date_msds_expires": "January 12, 2024",
+        "filename": "Cederrotheyewash_7251A_exp12Oct2024-signed.pdf"
+    },
+    {
+        "name": "Chloramphenicol",
+        "category": "Tissue Culture",
+        "hazards": "Carcinogen, mutagen",
+        "date_msds_expires": "March 29, 2025",
+        "filename": "Chloramphenicol_c0378_29March2025.pdf"
+    },
+    {
+        "name": "ChromSystems MassCheck Anti-HIV Drugs",
+        "category": "TDM",
+        "hazards": null,
+        "date_msds_expires": "June 02, 2025",
+        "filename": "SAFETY DATA SHEET_lyophilized_EQA_2019_04_29_reviewed_2022-06-02.docx"
+    },
+    {
+        "name": "Cobicistat",
+        "category": "Antiviral Drugs/Standards",
+        "hazards": "toxic, harmful if swollowed",
+        "date_msds_expires": "December 29, 2023",
+        "filename": "Chemscene-Cobicistat-29DEC2020.pdf"
+    },
+    {
+        "name": "Cresol Red",
         "category": "PCR",
-        "hazards": null,
-        "date_msds_expires": "June 30, 2024",
-        "filename": "Betaine_B0300_SDS_2021-06-30.pdf"
+        "hazards": "none",
+        "date_msds_expires": "April 15, 2025",
+        "filename": "Cresol_red114472_2022-04-15.pdf"
     },
     {
-        "name": "Humonitor Humidity indicator cards",
+        "name": "D-(+)-Trehalose dihydrate",
         "category": "Other Chemicals",
-        "hazards": "very toxic and toxic for environment ",
-        "date_msds_expires": "February 05, 2025",
-        "filename": "Humonitor humidity indicator cards_z163449_20220205.pdf"
-    },
-    {
-        "name": "Minipax absorbent packets",
-        "category": "Other Chemicals",
-        "hazards": "No Hazards",
-        "date_msds_expires": "January 31, 2024",
-        "filename": "Minipax_AdsorbentPackets_SDS.pdf"
-    },
-    {
-        "name": "Ammonium formate",
-        "category": "TDM",
-        "hazards": "eye and skin irritation.  Do not swallow",
-        "date_msds_expires": "October 26, 2024",
-        "filename": "Ammonium formate_70221_2021-10-26.pdf"
-    },
-    {
-        "name": "Normal Human Serum",
-        "category": "TDM",
         "hazards": null,
-        "date_msds_expires": "November 22, 2026",
-        "filename": "Innovative_Research_Human_exp22Nov2026-signed.pdf"
+        "date_msds_expires": "October 29, 2025",
+        "filename": "SDS_t5251.pdf"
     },
     {
-        "name": "Nextera XT Library Prep Kit (Box 2)",
+        "name": "DNA Prep, (M) Tagmentation beads(24 Samples)  ",
         "category": "NGS Sequencing",
         "hazards": null,
-        "date_msds_expires": "November 14, 2025",
-        "filename": "Nextera\u00ae XT DNA Sample Preparation Kit_FC-131-1024_14Nov2025.zip"
+        "date_msds_expires": "February 09, 2026",
+        "filename": "DNA Prep, (M) Tagmentation beads(24 Samples)_20015173_rwd_9Feb2026.pdf"
+    },
+    {
+        "name": "DNA Prep, Beads & buffer",
+        "category": "NGS Sequencing",
+        "hazards": "Stop Buffer: causes serious eye damage",
+        "date_msds_expires": "February 09, 2026",
+        "filename": "DNA Prep, Beads & buffer_illumina_20060060_9Feb2026.zip"
+    },
+    {
+        "name": "DNAse-free kit DNase treatment and removal",
+        "category": "PCR",
+        "hazards": null,
+        "date_msds_expires": "February 02, 2024",
+        "filename": "DNAse-free kit DNAse treatment and removal_2021-02-12.pdf"
+    },
+    {
+        "name": "DNase I",
+        "category": "PCR",
+        "hazards": null,
+        "date_msds_expires": "April 12, 2025",
+        "filename": "DNase I (RNase-Free)_M0303_12Apr2025.pdf"
+    },
+    {
+        "name": "Darunavir Ethanolate",
+        "category": "Antiviral Drugs/Standards",
+        "hazards": "Harmful if swallowed, Very toxic to aquatic life with long lasting effects",
+        "date_msds_expires": "March 14, 2025",
+        "filename": "Chemscene_Darunavir_exp14Mar2025-signed.pdf"
+    },
+    {
+        "name": "Darunavir-d9",
+        "category": "Antiviral Drugs/Standards",
+        "hazards": null,
+        "date_msds_expires": "June 20, 2024",
+        "filename": "DRV-D9_D193502MSDS.pdf"
+    },
+    {
+        "name": "Desiccant",
+        "category": "TDM",
+        "hazards": "Health Hazard, Environment",
+        "date_msds_expires": "August 30, 2024",
+        "filename": "Desiccator_z163392_2021-08-30.pdf"
     },
     {
         "name": "Dichloromethane DCM (Methylene Chloride)",
@@ -749,137 +427,11 @@
         "filename": "Dichloromethane ACS_CA71007-066_20200804.pdf"
     },
     {
-        "name": "Nextera XT Library Prep Kit (Box 1)",
-        "category": "NGS Sequencing",
-        "hazards": "Normalization wash-Carcinogenicity, Reproductive toxicity, Specific organ toxicity; Normalization additives-Carcinogenicity, Reproductive toxicity, Specific organ toxicity; Tagment DNA Buffer- eye irritation, carcinogenicity, reproductive toxicity",
-        "date_msds_expires": "November 14, 2025",
-        "filename": "Nextera\u00ae XT DNA Sample Preparation Kit_FC-131-1024_14Nov2025.zip"
-    },
-    {
-        "name": "NEBNext rRNA Depletion Kit",
-        "category": "NGS Sequencing",
-        "hazards": null,
-        "date_msds_expires": "April 12, 2025",
-        "filename": "NEBNext\u00ae rRNA Depletion Kit_E6310_20220412.7z"
-    },
-    {
-        "name": "Ribo-Zero Gold rRNA Removal Kit (Human/Mouse/Rat)",
-        "category": "NGS Sequencing",
-        "hazards": null,
-        "date_msds_expires": "January 27, 2026",
-        "filename": "Ribo-Zero Gold rRNA Removal Kit (HumanMouseRat)_27Jan2026.zip"
-    },
-    {
-        "name": "2-Mercaptoethanol",
-        "category": "Extraction",
-        "hazards": "acute toxicity, skin sensitization, organ and reproductive toxicity",
-        "date_msds_expires": "July 21, 2025",
-        "filename": "M6250-10ml_21985023_21Jul2025.pdf"
-    },
-    {
-        "name": "Electrolyte Solution KCl 3 mol/L",
-        "category": "TDM",
-        "hazards": null,
-        "date_msds_expires": "August 09, 2025",
-        "filename": "Electrolyte_KCl_3_mol_l_2022-08-09.pdf"
-    },
-    {
-        "name": "Bar Keeper's Friend",
-        "category": "Other Chemicals",
-        "hazards": null,
-        "date_msds_expires": "November 15, 2024",
-        "filename": "Bar Keepers Friend_2021-11-15.pdf"
-    },
-    {
-        "name": "SuperScript III Reverse Transcriptase (Enzyme)",
-        "category": "PCR",
-        "hazards": null,
-        "date_msds_expires": "January 08, 2027",
-        "filename": "Thermo_SSIII_58080_exp08Jan2027-signed.pdf"
-    },
-    {
-        "name": "RNaseOUT Recombinant Ribonuclease Inhibitor",
-        "category": "PCR",
-        "hazards": null,
-        "date_msds_expires": "November 14, 2025",
-        "filename": "RNaseOUT RecombinantRibonucleaseInhibitor_10777019_20190811reviewed.pdf"
-    },
-    {
-        "name": "Telaprevir",
-        "category": "Antiviral Drugs/Standards",
-        "hazards": "Toxic",
-        "date_msds_expires": "January 12, 2024",
-        "filename": "Telaprevir_CS_0285.pdf"
-    },
-    {
-        "name": "Simeprevir",
-        "category": "Antiviral Drugs/Standards",
-        "hazards": null,
-        "date_msds_expires": "June 28, 2024",
-        "filename": "SMP_MSDS_CS-0338_2021-06-28.pdf"
-    },
-    {
-        "name": "Klentaq LA DNA Polymerase",
-        "category": "PCR",
-        "hazards": null,
-        "date_msds_expires": "January 04, 2026",
-        "filename": "KlentaqLA_v2_exp04Jan2026-signed.pdf"
-    },
-    {
-        "name": "10x Klentaq1 Buffer",
-        "category": "PCR",
-        "hazards": null,
-        "date_msds_expires": "March 09, 2026",
-        "filename": "10x Klentaq1 Reaction Buffer pH 7.9_RB21_reviewed_9March2026.pdf"
-    },
-    {
-        "name": "Maraviroc",
-        "category": "Antiviral Drugs/Standards",
-        "hazards": null,
-        "date_msds_expires": "January 12, 2024",
-        "filename": "MVC_CS_0366.pdf"
-    },
-    {
-        "name": "Tipranavir",
-        "category": "Antiviral Drugs/Standards",
-        "hazards": "irritataing to skin, eyes, respiratory system",
-        "date_msds_expires": "November 22, 2026",
-        "filename": "Chemscene_Tipranavir_CS1210_exp22NOV2026-signed.pdf"
-    },
-    {
-        "name": "Sofosbuvir",
-        "category": "Antiviral Drugs/Standards",
-        "hazards": null,
-        "date_msds_expires": "June 17, 2025",
-        "filename": "Sofosbuvir_GP2923_2022-06-17_reviewed.pdf"
-    },
-    {
-        "name": "Boceprevir",
-        "category": "Antiviral Drugs/Standards",
-        "hazards": null,
-        "date_msds_expires": "June 17, 2025",
-        "filename": "Boceprevir_GP0844_2022-06-17_reviewed.pdf"
-    },
-    {
-        "name": "Fyrite CO2 indicator fluid refill",
-        "category": "Other Chemicals",
-        "hazards": "corrosive. poisonous",
-        "date_msds_expires": "November 15, 2024",
-        "filename": "FyriteCO2_SDS.pdf"
-    },
-    {
-        "name": "Tipranavir from MedChem Express",
-        "category": "Antiviral Drugs/Standards",
-        "hazards": "Irritating to eyes, respitory system and eyes",
-        "date_msds_expires": "November 22, 2026",
-        "filename": "MedChemExpress_Tipranavir_HY15148_exp22NOV2026-signed.pdf"
-    },
-    {
-        "name": "Silicone Oil",
-        "category": "Other Chemicals",
-        "hazards": "not WHMIS controlled",
-        "date_msds_expires": "April 29, 2024",
-        "filename": "Silicone oil_Sigma_MSDS_2021-04-29.pdf"
+        "name": "Dimethyl Sulfoxide (DMSO), Hybri-Max",
+        "category": "IDC Specimen Processing",
+        "hazards": "combustible",
+        "date_msds_expires": "July 01, 2026",
+        "filename": "Sigma_DMSO_D2650_exp01JUL2026-signed.pdf"
     },
     {
         "name": "Dimethyl sulfoxide (DMSO), CHROMASOLV Plus for HPLC",
@@ -889,39 +441,32 @@
         "filename": "DMSO_MSDS_2021-10-08.pdf"
     },
     {
-        "name": "Truvada",
+        "name": "Dolutegravir",
         "category": "Antiviral Drugs/Standards",
-        "hazards": "Causes serious eye damage",
-        "date_msds_expires": "May 04, 2025",
-        "filename": "Truvada_revised2016_revised190211_revised220504.pdf"
+        "hazards": "Toxic, harmful if swallowed",
+        "date_msds_expires": "July 27, 2024",
+        "filename": "ChemScene_Dolutegravir_exp27Jul2024-signed.pdf"
     },
     {
-        "name": "SeqCap EZ Accessory Kit v2",
-        "category": "NGS Sequencing",
-        "hazards": null,
-        "date_msds_expires": "March 20, 2025",
-        "filename": "Roche_SeqCap EZ Accessory Kit v2_exp20Mar2025-signed.pdf"
-    },
-    {
-        "name": "Abacavir Sulfate",
+        "name": "Dolutegravir-D5,C13",
         "category": "Antiviral Drugs/Standards",
-        "hazards": "Eye irritation, Skin sensitisation, Germ cell mutagenicity, Carcinogenicity, Reproductive toxicity",
-        "date_msds_expires": "August 19, 2025",
-        "filename": "Abacavir (sulfate)_CS-2023_19Aug2025.pdf"
+        "hazards": "Warning!  Very toxic to aquatic life with long lasting effects",
+        "date_msds_expires": "November 16, 2023",
+        "filename": "[13C,-2H5]-DOLUTEGRAVIR_C4671_2020-11-16.pdf"
     },
     {
-        "name": "Red-Z",
-        "category": "Safety/Emergency",
-        "hazards": null,
-        "date_msds_expires": "February 12, 2024",
-        "filename": "Safetec_RED_Z_SDS.pdf"
+        "name": "Doravirine",
+        "category": "Antiviral Drugs/Standards",
+        "hazards": "Skin corrosion, serious eye damage, specific target organ toxicity- single exposure, respiratory system",
+        "date_msds_expires": "June 28, 2024",
+        "filename": "Doravirine_CS-5924_2021-06-28.pdf"
     },
     {
-        "name": "Tris-buffered saline (TBS), pH 7.4",
-        "category": "Other Chemicals",
+        "name": "Dulbecco's Phosphate-Buffered Saline (DPBS), 1X",
+        "category": "Quant",
         "hazards": null,
-        "date_msds_expires": "March 09, 2026",
-        "filename": "TRIS-buffered_saline_(TBS__10X_MTR_CLP1_J62938_reviewed_09March2026.pdf"
+        "date_msds_expires": "February 10, 2026",
+        "filename": "Thermo_DPBS_exp10Feb2026-signed.pdf"
     },
     {
         "name": "Dynabeads Protein A",
@@ -938,18 +483,333 @@
         "filename": "10004D_Dynabeads Protein G_MSDS_2021-02-22.pdf"
     },
     {
-        "name": "Methanol, LCMS grade",
-        "category": "TDM",
-        "hazards": "highly flammable, toxic",
-        "date_msds_expires": "July 26, 2025",
-        "filename": "MeOH_34966-4X4L_SDS_CA_E_2019-09-06.pdf"
+        "name": "E-Gel Low Range Quantitative DNA Ladder",
+        "category": "Gels",
+        "hazards": null,
+        "date_msds_expires": "March 22, 2025",
+        "filename": "EGel_low range_123730311F_2022-03-22.pdf"
     },
     {
-        "name": "Tris, 1M, pH 8.0",
+        "name": "EDTA Solution, pH 8.0, 0.5M",
+        "category": "3730 Sequencing",
+        "hazards": "irritant, Organ toxicity",
+        "date_msds_expires": "February 15, 2025",
+        "filename": "EDTA_solution_pH8_05M_Sigma_MSDS_2022-02-15.pdf"
+    },
+    {
+        "name": "Efavirenz",
+        "category": "Antiviral Drugs/Standards",
+        "hazards": "toxic, irritant, reproductive hazard",
+        "date_msds_expires": "October 12, 2024",
+        "filename": "Efavirenz_sml0536_2021oct12.pdf"
+    },
+    {
+        "name": "Electrolyte Solution KCl 3 mol/L",
+        "category": "TDM",
+        "hazards": null,
+        "date_msds_expires": "August 09, 2025",
+        "filename": "Electrolyte_KCl_3_mol_l_2022-08-09.pdf"
+    },
+    {
+        "name": "Elvitegravir",
+        "category": "Antiviral Drugs/Standards",
+        "hazards": "Skin corrosion, Serious eye damage/irritation",
+        "date_msds_expires": "February 13, 2026",
+        "filename": "Chemscene_Elvitegravir_exp13Feb2026-signed.pdf"
+    },
+    {
+        "name": "Elvitegravir-d6",
+        "category": "Antiviral Drugs/Standards",
+        "hazards": "Toxic",
+        "date_msds_expires": "January 12, 2024",
+        "filename": "EVG-D6_E509002MSDS.pdf"
+    },
+    {
+        "name": "Emtricitabine (FTC) - USP Reference Standard",
+        "category": "Antiviral Drugs/Standards",
+        "hazards": "Not considered a hazard with std use",
+        "date_msds_expires": "June 25, 2024",
+        "filename": "Emtricitabine_2021-06-25.pdf"
+    },
+    {
+        "name": "Ethanol (Ethyl Alcohol), 95% - Commercial Alcohols",
+        "category": "3730 Sequencing",
+        "hazards": "flammable",
+        "date_msds_expires": "November 05, 2024",
+        "filename": "Ethyl Alcohol (95% VOL)_P016EA95_2021Mar24.pdf"
+    },
+    {
+        "name": "Ethanol (Ethyl Alcohol), Anhydrous - Commercial Alcohols",
+        "category": "NGS Sequencing",
+        "hazards": "flammable",
+        "date_msds_expires": "February 12, 2024",
+        "filename": "Ethyl-Alcohol-Anhydrous_MSDS_2021_02_12.pdf"
+    },
+    {
+        "name": "Etravirine (Chemscene)",
+        "category": "Antiviral Drugs/Standards",
+        "hazards": "Acute toxicity",
+        "date_msds_expires": "July 22, 2024",
+        "filename": "ETV-0435_2021-07-22.pdf"
+    },
+    {
+        "name": "Etravirine-d8",
+        "category": "Antiviral Drugs/Standards",
+        "hazards": "Harmful if swallowed",
+        "date_msds_expires": "June 25, 2024",
+        "filename": "Etravirine-d8_2021-06-25.pdf"
+    },
+    {
+        "name": "Expand HiFi Buffer 2, 10X w/ MgCl2",
+        "category": "PCR",
+        "hazards": null,
+        "date_msds_expires": "June 17, 2025",
+        "filename": "ExpandHiFi_MSDS_2022-06-17_reviewed.pdf"
+    },
+    {
+        "name": "Expand HiFi Enzyme Mix",
+        "category": "PCR",
+        "hazards": null,
+        "date_msds_expires": "June 17, 2025",
+        "filename": "ExpandHiFi_MSDS_2022-06-17_reviewed.pdf"
+    },
+    {
+        "name": "Expand HiFi MgCl2 Stock Solution, 25mM",
+        "category": "PCR",
+        "hazards": null,
+        "date_msds_expires": "June 17, 2025",
+        "filename": "ExpandHiFi_MSDS_2022-06-17_reviewed.pdf"
+    },
+    {
+        "name": "Extran MA 01",
+        "category": "Disinfectants",
+        "hazards": "Corrosive",
+        "date_msds_expires": "November 30, 2024",
+        "filename": "Extran MA 01_107555_30Nov2024.PDF"
+    },
+    {
+        "name": "Fetal Bovine Serum (FBS)",
+        "category": "IDC Specimen Processing",
+        "hazards": null,
+        "date_msds_expires": "May 19, 2024",
+        "filename": "12-May-2021_FBS_Jul-2015.pdf"
+    },
+    {
+        "name": "Fetal Bovine Serum (FBS), Heat Inactivated (Gibco)",
+        "category": "IDC Specimen Processing",
+        "hazards": null,
+        "date_msds_expires": "May 26, 2024",
+        "filename": "FBS_HI_2021-05-26_12484028_MTR-NALT_EN.pdf"
+    },
+    {
+        "name": "Ficoll-Paque PLUS",
+        "category": "IDC Specimen Processing",
+        "hazards": null,
+        "date_msds_expires": "March 09, 2026",
+        "filename": "Ficoll-Paque PLUS, 6 x 100 ml_17-1440-02_reviewed_9March2026.pdf"
+    },
+    {
+        "name": "Fluoresbrite YG Microspheres, 0.1um",
         "category": "Other Chemicals",
         "hazards": null,
-        "date_msds_expires": "July 19, 2024",
-        "filename": "Tris_1M_pH8_AM9856_2021-07-19.pdf"
+        "date_msds_expires": "July 26, 2024",
+        "filename": "Fluoresbrite_SDS.pdf"
+    },
+    {
+        "name": "Fluorescein Sodium Salt",
+        "category": "Quant",
+        "hazards": "None",
+        "date_msds_expires": "February 18, 2025",
+        "filename": "Flrorescein sodium salt_f6377_2022-02-18.pdf"
+    },
+    {
+        "name": "Formic Acid",
+        "category": "TDM",
+        "hazards": "corrosive",
+        "date_msds_expires": "September 12, 2025",
+        "filename": "Formic_Acid_Fluka_reviewed 2022-09-12.pdf"
+    },
+    {
+        "name": "Fyrite CO2 indicator fluid refill",
+        "category": "Other Chemicals",
+        "hazards": "corrosive. poisonous",
+        "date_msds_expires": "November 15, 2024",
+        "filename": "FyriteCO2_SDS.pdf"
+    },
+    {
+        "name": "GeneScan DS-33 Installation Standard",
+        "category": "3730 Sequencing",
+        "hazards": null,
+        "date_msds_expires": "December 27, 2024",
+        "filename": "GeneScan_installation Standard_DS-33_4330399_2021-12-27.pdf"
+    },
+    {
+        "name": "Glycogen, Ultrapure",
+        "category": "Extraction",
+        "hazards": null,
+        "date_msds_expires": "January 18, 2024",
+        "filename": "Glycogen_J16445.pdf"
+    },
+    {
+        "name": "Guanidine Thiocyanate",
+        "category": "Extraction",
+        "hazards": "acute toxic and aquatic hazard ",
+        "date_msds_expires": "June 30, 2024",
+        "filename": "Guanidine thiocyanate_G9277_2022oct08.pdf"
+    },
+    {
+        "name": "Guava ICF Instrument Cleaning Fluid",
+        "category": "Other Chemicals",
+        "hazards": "Causes skin and serious eye irritation",
+        "date_msds_expires": "January 04, 2025",
+        "filename": "Guava_Instrument_cleaning fluid_632805_SDS.PDF"
+    },
+    {
+        "name": "HIV-1 Genotyping Kit Amplification Module",
+        "category": "PCR",
+        "hazards": null,
+        "date_msds_expires": "September 15, 2025",
+        "filename": "ABI_HIV-1_Genotyping_exp15Sep2025-signed.zip"
+    },
+    {
+        "name": "HIV-1 Genotyping Kit Cycle Sequencing",
+        "category": "3730 Sequencing",
+        "hazards": null,
+        "date_msds_expires": "March 22, 2024",
+        "filename": "Thermo_CycleSequencing_22MAR2021.pdf"
+    },
+    {
+        "name": "Hi-Di Formamide",
+        "category": "3730 Sequencing",
+        "hazards": "Toxic",
+        "date_msds_expires": "May 10, 2024",
+        "filename": "11-May-2021_HiDi_Formamide-May-2021.pdf"
+    },
+    {
+        "name": "Holland 1",
+        "category": "TDM",
+        "hazards": null,
+        "date_msds_expires": "June 02, 2025",
+        "filename": "SAFETY DATA SHEET_lyophilized_EQA_2019_04_29_reviewed02-Jun-2022.docx"
+    },
+    {
+        "name": "Holland 2",
+        "category": "TDM",
+        "hazards": null,
+        "date_msds_expires": "June 02, 2025",
+        "filename": "SAFETY DATA SHEET_lyophilized_EQA_2019_04_29_reviewed02-Jun-2022.docx"
+    },
+    {
+        "name": "Home Defense Max Insecticide",
+        "category": "Other Chemicals",
+        "hazards": null,
+        "date_msds_expires": "November 15, 2024",
+        "filename": "ORTHO_HOME_DEFENSE_MAX_INSECT_KILLER_FOR_INDOOR_&_PERIMETER_SDS.pdf"
+    },
+    {
+        "name": "Human AB Serum Negative for HBsAG, HIV 1/2, HCV",
+        "category": "IDC Specimen Processing",
+        "hazards": null,
+        "date_msds_expires": "February 22, 2025",
+        "filename": "HumanBiologicalFluids_SDS_2022-02-22.pdf"
+    },
+    {
+        "name": "Human Cot-1 DNA ",
+        "category": "Other Chemicals",
+        "hazards": null,
+        "date_msds_expires": "October 06, 2025",
+        "filename": "Human Cot-1 DNA_15279011_2022-10-06.pdf"
+    },
+    {
+        "name": "Human Plasma, Normal, Pooled, K2 EDTA",
+        "category": "TDM",
+        "hazards": "potentially infectious",
+        "date_msds_expires": "January 05, 2025",
+        "filename": "HumanBiologicalFluids_SDS_2022-01-05.pdf"
+    },
+    {
+        "name": "Human Plasma, Normal, Pooled, K3 EDTA",
+        "category": "TDM",
+        "hazards": null,
+        "date_msds_expires": "January 05, 2025",
+        "filename": "HumanBiologicalFluids_SDS_2022-01-05.pdf"
+    },
+    {
+        "name": "Humonitor Humidity indicator cards",
+        "category": "Other Chemicals",
+        "hazards": "very toxic and toxic for environment ",
+        "date_msds_expires": "February 05, 2025",
+        "filename": "Humonitor humidity indicator cards_z163449_20220205.pdf"
+    },
+    {
+        "name": "IDT for Illumina DNA/RNA UD Indexes Set A, Tagmentation",
+        "category": "NGS Sequencing",
+        "hazards": null,
+        "date_msds_expires": "February 17, 2026",
+        "filename": "20025019_20027213_96DNARNA UDP indx setA_rwd_17Feb 2026.pdf"
+    },
+    {
+        "name": "IPB, DNA Prep, PCR & Buffer",
+        "category": "NGS Sequencing",
+        "hazards": "Tagm. buffer: harmful if inhaled, causes serious eye irritation, may cause cancer",
+        "date_msds_expires": "February 17, 2026",
+        "filename": "IPB, DNA Prep, PCR & Buffer_20049005_17feb2026.zip"
+    },
+    {
+        "name": "Indinavir - USP Reference Standard",
+        "category": "Antiviral Drugs/Standards",
+        "hazards": "irritant",
+        "date_msds_expires": "January 12, 2024",
+        "filename": "IDV_1339178.pdf"
+    },
+    {
+        "name": "Instand 1",
+        "category": "TDM",
+        "hazards": null,
+        "date_msds_expires": "June 02, 2025",
+        "filename": "SAFETY DATA SHEET_lyophilized_EQA_2019_04_29_reviewed02-Jun-2022.docx"
+    },
+    {
+        "name": "Instand 2",
+        "category": "TDM",
+        "hazards": null,
+        "date_msds_expires": "June 02, 2025",
+        "filename": "SAFETY DATA SHEET_lyophilized_EQA_2019_04_29_reviewed02-Jun-2022.docx"
+    },
+    {
+        "name": "Isopropanol (2-Propanol), HPLC grade",
+        "category": "TDM",
+        "hazards": "flammable, toxic",
+        "date_msds_expires": "December 24, 2024",
+        "filename": "2-PROPANOL-HISTO-4L-2021-12-24.pdf"
+    },
+    {
+        "name": "JumpStart Taq DNA Polyerase",
+        "category": "Other Chemicals",
+        "hazards": null,
+        "date_msds_expires": "March 17, 2025",
+        "filename": "JumpStart-Tac-DNA-Polymeraase_D9307_2022-03-17.pdf"
+    },
+    {
+        "name": "Klentaq LA DNA Polymerase",
+        "category": "PCR",
+        "hazards": null,
+        "date_msds_expires": "January 04, 2026",
+        "filename": "KlentaqLA_v2_exp04Jan2026-signed.pdf"
+    },
+    {
+        "name": "Lambda DNA Standard (100 ug/ml)",
+        "category": "Quant",
+        "hazards": null,
+        "date_msds_expires": "November 08, 2025",
+        "filename": "P7589COMPONENTC_Lamda DNA standard_review_8Nov2022.pdf"
+    },
+    {
+        "name": "Lamivudine (3TC) - USP Reference Standard",
+        "category": "Antiviral Drugs/Standards",
+        "hazards": "toxic, irritant, weak mutagen",
+        "date_msds_expires": "September 26, 2026",
+        "filename": "USP_3TC_1356836_exp26Sep2026-signed.pdf"
     },
     {
         "name": "Ledipasvir 10 mM from MedChem",
@@ -959,46 +819,88 @@
         "filename": "MedChem_Ledipasvir_exp27Jul2024-signed.pdf"
     },
     {
-        "name": "Nextera XT Index Kit v2 Set D (96 indexes)",
-        "category": "NGS Sequencing",
+        "name": "Leybonol Mineral Oil",
+        "category": "TDM",
         "hazards": null,
-        "date_msds_expires": "December 09, 2025",
-        "filename": "NXTR  XT IDX Kt v2_reviewed_9Dec2025.zip"
+        "date_msds_expires": "October 04, 2024",
+        "filename": "Leybonol LVO100_2021-10-04.pdf"
     },
     {
-        "name": "0.1 - 2 Kb RNA Ladder",
-        "category": "PCR",
-        "hazards": "None",
-        "date_msds_expires": "May 11, 2024",
-        "filename": "12-May-2021_RNA_Ladder-May-2020.pdf"
-    },
-    {
-        "name": "Vacuum Grease, Silicone",
-        "category": "Other Chemicals",
-        "hazards": "Not hazardous",
-        "date_msds_expires": "May 19, 2024",
-        "filename": "12-May-2021_silicone_grease-Dec-2018.pdf"
-    },
-    {
-        "name": "Chloramphenicol",
-        "category": "Tissue Culture",
-        "hazards": "Carcinogen, mutagen",
-        "date_msds_expires": "March 29, 2025",
-        "filename": "Chloramphenicol_c0378_29March2025.pdf"
-    },
-    {
-        "name": "TruSeq RNA Access Coding Transcriptome",
-        "category": "Extraction",
+        "name": "Lime-A-Way",
+        "category": "Disinfectants",
         "hazards": null,
-        "date_msds_expires": "January 27, 2026",
-        "filename": "TruSeq RNA Access, Coding Transcriptome( Oligo Kit)_15052314_reviwed_27Jan2026.zip"
+        "date_msds_expires": "July 26, 2025",
+        "filename": "SDS_Lime-A-Way_2016-06-02.pdf"
     },
     {
-        "name": "Cabotegravir",
+        "name": "Liqui-Jet 2 - Steris Canada",
+        "category": "Disinfectants",
+        "hazards": "Causes serious eye and skin damage",
+        "date_msds_expires": "October 18, 2025",
+        "filename": "Liqui-Jet2 2022-Oct-18_reviewed.zip"
+    },
+    {
+        "name": "Liquinox phosphate-free liquid detergent",
+        "category": "Disinfectants",
+        "hazards": null,
+        "date_msds_expires": "August 01, 2025",
+        "filename": "z273279-Liqui-nox phosphate-free liquid detergent_01Aug2022.pdf"
+    },
+    {
+        "name": "Lopinavir (LPV)",
         "category": "Antiviral Drugs/Standards",
-        "hazards": "Harmful if swallowed, very toxic to aquatic life with long lasting effects",
-        "date_msds_expires": "February 26, 2024",
-        "filename": "Cabotegravir_combined_2021-02-26.pdf"
+        "hazards": "Harmful if swollowed, in contact with skin, if inhaled",
+        "date_msds_expires": "June 17, 2025",
+        "filename": "LPV_EN-GP6351_2022-06-17_Reviewed.pdf"
+    },
+    {
+        "name": "Lymphoprep",
+        "category": "Other Chemicals",
+        "hazards": null,
+        "date_msds_expires": "March 11, 2025",
+        "filename": "Lymphoprep_SDS_11MAR2022.pdf"
+    },
+    {
+        "name": "MS Chemical Kit 1, Low-High Conc. PPGs",
+        "category": "TDM",
+        "hazards": "flammable, toxic",
+        "date_msds_expires": "June 12, 2024",
+        "filename": "pos_ppg_2_x_10_-7_m_4405233_4406127_12June2024.pdf"
+    },
+    {
+        "name": "Magnesium Chloride Solution, 1M",
+        "category": "3730 Sequencing",
+        "hazards": null,
+        "date_msds_expires": "December 28, 2025",
+        "filename": "Magnesium chloride solution_M1028_28Dec2025.pdf"
+    },
+    {
+        "name": "Magnesium Sulphate, 50mM",
+        "category": "Other Chemicals",
+        "hazards": null,
+        "date_msds_expires": "March 09, 2026",
+        "filename": "MgSO4 Assay_52044_reviewed_9March2026.pdf"
+    },
+    {
+        "name": "Maraviroc",
+        "category": "Antiviral Drugs/Standards",
+        "hazards": null,
+        "date_msds_expires": "January 12, 2024",
+        "filename": "MVC_CS_0366.pdf"
+    },
+    {
+        "name": "Metergoline",
+        "category": "Antiviral Drugs/Standards",
+        "hazards": "toxic",
+        "date_msds_expires": "September 27, 2025",
+        "filename": "Metergoline_m3668_2022sep27.pdf"
+    },
+    {
+        "name": "Methanol, LCMS grade",
+        "category": "TDM",
+        "hazards": "highly flammable, toxic",
+        "date_msds_expires": "July 26, 2025",
+        "filename": "MeOH_34966-4X4L_SDS_CA_E_2019-09-06.pdf"
     },
     {
         "name": "MiSeq v2 Reagent Kit, 300 cycles, Box 1 of 2",
@@ -1008,18 +910,88 @@
         "filename": "MiSeq\u00ae Reagent Kit v2 (300 cycle)_MS-102-2022_reviewed_14Nov2025.zip"
     },
     {
-        "name": "Tenofovir alafenamide (TAF)",
-        "category": "Antiviral Drugs/Standards",
-        "hazards": "Irritating to eyes, respiratory system and skin",
-        "date_msds_expires": "November 30, 2024",
-        "filename": "Tenofovir alafenamide-3366_30Nov2024.pdf"
+        "name": "MiSeq v2 Reagent Kit, 500 & 300 cycles, Box 2 of 2",
+        "category": "NGS Sequencing",
+        "hazards": "may cause skin allergies",
+        "date_msds_expires": "December 28, 2025",
+        "filename": "MiSeq\u00ae v2 Reagent Kit Box 2 of2.zip"
     },
     {
-        "name": "Tris, 1M, pH 8.5",
+        "name": "MiSeq v2 Reagent Kit, 500 cycles, Box 1 of 2",
         "category": "NGS Sequencing",
-        "hazards": "No change noted, 08-Jun-2020",
-        "date_msds_expires": "May 09, 2026",
-        "filename": "Tris_SDS_786-269_09MAY2023.pdf"
+        "hazards": "Toxin, possible mutagen, carcinogen, teratagen",
+        "date_msds_expires": "December 02, 2025",
+        "filename": "MiSeq v2 Reagent Kit, 500 cycles, Box 1 of 2_2Dec2025.zip"
+    },
+    {
+        "name": "Mineral Oil",
+        "category": "Other Chemicals",
+        "hazards": null,
+        "date_msds_expires": "February 02, 2024",
+        "filename": "Mineral Oil_M5904_SDS_2021-02-02.pdf"
+    },
+    {
+        "name": "Minipax absorbent packets",
+        "category": "Other Chemicals",
+        "hazards": "No Hazards",
+        "date_msds_expires": "January 31, 2024",
+        "filename": "Minipax_AdsorbentPackets_SDS.pdf"
+    },
+    {
+        "name": "Multi-Capillary DS-33 Dye Set Matrix Std",
+        "category": "3730 Sequencing",
+        "hazards": null,
+        "date_msds_expires": "December 27, 2024",
+        "filename": "Matrix_Std_DS-33_4345320_2021-12-27.pdf"
+    },
+    {
+        "name": "NEBNEXT RNA Library Prep Kit",
+        "category": "NGS Sequencing",
+        "hazards": null,
+        "date_msds_expires": "April 12, 2025",
+        "filename": "NEBNext Ultra RNA Library Prep Kit_2022-04-12.7z"
+    },
+    {
+        "name": "NEBNext Multiplex Oligos for Illumina (Dual Index Primers Set 1)",
+        "category": "NGS Sequencing",
+        "hazards": null,
+        "date_msds_expires": "April 12, 2025",
+        "filename": "NEBNext Multiplex Oligos for Illumina (Dual Index Primers Set 1)_E7600S_2022-04-12.zip"
+    },
+    {
+        "name": "NEBNext rRNA Depletion Kit",
+        "category": "NGS Sequencing",
+        "hazards": null,
+        "date_msds_expires": "April 12, 2025",
+        "filename": "NEBNext\u00ae rRNA Depletion Kit_E6310_20220412.7z"
+    },
+    {
+        "name": "NEUTRACIT Caustic Neutralizer",
+        "category": "Safety/Emergency",
+        "hazards": "irritant",
+        "date_msds_expires": "July 26, 2025",
+        "filename": "SDS_BAKER 4470-05.pdf"
+    },
+    {
+        "name": "NEUTRASORB Acid Neutralizer",
+        "category": "Safety/Emergency",
+        "hazards": "irritant",
+        "date_msds_expires": "July 19, 2026",
+        "filename": "Avantor_Neutrasorb_exp19Jul2026-signed.pdf"
+    },
+    {
+        "name": "Nevirapine, Anhydrous - USP Reference Standard",
+        "category": "Antiviral Drugs/Standards",
+        "hazards": "toxic, irritant",
+        "date_msds_expires": "October 25, 2026",
+        "filename": "USP_Nevirapine-Anhydrous_1460703_exp25Oct2025-signed.pdf"
+    },
+    {
+        "name": "Nevirapine-d3",
+        "category": "Antiviral Drugs/Standards",
+        "hazards": null,
+        "date_msds_expires": "May 10, 2026",
+        "filename": "ClearSynth_Nevirapine_SDS_10MAY2023.pdf"
     },
     {
         "name": "Nextera XT Index Kit v2 Set A (96 indexes)",
@@ -1043,32 +1015,704 @@
         "filename": "Nextra XT IDX kt v2 set C 96 IDXS_rw_28Dec2025.zip"
     },
     {
-        "name": "Atazanavir Sulfate",
-        "category": "Antiviral Drugs/Standards",
-        "hazards": "Serious eye damage, Specific target organ toxicity",
-        "date_msds_expires": "May 09, 2025",
-        "filename": "ATV-sulfate_cs-1890_reviewed_2022-05-09.pdf"
-    },
-    {
-        "name": "Atazanavir Bisulphate",
-        "category": "Antiviral Drugs/Standards",
+        "name": "Nextera XT Index Kit v2 Set D (96 indexes)",
+        "category": "NGS Sequencing",
         "hazards": null,
-        "date_msds_expires": "August 26, 2024",
-        "filename": "ATV bisulfate_TRC_A790050MSDS.pdf"
+        "date_msds_expires": "December 09, 2025",
+        "filename": "NXTR  XT IDX Kt v2_reviewed_9Dec2025.zip"
     },
     {
-        "name": "Leybonol Mineral Oil",
+        "name": "Nextera XT Library Prep Kit (Box 1)",
+        "category": "NGS Sequencing",
+        "hazards": "Normalization wash-Carcinogenicity, Reproductive toxicity, Specific organ toxicity; Normalization additives-Carcinogenicity, Reproductive toxicity, Specific organ toxicity; Tagment DNA Buffer- eye irritation, carcinogenicity, reproductive toxicity",
+        "date_msds_expires": "November 14, 2025",
+        "filename": "Nextera\u00ae XT DNA Sample Preparation Kit_FC-131-1024_14Nov2025.zip"
+    },
+    {
+        "name": "Nextera XT Library Prep Kit (Box 2)",
+        "category": "NGS Sequencing",
+        "hazards": null,
+        "date_msds_expires": "November 14, 2025",
+        "filename": "Nextera\u00ae XT DNA Sample Preparation Kit_FC-131-1024_14Nov2025.zip"
+    },
+    {
+        "name": "Normal Human Serum",
         "category": "TDM",
         "hazards": null,
-        "date_msds_expires": "October 04, 2024",
-        "filename": "Leybonol LVO100_2021-10-04.pdf"
+        "date_msds_expires": "November 22, 2026",
+        "filename": "Innovative_Research_Human_exp22Nov2026-signed.pdf"
     },
     {
-        "name": "Fetal Bovine Serum (FBS), Heat Inactivated (Gibco)",
+        "name": "NxtScript RT",
+        "category": "PCR",
+        "hazards": null,
+        "date_msds_expires": "February 18, 2025",
+        "filename": "SDS_NxtscriptRT_2022-02-18.pdf"
+    },
+    {
+        "name": "One-Step RT-ddPCR Adv kit",
+        "category": "PCR",
+        "hazards": null,
+        "date_msds_expires": "February 14, 2026",
+        "filename": "Bio-Rad_1864021-1864022_exp14Feb2026-signed.pdf"
+    },
+    {
+        "name": "PfuUltra II Fusion HS DNA Polymerase",
+        "category": "PCR",
+        "hazards": "toxic, irritant",
+        "date_msds_expires": "February 02, 2025",
+        "filename": "PfuUltra II Fusion HS DNA Polymerase_600672_2022feb02.pdf"
+    },
+    {
+        "name": "PhiX  Control v3",
+        "category": "NGS Sequencing",
+        "hazards": null,
+        "date_msds_expires": "April 18, 2026",
+        "filename": "PhiX_v1.1_20Jan2020.pdf"
+    },
+    {
+        "name": "Phosphate-Buffered Saline (PBS), pH 7.4, 1X",
         "category": "IDC Specimen Processing",
         "hazards": null,
-        "date_msds_expires": "May 26, 2024",
-        "filename": "FBS_HI_2021-05-26_12484028_MTR-NALT_EN.pdf"
+        "date_msds_expires": "February 08, 2024",
+        "filename": "PBS_ph74_10010023_MTR-NALT_EN.pdf"
+    },
+    {
+        "name": "Platinum Taq DNA Polymerase High Fidelity",
+        "category": "PCR",
+        "hazards": null,
+        "date_msds_expires": "May 06, 2024",
+        "filename": "Platinum_Taq_52046_2021-05-06.pdf"
+    },
+    {
+        "name": "Poly(ethylene glycol) (PEG-8000)",
+        "category": "NGS Sequencing",
+        "hazards": "Not controlled under WHMIS",
+        "date_msds_expires": "March 12, 2025",
+        "filename": "PEG_P5413_Sigma_MSDS_2022-03-12.pdf"
+    },
+    {
+        "name": "Poly(ethylene glycol) PEG-400",
+        "category": "NGS Sequencing",
+        "hazards": "NA",
+        "date_msds_expires": "June 07, 2024",
+        "filename": "PEG400_202398_MSDS_2021-06-07.pdf"
+    },
+    {
+        "name": "Proguard Hand Cream ",
+        "category": "Disinfectants",
+        "hazards": null,
+        "date_msds_expires": "May 01, 2024",
+        "filename": "Proguard_SDS.pdf"
+    },
+    {
+        "name": "Propylene glycol ",
+        "category": "Other Chemicals",
+        "hazards": null,
+        "date_msds_expires": "April 28, 2025",
+        "filename": "PPG_w294004_2022-04-28.pdf"
+    },
+    {
+        "name": "Protector RNase Inhibitor",
+        "category": "PCR",
+        "hazards": null,
+        "date_msds_expires": "March 08, 2024",
+        "filename": "SDS_Protector_RNase_Inhibitor_2021_03_08.pdf"
+    },
+    {
+        "name": "Purell Hand Sanitizer Refill Pack",
+        "category": "Disinfectants",
+        "hazards": null,
+        "date_msds_expires": "March 05, 2024",
+        "filename": "SDS_Purell_Hand_Sanitizer_2021-03-05.pdf"
+    },
+    {
+        "name": "PwrPOP-7 Polymer",
+        "category": "3730 Sequencing",
+        "hazards": "Causes skin and serious eye irritation",
+        "date_msds_expires": "March 31, 2026",
+        "filename": "PwrPOP-7_ SDS v2.4.pdf"
+    },
+    {
+        "name": "QIAGEN Buffer EB Elution Buffer",
+        "category": "NGS Sequencing",
+        "hazards": null,
+        "date_msds_expires": "March 06, 2026",
+        "filename": "Qiagen_BufferEB_exp06Mar2026-signed.pdf"
+    },
+    {
+        "name": "QIAamp DNA Mini Kit",
+        "category": "Other Chemicals",
+        "hazards": null,
+        "date_msds_expires": "September 18, 2024",
+        "filename": "QIAmpDNAMiniKit.pdf"
+    },
+    {
+        "name": "QX200 EvaGreen ddPCR Supermix",
+        "category": "Other Chemicals",
+        "hazards": null,
+        "date_msds_expires": "March 22, 2024",
+        "filename": "QX200 EvaGreen_HRLS00663_2021-03-22.pdf"
+    },
+    {
+        "name": "Quant-iT PicoGreen dsDNA Reagent",
+        "category": "Quant",
+        "hazards": null,
+        "date_msds_expires": "November 15, 2024",
+        "filename": "P11495_Quant-iT_MSDS_2021-11-15.pdf"
+    },
+    {
+        "name": "Quant-iT RiboGreen RNA Assay Kit",
+        "category": "Quant",
+        "hazards": "Combustible and toxic",
+        "date_msds_expires": "October 17, 2025",
+        "filename": "Quant-it RiboGreen RNA Assay Kit_R11490_2019may31_reviewed.zip"
+    },
+    {
+        "name": "RBC Lysis Solution",
+        "category": "Other Chemicals",
+        "hazards": null,
+        "date_msds_expires": "April 19, 2024",
+        "filename": "00-4333-57_RBC Lysis Buffer 200mL solution_eBioscience_2021April19.pdf"
+    },
+    {
+        "name": "RNAlater",
+        "category": "Extraction",
+        "hazards": "N/A",
+        "date_msds_expires": "January 17, 2026",
+        "filename": "RNAlater_SDS_17JAN2023.pdf"
+    },
+    {
+        "name": "RNAqueous 4PCR: DNA-free RNA Isolation for RT-PCR",
+        "category": "Other Chemicals",
+        "hazards": null,
+        "date_msds_expires": "November 22, 2026",
+        "filename": "Thermo_RNAqueousKit_AM1914_exp22NOV2026-signed.pdf"
+    },
+    {
+        "name": "RNase A",
+        "category": "Other Chemicals",
+        "hazards": null,
+        "date_msds_expires": "September 18, 2024",
+        "filename": "RNaseA.pdf"
+    },
+    {
+        "name": "RNaseOUT Recombinant Ribonuclease Inhibitor",
+        "category": "PCR",
+        "hazards": null,
+        "date_msds_expires": "November 14, 2025",
+        "filename": "RNaseOUT RecombinantRibonucleaseInhibitor_10777019_20190811reviewed.pdf"
+    },
+    {
+        "name": "RPMI-1640 Medium w/ Hepes, L-glutamine",
+        "category": "Other Chemicals",
+        "hazards": null,
+        "date_msds_expires": "January 02, 2024",
+        "filename": "RPMI_1640_ATCC_2021-01-02.pdf"
+    },
+    {
+        "name": "Raltegravir potassium salt",
+        "category": "Antiviral Drugs/Standards",
+        "hazards": "Harmful if swallowed, Very toxic to aquatic life with long lasting effects",
+        "date_msds_expires": "July 23, 2024",
+        "filename": "RAL_potassium_3263_2021-07-23.pdf"
+    },
+    {
+        "name": "Reagent Alcohol, 95% - Surgipath",
+        "category": "Disinfectants",
+        "hazards": "flammable",
+        "date_msds_expires": "February 12, 2024",
+        "filename": "Reagent_Alcohol_95_EN.pdf"
+    },
+    {
+        "name": "Red-Z",
+        "category": "Safety/Emergency",
+        "hazards": null,
+        "date_msds_expires": "February 12, 2024",
+        "filename": "Safetec_RED_Z_SDS.pdf"
+    },
+    {
+        "name": "Reserpine, RES ",
+        "category": "Antiviral Drugs/Standards",
+        "hazards": "toxic",
+        "date_msds_expires": "March 09, 2026",
+        "filename": "Reserpine_83580_reviewed_09March2026.pdf"
+    },
+    {
+        "name": "Ribo-Zero Gold rRNA Removal Kit (Human/Mouse/Rat)",
+        "category": "NGS Sequencing",
+        "hazards": null,
+        "date_msds_expires": "January 27, 2026",
+        "filename": "Ribo-Zero Gold rRNA Removal Kit (HumanMouseRat)_27Jan2026.zip"
+    },
+    {
+        "name": "Rilpivirine (RPV)",
+        "category": "Antiviral Drugs/Standards",
+        "hazards": null,
+        "date_msds_expires": "January 29, 2025",
+        "filename": "Rilpivirine_CS-0440_29Jan2025.pdf"
+    },
+    {
+        "name": "Ritonavir (RTV) - USP Reference Standard",
+        "category": "Antiviral Drugs/Standards",
+        "hazards": "irritant",
+        "date_msds_expires": "January 12, 2024",
+        "filename": "RTV_1604803_2017_Dec_26_1.pdf"
+    },
+    {
+        "name": "Ritonavir-D6",
+        "category": "Antiviral Drugs/Standards",
+        "hazards": "No Data on Hazards available",
+        "date_msds_expires": "November 19, 2023",
+        "filename": "Ritonavir_D6__CS_O_06931__MSDS.pdf"
+    },
+    {
+        "name": "SAR-CoV-2 Standard",
+        "category": "Other Chemicals",
+        "hazards": null,
+        "date_msds_expires": "October 27, 2024",
+        "filename": "SARS_CoV-2_2021-10-27.pdf"
+    },
+    {
+        "name": "SARS-CoV-Negative",
+        "category": "Other Chemicals",
+        "hazards": null,
+        "date_msds_expires": "August 18, 2025",
+        "filename": "Exact Diagnostics SARS-CoV-2 Negative_COV000_18Aug2025.pdf"
+    },
+    {
+        "name": "SOLUSORB Solvent Adsorbent",
+        "category": "Safety/Emergency",
+        "hazards": null,
+        "date_msds_expires": "January 10, 2025",
+        "filename": "Solusorb_Adsorbent_SDS.pdf"
+    },
+    {
+        "name": "SPINKOTE Lubricant for metal threads",
+        "category": "Other Chemicals",
+        "hazards": "Damages fertility or unborn child, mild skin irritation, toxic to aquatic life",
+        "date_msds_expires": "May 19, 2024",
+        "filename": "12-May-2021_spinkote-May-2018.pdf"
+    },
+    {
+        "name": "SYBR Safe DNA Gel Stain",
+        "category": "Gels",
+        "hazards": "Flammable",
+        "date_msds_expires": "May 04, 2025",
+        "filename": "SybrSafe_DNAStain_reviewed220504.pdf"
+    },
+    {
+        "name": "SeqCAP Adapter Kit A",
+        "category": "Other Chemicals",
+        "hazards": null,
+        "date_msds_expires": "March 22, 2025",
+        "filename": "Roche_SeqCap Adapter Kit A_exp22Mar2025-signed.pdf"
+    },
+    {
+        "name": "SeqCap EZ Accessory Kit v2",
+        "category": "NGS Sequencing",
+        "hazards": null,
+        "date_msds_expires": "March 20, 2025",
+        "filename": "Roche_SeqCap EZ Accessory Kit v2_exp20Mar2025-signed.pdf"
+    },
+    {
+        "name": "Silicone Oil",
+        "category": "Other Chemicals",
+        "hazards": "not WHMIS controlled",
+        "date_msds_expires": "April 29, 2024",
+        "filename": "Silicone oil_Sigma_MSDS_2021-04-29.pdf"
+    },
+    {
+        "name": "Simeprevir",
+        "category": "Antiviral Drugs/Standards",
+        "hazards": null,
+        "date_msds_expires": "June 28, 2024",
+        "filename": "SMP_MSDS_CS-0338_2021-06-28.pdf"
+    },
+    {
+        "name": "Sodium Acetate",
+        "category": "3730 Sequencing",
+        "hazards": null,
+        "date_msds_expires": "April 29, 2024",
+        "filename": "Sodium acetate_s8750_2021april29.pdf"
+    },
+    {
+        "name": "Sodium Chloride Solution, 5M",
+        "category": "NGS Sequencing",
+        "hazards": null,
+        "date_msds_expires": "April 23, 2025",
+        "filename": "NaCL_s5150_2022-04-23.pdf"
+    },
+    {
+        "name": "Sodium Hydroxide, 10N Concentrate",
+        "category": "NGS Sequencing",
+        "hazards": "corrosive, causes severe skin burns and eye damage",
+        "date_msds_expires": "December 24, 2024",
+        "filename": "SOD-HYDROX-SOL-CONC-40--100ML.pdf"
+    },
+    {
+        "name": "Sofosbuvir",
+        "category": "Antiviral Drugs/Standards",
+        "hazards": null,
+        "date_msds_expires": "June 17, 2025",
+        "filename": "Sofosbuvir_GP2923_2022-06-17_reviewed.pdf"
+    },
+    {
+        "name": "Softsoap Soothing Aloe Vera Liquid Soap",
+        "category": "Disinfectants",
+        "hazards": "No Hazard",
+        "date_msds_expires": "September 26, 2026",
+        "filename": "Colgate-Palmolive_AloeSoap_v2.2_exp26Sep2026-signed.pdf"
+    },
+    {
+        "name": "Softsoap Soothing Aloe Vera Liquid Soap Refill - 1 Gal",
+        "category": "Disinfectants",
+        "hazards": "No Hazard",
+        "date_msds_expires": "September 26, 2026",
+        "filename": "Colgate-Palmolive_AloeSoap_v2.2_exp26Sep2026-signed.pdf"
+    },
+    {
+        "name": "Softsoap Soothing Aloe Vera Liquid Soap Refill - 1.65L or 2.36L",
+        "category": "Disinfectants",
+        "hazards": "No Hazard",
+        "date_msds_expires": "September 26, 2026",
+        "filename": "Colgate-Palmolive_AloeSoap_v2.2_exp26Sep2026-signed.pdf"
+    },
+    {
+        "name": "Spill-X-A, Acid Neutralizer",
+        "category": "Safety/Emergency",
+        "hazards": "Acute toxicity",
+        "date_msds_expires": "May 04, 2025",
+        "filename": "SDS_Spill-X-A_Reviewed 2022-05-04.pdf"
+    },
+    {
+        "name": "Spill-X-C, Caustic Neutralizer",
+        "category": "Safety/Emergency",
+        "hazards": "Toxic, serious eye damage",
+        "date_msds_expires": "May 04, 2025",
+        "filename": "SDS_Spill-X-C_reviewed_2022-05-04.pdf"
+    },
+    {
+        "name": "Spill-X-S, Solvent Adsorbent",
+        "category": "Safety/Emergency",
+        "hazards": null,
+        "date_msds_expires": "February 02, 2026",
+        "filename": "Spill-X-S_077265_2Feb2026.pdf"
+    },
+    {
+        "name": "Sucrose",
+        "category": "PCR",
+        "hazards": null,
+        "date_msds_expires": "April 17, 2026",
+        "filename": "Sucrose_15-Apr-2023.pdf"
+    },
+    {
+        "name": "SuperScript 2X Reaction Mix",
+        "category": "PCR",
+        "hazards": "None",
+        "date_msds_expires": "July 17, 2026",
+        "filename": "2x-RNX-Mix_51099_MTR-NALT_EN.pdf"
+    },
+    {
+        "name": "SuperScript III Reverse Transcriptase (Enzyme)",
+        "category": "PCR",
+        "hazards": null,
+        "date_msds_expires": "January 08, 2027",
+        "filename": "Thermo_SSIII_58080_exp08Jan2027-signed.pdf"
+    },
+    {
+        "name": "SuperScript IV",
+        "category": "PCR",
+        "hazards": null,
+        "date_msds_expires": "March 11, 2025",
+        "filename": "SDS_SuperscriptIV_2022-May-11.pdf"
+    },
+    {
+        "name": "SuperScript/Platinum High Fidelity Enzyme Mix",
+        "category": "PCR",
+        "hazards": null,
+        "date_msds_expires": "June 01, 2024",
+        "filename": "SSIII-Plat_100005840_MTR-NALT_EN.pdf"
+    },
+    {
+        "name": "SupreDye v3.1",
+        "category": "3730 Sequencing",
+        "hazards": null,
+        "date_msds_expires": "January 31, 2026",
+        "filename": "SupreDye_SDS_V2.4_31-Jan-2023.pdf"
+    },
+    {
+        "name": "Synthetic SARS-CoV-2-RNA Control ",
+        "category": "PCR",
+        "hazards": "Non-hazardous",
+        "date_msds_expires": "July 26, 2025",
+        "filename": "SDS_Twist Synthetic SARS-CoV-2 RNA Control_v8.2 .pdf"
+    },
+    {
+        "name": "T36 Disinfex",
+        "category": "Disinfectants",
+        "hazards": "flammable, toxic",
+        "date_msds_expires": "January 10, 2026",
+        "filename": "T36 Disinfex_Din02231344_review_10Jan2026"
+    },
+    {
+        "name": "TAE Buffer, 50X, UltraPure DNA Typing Grade",
+        "category": "Gels",
+        "hazards": "mild irritant",
+        "date_msds_expires": "October 25, 2026",
+        "filename": "Thermo_50xTAE_exp25Oct2026-signed.pdf"
+    },
+    {
+        "name": "TE Buffer, 20X, RNase-free",
+        "category": "Quant",
+        "hazards": null,
+        "date_msds_expires": "February 17, 2026",
+        "filename": "20X TE buffer RNase free_T11493_rvwd_17fb2026.pdf"
+    },
+    {
+        "name": "TE Buffer, pH 8.0",
+        "category": "Other Chemicals",
+        "hazards": null,
+        "date_msds_expires": "February 15, 2024",
+        "filename": "AM9849_TE Buffer, pH 8.0_15Feb2021.pdf"
+    },
+    {
+        "name": "TOPO TA Cloning Kit for Sequencing",
+        "category": "Other Chemicals",
+        "hazards": null,
+        "date_msds_expires": "June 06, 2024",
+        "filename": "TOPO TA Cloning Kit for Sequencing_06Jun2024.zip"
+    },
+    {
+        "name": "TOPO TA Cloning Kit, pCR 2.1-TOPO Vector",
+        "category": "Other Chemicals",
+        "hazards": null,
+        "date_msds_expires": "June 20, 2026",
+        "filename": "Thermo_Topo_450641-signed.pdf"
+    },
+    {
+        "name": "Telaprevir",
+        "category": "Antiviral Drugs/Standards",
+        "hazards": "Toxic",
+        "date_msds_expires": "January 12, 2024",
+        "filename": "Telaprevir_CS_0285.pdf"
+    },
+    {
+        "name": "Tenofovir (Chemscene)",
+        "category": "Antiviral Drugs/Standards",
+        "hazards": "Harmful if swallowed, causes skin irritation and eye irritation",
+        "date_msds_expires": "December 13, 2024",
+        "filename": "Tenofovir_CS-1609_2021-12-13.pdf"
+    },
+    {
+        "name": "Tenofovir alafenamide (TAF)",
+        "category": "Antiviral Drugs/Standards",
+        "hazards": "Irritating to eyes, respiratory system and skin",
+        "date_msds_expires": "November 30, 2024",
+        "filename": "Tenofovir alafenamide-3366_30Nov2024.pdf"
+    },
+    {
+        "name": "Tenofovir-D6",
+        "category": "Antiviral Drugs/Standards",
+        "hazards": "harmful if swollowed",
+        "date_msds_expires": "February 09, 2024",
+        "filename": "ClearSynth_Tenofovir_SDS_09FEB2021.pdf"
+    },
+    {
+        "name": "Tergitol",
+        "category": "Other Chemicals",
+        "hazards": null,
+        "date_msds_expires": "December 06, 2025",
+        "filename": "Tergitol_np40s_06Dec2025.pdf"
+    },
+    {
+        "name": "Thymol",
+        "category": "IDC Specimen Processing",
+        "hazards": "corrosive, toxic",
+        "date_msds_expires": "November 05, 2024",
+        "filename": "SDS_Thymol_2021-Nov-05.pdf"
+    },
+    {
+        "name": "Tipranavir",
+        "category": "Antiviral Drugs/Standards",
+        "hazards": "irritataing to skin, eyes, respiratory system",
+        "date_msds_expires": "November 22, 2026",
+        "filename": "Chemscene_Tipranavir_CS1210_exp22NOV2026-signed.pdf"
+    },
+    {
+        "name": "Tipranavir from MedChem Express",
+        "category": "Antiviral Drugs/Standards",
+        "hazards": "Irritating to eyes, respitory system and eyes",
+        "date_msds_expires": "November 22, 2026",
+        "filename": "MedChemExpress_Tipranavir_HY15148_exp22NOV2026-signed.pdf"
+    },
+    {
+        "name": "TrackIt 1 Kb Plus DNA Ladder",
+        "category": "Gels",
+        "hazards": null,
+        "date_msds_expires": "March 22, 2025",
+        "filename": "Trackit_ladder_104880851F_2022-03-22.pdf"
+    },
+    {
+        "name": "Triazine Pesticides Standards Mix",
+        "category": "TDM",
+        "hazards": "Flammable, Poisonous, Aspiration",
+        "date_msds_expires": "July 30, 2024",
+        "filename": "Triazine Pesticides Standard Mix_crm48392_2021-07-30.pdf"
+    },
+    {
+        "name": "Trifluoroacetic Acid",
+        "category": "TDM",
+        "hazards": "highly corrosive",
+        "date_msds_expires": "July 18, 2025",
+        "filename": "Sigma_Triluoroacetic_acid_v6.7_18JUL2022.pdf"
+    },
+    {
+        "name": "Tris, 1M, pH 8.0",
+        "category": "Other Chemicals",
+        "hazards": null,
+        "date_msds_expires": "July 19, 2024",
+        "filename": "Tris_1M_pH8_AM9856_2021-07-19.pdf"
+    },
+    {
+        "name": "Tris, 1M, pH 8.5",
+        "category": "NGS Sequencing",
+        "hazards": "No change noted, 08-Jun-2020",
+        "date_msds_expires": "May 09, 2026",
+        "filename": "Tris_SDS_786-269_09MAY2023.pdf"
+    },
+    {
+        "name": "Tris-buffered saline (TBS), pH 7.4",
+        "category": "Other Chemicals",
+        "hazards": null,
+        "date_msds_expires": "March 09, 2026",
+        "filename": "TRIS-buffered_saline_(TBS__10X_MTR_CLP1_J62938_reviewed_09March2026.pdf"
+    },
+    {
+        "name": "Triton X-100",
+        "category": "Other Chemicals",
+        "hazards": null,
+        "date_msds_expires": "September 05, 2025",
+        "filename": "Triton X-100_t8787_05Sep2022.pdf"
+    },
+    {
+        "name": "Trizma Base",
+        "category": "Other Chemicals",
+        "hazards": null,
+        "date_msds_expires": "March 01, 2024",
+        "filename": "Trizmabase_t1503_01March2024.pdf"
+    },
+    {
+        "name": "Trizma Hydrochloride Solution, pH 9.0, 1M",
+        "category": "3730 Sequencing",
+        "hazards": "none",
+        "date_msds_expires": "April 25, 2025",
+        "filename": "Trizma_HCL_t2819_2022-04-25.pdf"
+    },
+    {
+        "name": "Tru Seq RNA Access Capture Reagent",
+        "category": "Other Chemicals",
+        "hazards": "SMB.STREPTAVIDIN MAGNETIC BEADS.-Carcinogenic, Reproductive toxic, Specific target organ toxic",
+        "date_msds_expires": "October 13, 2025",
+        "filename": "TruSeq RNA Access Capture Reagent_15052313_13Oct2025.zip"
+    },
+    {
+        "name": "Tru Seq RNA Access Oligo Kit",
+        "category": "Other Chemicals",
+        "hazards": "GA#-HP3-Skin corrosion, eye irritation; Enhanced PCR mix-Acute toxicity (Oral), specific target organ toxicity; Capture target buffer- Carcinogenicity, Reproductive toxicity, specific target organ toxicity",
+        "date_msds_expires": "January 22, 2025",
+        "filename": "TruSq RNA Accs CDNG_22Jan2025.zip"
+    },
+    {
+        "name": "TruPure Formamide",
+        "category": "3730 Sequencing",
+        "hazards": "Carcinogenic",
+        "date_msds_expires": "March 31, 2026",
+        "filename": "TruPure Formamide SDS_v2.2.pdf"
+    },
+    {
+        "name": "TruSeq RNA Access 12 Index Set A",
+        "category": "Other Chemicals",
+        "hazards": null,
+        "date_msds_expires": "December 09, 2025",
+        "filename": "TruSq RNA Access 12 IDX Set A_9Dec2025.zip"
+    },
+    {
+        "name": "TruSeq RNA Access Coding Transcriptome",
+        "category": "Extraction",
+        "hazards": null,
+        "date_msds_expires": "January 27, 2026",
+        "filename": "TruSeq RNA Access, Coding Transcriptome( Oligo Kit)_15052314_reviwed_27Jan2026.zip"
+    },
+    {
+        "name": "TruSeq RNA Access cDNA Synthesis",
+        "category": "Other Chemicals",
+        "hazards": null,
+        "date_msds_expires": "November 14, 2025",
+        "filename": "TruSeq RNA Access cDNA synthesis_15052309_reviewed_14Nov2025.zip"
+    },
+    {
+        "name": "Truvada",
+        "category": "Antiviral Drugs/Standards",
+        "hazards": "Causes serious eye damage",
+        "date_msds_expires": "May 04, 2025",
+        "filename": "Truvada_revised2016_revised190211_revised220504.pdf"
+    },
+    {
+        "name": "Trypan Blue 0.4% Stain Solution",
+        "category": "IDC Specimen Processing",
+        "hazards": "toxic, carcinogen",
+        "date_msds_expires": "April 26, 2024",
+        "filename": "TrypanBlueT10282_2021-04-26.pdf"
+    },
+    {
+        "name": "Trypsin-EDTA, 0.05%, 1X",
+        "category": "Tissue Culture",
+        "hazards": null,
+        "date_msds_expires": "November 22, 2026",
+        "filename": "Thermo_Trypsin_25300062_exp22NOV2023-signed.pdf"
+    },
+    {
+        "name": "Tween 20 ",
+        "category": "NGS Sequencing",
+        "hazards": null,
+        "date_msds_expires": "January 21, 2024",
+        "filename": "TWEEN 20_SDS_P7949_2021-01-21.pdf"
+    },
+    {
+        "name": "Vacuum Grease, Silicone",
+        "category": "Other Chemicals",
+        "hazards": "Not hazardous",
+        "date_msds_expires": "May 19, 2024",
+        "filename": "12-May-2021_silicone_grease-Dec-2018.pdf"
+    },
+    {
+        "name": "Water LC-MS Grade",
+        "category": "TDM",
+        "hazards": null,
+        "date_msds_expires": "August 09, 2025",
+        "filename": "Water_LCMS grade_09-Aug-2022.pdf"
+    },
+    {
+        "name": "Water, DEPC-treated",
+        "category": "PCR",
+        "hazards": null,
+        "date_msds_expires": "August 18, 2024",
+        "filename": "DEPC-TREATED WATER 1000 ML EACH_AM9922_2021Aug18.pdf"
+    },
+    {
+        "name": "XHO I",
+        "category": "Other Chemicals",
+        "hazards": null,
+        "date_msds_expires": "April 04, 2025",
+        "filename": "SDS_XHOI_2022-04-04.pdf"
+    },
+    {
+        "name": "ZR Viral RNA Kit",
+        "category": "Other Chemicals",
+        "hazards": "Acute Toxicity, Skin Irritation, Eye irritation",
+        "date_msds_expires": "January 10, 2024",
+        "filename": "ZR-Viral-RNA-kit_r1040e_r1041e_20210107.pdf"
     },
     {
         "name": "dATP PCR Grade, Sodium Solution, 20 ml",
@@ -1099,382 +1743,11 @@
         "filename": "dTTP_11889559103_V1_2_2021-03-07.pdf"
     },
     {
-        "name": "NEBNext Multiplex Oligos for Illumina (Dual Index Primers Set 1)",
-        "category": "NGS Sequencing",
-        "hazards": null,
-        "date_msds_expires": "April 12, 2025",
-        "filename": "NEBNext Multiplex Oligos for Illumina (Dual Index Primers Set 1)_E7600S_2022-04-12.zip"
-    },
-    {
-        "name": "Propylene glycol ",
-        "category": "Other Chemicals",
-        "hazards": null,
-        "date_msds_expires": "April 28, 2025",
-        "filename": "PPG_w294004_2022-04-28.pdf"
-    },
-    {
-        "name": "Triton X-100",
-        "category": "Other Chemicals",
-        "hazards": null,
-        "date_msds_expires": "September 05, 2025",
-        "filename": "Triton X-100_t8787_05Sep2022.pdf"
-    },
-    {
-        "name": "SuperScript IV",
-        "category": "PCR",
-        "hazards": null,
-        "date_msds_expires": "March 11, 2025",
-        "filename": "SDS_SuperscriptIV_2022-May-11.pdf"
-    },
-    {
-        "name": "Nevirapine-d3",
-        "category": "Antiviral Drugs/Standards",
-        "hazards": null,
-        "date_msds_expires": "May 10, 2026",
-        "filename": "ClearSynth_Nevirapine_SDS_10MAY2023.pdf"
-    },
-    {
-        "name": "Etravirine-d8",
-        "category": "Antiviral Drugs/Standards",
-        "hazards": "Harmful if swallowed",
-        "date_msds_expires": "June 25, 2024",
-        "filename": "Etravirine-d8_2021-06-25.pdf"
-    },
-    {
-        "name": "Darunavir-d9",
-        "category": "Antiviral Drugs/Standards",
-        "hazards": null,
-        "date_msds_expires": "June 20, 2024",
-        "filename": "DRV-D9_D193502MSDS.pdf"
-    },
-    {
-        "name": "Bictegravir",
-        "category": "Antiviral Drugs/Standards",
-        "hazards": "Toxic, harmful if swallowed",
-        "date_msds_expires": "May 17, 2025",
-        "filename": "BIC_MSDS_S5911_reviewed_2022-05-17.pdf"
-    },
-    {
-        "name": "Ritonavir-D6",
-        "category": "Antiviral Drugs/Standards",
-        "hazards": "No Data on Hazards available",
-        "date_msds_expires": "November 19, 2023",
-        "filename": "Ritonavir_D6__CS_O_06931__MSDS.pdf"
-    },
-    {
-        "name": "Etravirine (Chemscene)",
-        "category": "Antiviral Drugs/Standards",
-        "hazards": "Acute toxicity",
-        "date_msds_expires": "July 22, 2024",
-        "filename": "ETV-0435_2021-07-22.pdf"
-    },
-    {
-        "name": "Raltegravir potassium salt",
-        "category": "Antiviral Drugs/Standards",
-        "hazards": "Harmful if swallowed, Very toxic to aquatic life with long lasting effects",
-        "date_msds_expires": "July 23, 2024",
-        "filename": "RAL_potassium_3263_2021-07-23.pdf"
-    },
-    {
-        "name": "Home Defense Max Insecticide",
-        "category": "Other Chemicals",
-        "hazards": null,
-        "date_msds_expires": "November 15, 2024",
-        "filename": "ORTHO_HOME_DEFENSE_MAX_INSECT_KILLER_FOR_INDOOR_&_PERIMETER_SDS.pdf"
-    },
-    {
-        "name": "Human Plasma, Normal, Pooled, K3 EDTA",
-        "category": "TDM",
-        "hazards": null,
-        "date_msds_expires": "January 05, 2025",
-        "filename": "HumanBiologicalFluids_SDS_2022-01-05.pdf"
-    },
-    {
-        "name": "SPINKOTE Lubricant for metal threads",
-        "category": "Other Chemicals",
-        "hazards": "Damages fertility or unborn child, mild skin irritation, toxic to aquatic life",
-        "date_msds_expires": "May 19, 2024",
-        "filename": "12-May-2021_spinkote-May-2018.pdf"
-    },
-    {
-        "name": "Guava ICF Instrument Cleaning Fluid",
-        "category": "Other Chemicals",
-        "hazards": "Causes skin and serious eye irritation",
-        "date_msds_expires": "January 04, 2025",
-        "filename": "Guava_Instrument_cleaning fluid_632805_SDS.PDF"
-    },
-    {
-        "name": "Atazanavir (sulfate)",
-        "category": "Antiviral Drugs/Standards",
-        "hazards": "Health Hazard, Corrosive ",
-        "date_msds_expires": "May 16, 2025",
-        "filename": "Atazanavir-sulfate-SDS-MedChemExpress_2019-04-03_reviewed2022-05-16.pdf"
-    },
-    {
-        "name": "Tergitol",
-        "category": "Other Chemicals",
-        "hazards": null,
-        "date_msds_expires": "December 06, 2025",
-        "filename": "Tergitol_np40s_06Dec2025.pdf"
-    },
-    {
-        "name": "Triazine Pesticides Standards Mix",
-        "category": "TDM",
-        "hazards": "Flammable, Poisonous, Aspiration",
-        "date_msds_expires": "July 30, 2024",
-        "filename": "Triazine Pesticides Standard Mix_crm48392_2021-07-30.pdf"
-    },
-    {
-        "name": "Softsoap Soothing Aloe Vera Liquid Soap",
-        "category": "Disinfectants",
-        "hazards": "No Hazard",
-        "date_msds_expires": "September 26, 2026",
-        "filename": "Colgate-Palmolive_AloeSoap_v2.2_exp26Sep2026-signed.pdf"
-    },
-    {
-        "name": "Softsoap Soothing Aloe Vera Liquid Soap Refill - 1.65L or 2.36L",
-        "category": "Disinfectants",
-        "hazards": "No Hazard",
-        "date_msds_expires": "September 26, 2026",
-        "filename": "Colgate-Palmolive_AloeSoap_v2.2_exp26Sep2026-signed.pdf"
-    },
-    {
-        "name": "Softsoap Soothing Aloe Vera Liquid Soap Refill - 1 Gal",
-        "category": "Disinfectants",
-        "hazards": "No Hazard",
-        "date_msds_expires": "September 26, 2026",
-        "filename": "Colgate-Palmolive_AloeSoap_v2.2_exp26Sep2026-signed.pdf"
-    },
-    {
-        "name": "ChromSystems MassCheck Anti-HIV Drugs",
-        "category": "TDM",
-        "hazards": null,
-        "date_msds_expires": "June 02, 2025",
-        "filename": "SAFETY DATA SHEET_lyophilized_EQA_2019_04_29_reviewed_2022-06-02.docx"
-    },
-    {
-        "name": "Lime-A-Way",
-        "category": "Disinfectants",
-        "hazards": null,
-        "date_msds_expires": "July 26, 2025",
-        "filename": "SDS_Lime-A-Way_2016-06-02.pdf"
-    },
-    {
-        "name": "Dolutegravir-D5,C13",
-        "category": "Antiviral Drugs/Standards",
-        "hazards": "Warning!  Very toxic to aquatic life with long lasting effects",
-        "date_msds_expires": "November 16, 2023",
-        "filename": "[13C,-2H5]-DOLUTEGRAVIR_C4671_2020-11-16.pdf"
-    },
-    {
-        "name": "Automated Droplet Generation Oil for Probes",
-        "category": "Other Chemicals",
-        "hazards": null,
-        "date_msds_expires": "May 07, 2024",
-        "filename": "Droplet oil HRLS00192-2_MTR_HGHS_EN_2021-05-07.pdf"
-    },
-    {
-        "name": "XHO I",
-        "category": "Other Chemicals",
-        "hazards": null,
-        "date_msds_expires": "April 04, 2025",
-        "filename": "SDS_XHOI_2022-04-04.pdf"
-    },
-    {
         "name": "ddPCR Droplet Reader Oil",
         "category": "Other Chemicals",
         "hazards": null,
         "date_msds_expires": "May 07, 2024",
         "filename": "ddPCR droplet oil HRLS00193_MTR_HGHS_EN_2021-05-07.pdf"
-    },
-    {
-        "name": "Formic Acid",
-        "category": "TDM",
-        "hazards": "corrosive",
-        "date_msds_expires": "September 12, 2025",
-        "filename": "Formic_Acid_Fluka_reviewed 2022-09-12.pdf"
-    },
-    {
-        "name": "Elvitegravir-d6",
-        "category": "Antiviral Drugs/Standards",
-        "hazards": "Toxic",
-        "date_msds_expires": "January 12, 2024",
-        "filename": "EVG-D6_E509002MSDS.pdf"
-    },
-    {
-        "name": "Buffer Solution pH 1.68 (White)",
-        "category": "TDM",
-        "hazards": null,
-        "date_msds_expires": "February 02, 2025",
-        "filename": "pH 1.68 Buffer_910168_02Feb2022.pdf"
-    },
-    {
-        "name": "Doravirine",
-        "category": "Antiviral Drugs/Standards",
-        "hazards": "Skin corrosion, serious eye damage, specific target organ toxicity- single exposure, respiratory system",
-        "date_msds_expires": "June 28, 2024",
-        "filename": "Doravirine_CS-5924_2021-06-28.pdf"
-    },
-    {
-        "name": "1M Tris-HCl, pH 7.5",
-        "category": "Other Chemicals",
-        "hazards": null,
-        "date_msds_expires": "January 25, 2024",
-        "filename": "1M_Tris_pH75_15567027_2021-01-25.pdf"
-    },
-    {
-        "name": "0.1M Sodium Chloride Solution",
-        "category": "Other Chemicals",
-        "hazards": null,
-        "date_msds_expires": "September 13, 2025",
-        "filename": "sds_Sodium Chloride 1 Molar Solution_SS0441_2022-09-13.pdf"
-    },
-    {
-        "name": "40% Potassium Hydroxide (Voges-Proskauer B)",
-        "category": "Other Chemicals",
-        "hazards": "Caustic, harmful if swallowed",
-        "date_msds_expires": "February 22, 2025",
-        "filename": "40%Potassium Hydroxide_SDS_2022-02-22.pdf"
-    },
-    {
-        "name": "Tenofovir-D6",
-        "category": "Antiviral Drugs/Standards",
-        "hazards": "harmful if swollowed",
-        "date_msds_expires": "February 09, 2024",
-        "filename": "ClearSynth_Tenofovir_SDS_09FEB2021.pdf"
-    },
-    {
-        "name": "Human AB Serum Negative for HBsAG, HIV 1/2, HCV",
-        "category": "IDC Specimen Processing",
-        "hazards": null,
-        "date_msds_expires": "February 22, 2025",
-        "filename": "HumanBiologicalFluids_SDS_2022-02-22.pdf"
-    },
-    {
-        "name": "Synthetic SARS-CoV-2-RNA Control ",
-        "category": "PCR",
-        "hazards": "Non-hazardous",
-        "date_msds_expires": "July 26, 2025",
-        "filename": "SDS_Twist Synthetic SARS-CoV-2 RNA Control_v8.2 .pdf"
-    },
-    {
-        "name": "Liquinox phosphate-free liquid detergent",
-        "category": "Disinfectants",
-        "hazards": null,
-        "date_msds_expires": "August 01, 2025",
-        "filename": "z273279-Liqui-nox phosphate-free liquid detergent_01Aug2022.pdf"
-    },
-    {
-        "name": "Desiccant",
-        "category": "TDM",
-        "hazards": "Health Hazard, Environment",
-        "date_msds_expires": "August 30, 2024",
-        "filename": "Desiccator_z163392_2021-08-30.pdf"
-    },
-    {
-        "name": "Ammonium Acetate - Fisher",
-        "category": "TDM",
-        "hazards": null,
-        "date_msds_expires": "January 12, 2024",
-        "filename": "AMMONIUM-ACETATE-HPLC-A639_Fisher.pdf"
-    },
-    {
-        "name": "NxtScript RT",
-        "category": "PCR",
-        "hazards": null,
-        "date_msds_expires": "February 18, 2025",
-        "filename": "SDS_NxtscriptRT_2022-02-18.pdf"
-    },
-    {
-        "name": "Acetonitrile Chromasolv Plus for HPLC, >99.9%",
-        "category": "TDM",
-        "hazards": "Highly flammable, harmful if swallowed or inhaled, causes serious eye irritation aand damage to organs",
-        "date_msds_expires": "December 24, 2024",
-        "filename": "acetonitrile-hplc-fisher-chemical-10.pdf"
-    },
-    {
-        "name": "One-Step RT-ddPCR Adv kit",
-        "category": "PCR",
-        "hazards": null,
-        "date_msds_expires": "February 14, 2026",
-        "filename": "Bio-Rad_1864021-1864022_exp14Feb2026-signed.pdf"
-    },
-    {
-        "name": "Cabotegravir-d5",
-        "category": "Antiviral Drugs/Standards",
-        "hazards": "Acute toxicity; harmful if swallowed or inhaled, in contact with skin",
-        "date_msds_expires": "July 19, 2026",
-        "filename": "Cayman_cabotegravir-d5_31319m_exp19-Jul2026-signed.pdf"
-    },
-    {
-        "name": "SupreDye v3.1",
-        "category": "3730 Sequencing",
-        "hazards": null,
-        "date_msds_expires": "January 31, 2026",
-        "filename": "SupreDye_SDS_V2.4_31-Jan-2023.pdf"
-    },
-    {
-        "name": "ADS 10x CE Running buffer",
-        "category": "3730 Sequencing",
-        "hazards": null,
-        "date_msds_expires": "March 31, 2026",
-        "filename": "ADS 10x CE Running Buffer SDS_v2.2.pdf"
-    },
-    {
-        "name": "TruPure Formamide",
-        "category": "3730 Sequencing",
-        "hazards": "Carcinogenic",
-        "date_msds_expires": "March 31, 2026",
-        "filename": "TruPure Formamide SDS_v2.2.pdf"
-    },
-    {
-        "name": "PwrPOP-7 Polymer",
-        "category": "3730 Sequencing",
-        "hazards": "Causes skin and serious eye irritation",
-        "date_msds_expires": "March 31, 2026",
-        "filename": "PwrPOP-7_ SDS v2.4.pdf"
-    },
-    {
-        "name": "Holland 2",
-        "category": "TDM",
-        "hazards": null,
-        "date_msds_expires": "June 02, 2025",
-        "filename": "SAFETY DATA SHEET_lyophilized_EQA_2019_04_29_reviewed02-Jun-2022.docx"
-    },
-    {
-        "name": "Instand 1",
-        "category": "TDM",
-        "hazards": null,
-        "date_msds_expires": "June 02, 2025",
-        "filename": "SAFETY DATA SHEET_lyophilized_EQA_2019_04_29_reviewed02-Jun-2022.docx"
-    },
-    {
-        "name": "Instand 2",
-        "category": "TDM",
-        "hazards": null,
-        "date_msds_expires": "June 02, 2025",
-        "filename": "SAFETY DATA SHEET_lyophilized_EQA_2019_04_29_reviewed02-Jun-2022.docx"
-    },
-    {
-        "name": "NEBNEXT RNA Library Prep Kit",
-        "category": "NGS Sequencing",
-        "hazards": null,
-        "date_msds_expires": "April 12, 2025",
-        "filename": "NEBNext Ultra RNA Library Prep Kit_2022-04-12.7z"
-    },
-    {
-        "name": "HIV-1 Genotyping Kit Cycle Sequencing",
-        "category": "3730 Sequencing",
-        "hazards": null,
-        "date_msds_expires": "March 22, 2024",
-        "filename": "Thermo_CycleSequencing_22MAR2021.pdf"
-    },
-    {
-        "name": "ZR Viral RNA Kit",
-        "category": "Other Chemicals",
-        "hazards": "Acute Toxicity, Skin Irritation, Eye irritation",
-        "date_msds_expires": "January 10, 2024",
-        "filename": "ZR-Viral-RNA-kit_r1040e_r1041e_20210107.pdf"
     },
     {
         "name": "ddPCR Supermix for Probes (no dUTP)",
@@ -1484,46 +1757,39 @@
         "filename": "12-May-2021_ddPCR_Supermix-Mar-2021.pdf"
     },
     {
-        "name": "Holland 1",
-        "category": "TDM",
-        "hazards": null,
-        "date_msds_expires": "June 02, 2025",
-        "filename": "SAFETY DATA SHEET_lyophilized_EQA_2019_04_29_reviewed02-Jun-2022.docx"
+        "name": "easyMAG Extraction Buffer 1",
+        "category": "Extraction",
+        "hazards": "Guanidinium thiocyanate",
+        "date_msds_expires": "July 26, 2025",
+        "filename": "EasyMag_buffer1_MSDS_2019-03-13.pdf"
     },
     {
-        "name": "TruSeq RNA Access cDNA Synthesis",
-        "category": "Other Chemicals",
+        "name": "easyMAG Extraction Buffer 2",
+        "category": "Extraction",
         "hazards": null,
-        "date_msds_expires": "November 14, 2025",
-        "filename": "TruSeq RNA Access cDNA synthesis_15052309_reviewed_14Nov2025.zip"
+        "date_msds_expires": "July 26, 2025",
+        "filename": "EasyMag_buffer2_MSDS.pdf"
     },
     {
-        "name": "TruSeq RNA Access 12 Index Set A",
-        "category": "Other Chemicals",
+        "name": "easyMAG Extraction Buffer 3",
+        "category": "Extraction",
         "hazards": null,
-        "date_msds_expires": "December 09, 2025",
-        "filename": "TruSq RNA Access 12 IDX Set A_9Dec2025.zip"
+        "date_msds_expires": "July 26, 2025",
+        "filename": "EasyMag_buffer3_MSDS.pdf"
     },
     {
-        "name": "JumpStart Taq DNA Polyerase",
-        "category": "Other Chemicals",
-        "hazards": null,
-        "date_msds_expires": "March 17, 2025",
-        "filename": "JumpStart-Tac-DNA-Polymeraase_D9307_2022-03-17.pdf"
+        "name": "easyMAG Lysis Buffer",
+        "category": "Extraction",
+        "hazards": "Guanidinium thiocyanate",
+        "date_msds_expires": "July 26, 2025",
+        "filename": "EasyMag_lysis_buffer_MSDS_2019-03-13.pdf"
     },
     {
-        "name": "TOPO TA Cloning Kit for Sequencing",
-        "category": "Other Chemicals",
+        "name": "easyMAG Magnetic Silica",
+        "category": "Extraction",
         "hazards": null,
-        "date_msds_expires": "June 06, 2024",
-        "filename": "TOPO TA Cloning Kit for Sequencing_06Jun2024.zip"
-    },
-    {
-        "name": "Human Cot-1 DNA ",
-        "category": "Other Chemicals",
-        "hazards": null,
-        "date_msds_expires": "October 06, 2025",
-        "filename": "Human Cot-1 DNA_15279011_2022-10-06.pdf"
+        "date_msds_expires": "February 12, 2024",
+        "filename": "EasyMag_Silica_MSDS.pdf"
     },
     {
         "name": "mMessage T7 kit",
@@ -1533,276 +1799,10 @@
         "filename": "mMessage_T7_kit_AM1344_22-Feb-2021.7z"
     },
     {
-        "name": "SeqCAP Adapter Kit A",
-        "category": "Other Chemicals",
-        "hazards": null,
-        "date_msds_expires": "March 22, 2025",
-        "filename": "Roche_SeqCap Adapter Kit A_exp22Mar2025-signed.pdf"
-    },
-    {
-        "name": "GeneScan DS-33 Installation Standard",
-        "category": "3730 Sequencing",
-        "hazards": null,
-        "date_msds_expires": "December 27, 2024",
-        "filename": "GeneScan_installation Standard_DS-33_4330399_2021-12-27.pdf"
-    },
-    {
-        "name": "Multi-Capillary DS-33 Dye Set Matrix Std",
-        "category": "3730 Sequencing",
-        "hazards": null,
-        "date_msds_expires": "December 27, 2024",
-        "filename": "Matrix_Std_DS-33_4345320_2021-12-27.pdf"
-    },
-    {
-        "name": "QX200 EvaGreen ddPCR Supermix",
-        "category": "Other Chemicals",
-        "hazards": null,
-        "date_msds_expires": "March 22, 2024",
-        "filename": "QX200 EvaGreen_HRLS00663_2021-03-22.pdf"
-    },
-    {
-        "name": "DNase I",
-        "category": "PCR",
-        "hazards": null,
-        "date_msds_expires": "April 12, 2025",
-        "filename": "DNase I (RNase-Free)_M0303_12Apr2025.pdf"
-    },
-    {
-        "name": "SARS-CoV-Negative",
-        "category": "Other Chemicals",
-        "hazards": null,
-        "date_msds_expires": "August 18, 2025",
-        "filename": "Exact Diagnostics SARS-CoV-2 Negative_COV000_18Aug2025.pdf"
-    },
-    {
-        "name": "SAR-CoV-2 Standard",
-        "category": "Other Chemicals",
-        "hazards": null,
-        "date_msds_expires": "October 27, 2024",
-        "filename": "SARS_CoV-2_2021-10-27.pdf"
-    },
-    {
-        "name": "RNAlater",
-        "category": "Extraction",
-        "hazards": "N/A",
-        "date_msds_expires": "January 17, 2026",
-        "filename": "RNAlater_SDS_17JAN2023.pdf"
-    },
-    {
-        "name": "DNAse-free kit DNase treatment and removal",
-        "category": "PCR",
-        "hazards": null,
-        "date_msds_expires": "February 02, 2024",
-        "filename": "DNAse-free kit DNAse treatment and removal_2021-02-12.pdf"
-    },
-    {
-        "name": "RNase A",
-        "category": "Other Chemicals",
-        "hazards": null,
-        "date_msds_expires": "September 18, 2024",
-        "filename": "RNaseA.pdf"
-    },
-    {
-        "name": "QIAamp DNA Mini Kit",
-        "category": "Other Chemicals",
-        "hazards": null,
-        "date_msds_expires": "September 18, 2024",
-        "filename": "QIAmpDNAMiniKit.pdf"
-    },
-    {
-        "name": "MiSeq v2 Reagent Kit, 500 cycles, Box 1 of 2",
-        "category": "NGS Sequencing",
-        "hazards": "Toxin, possible mutagen, carcinogen, teratagen",
-        "date_msds_expires": "December 02, 2025",
-        "filename": "MiSeq v2 Reagent Kit, 500 cycles, Box 1 of 2_2Dec2025.zip"
-    },
-    {
-        "name": "D-(+)-Trehalose dihydrate",
-        "category": "Other Chemicals",
-        "hazards": null,
-        "date_msds_expires": "October 29, 2025",
-        "filename": "SDS_t5251.pdf"
-    },
-    {
-        "name": "Lymphoprep",
-        "category": "Other Chemicals",
-        "hazards": null,
-        "date_msds_expires": "March 11, 2025",
-        "filename": "Lymphoprep_SDS_11MAR2022.pdf"
-    },
-    {
-        "name": "Agencourt AMPure XP",
-        "category": "NGS Sequencing",
-        "hazards": null,
-        "date_msds_expires": "October 18, 2025",
-        "filename": "AMPure XP_A63880AF_2019Oct15.pdf"
-    },
-    {
-        "name": "HIV-1 Genotyping Kit Amplification Module",
-        "category": "PCR",
-        "hazards": null,
-        "date_msds_expires": "September 15, 2025",
-        "filename": "ABI_HIV-1_Genotyping_exp15Sep2025-signed.zip"
-    },
-    {
-        "name": "SuperScript 2X Reaction Mix",
-        "category": "PCR",
-        "hazards": "None",
-        "date_msds_expires": "July 17, 2026",
-        "filename": "2x-RNX-Mix_51099_MTR-NALT_EN.pdf"
-    },
-    {
-        "name": "Poly(ethylene glycol) PEG-400",
-        "category": "NGS Sequencing",
-        "hazards": "NA",
-        "date_msds_expires": "June 07, 2024",
-        "filename": "PEG400_202398_MSDS_2021-06-07.pdf"
-    },
-    {
-        "name": "1 M Magnesium Sulphate",
-        "category": "Other Chemicals",
-        "hazards": null,
-        "date_msds_expires": "September 13, 2025",
-        "filename": "MgSO4_34276-1L_Fluka_2022-09-13.pdf"
-    },
-    {
-        "name": "Tru Seq RNA Access Capture Reagent",
-        "category": "Other Chemicals",
-        "hazards": "SMB.STREPTAVIDIN MAGNETIC BEADS.-Carcinogenic, Reproductive toxic, Specific target organ toxic",
-        "date_msds_expires": "October 13, 2025",
-        "filename": "TruSeq RNA Access Capture Reagent_15052313_13Oct2025.zip"
-    },
-    {
-        "name": "Tru Seq RNA Access Oligo Kit",
-        "category": "Other Chemicals",
-        "hazards": "GA#-HP3-Skin corrosion, eye irritation; Enhanced PCR mix-Acute toxicity (Oral), specific target organ toxicity; Capture target buffer- Carcinogenicity, Reproductive toxicity, specific target organ toxicity",
-        "date_msds_expires": "January 22, 2025",
-        "filename": "TruSq RNA Accs CDNG_22Jan2025.zip"
-    },
-    {
-        "name": "Big Dye Xterminator Purification Kit",
-        "category": "3730 Sequencing",
-        "hazards": "Tube Xterminator Solution, BTL Xterminator solution-eye irritation;",
-        "date_msds_expires": "April 08, 2024",
-        "filename": "BigDye XTerminator_4376486_2021April08.zip"
-    },
-    {
-        "name": "Agencourt RNAClean XP",
-        "category": "NGS Sequencing",
-        "hazards": null,
-        "date_msds_expires": "May 31, 2026",
-        "filename": "Beckman_RNACleanXP_exp31May2026-signed.pdf"
-    },
-    {
-        "name": "ADS Capillary Regeneration Kit for 3730",
-        "category": "3730 Sequencing",
-        "hazards": "toxic, acidic",
-        "date_msds_expires": "December 01, 2026",
-        "filename": "ADS_Capillary_Regeneration_Kit_exp01DEC2026-signed.pdf"
-    },
-    {
-        "name": "Cederroth Eye Wash, Sterile, 500ml",
-        "category": "Safety/Emergency",
-        "hazards": null,
-        "date_msds_expires": "January 12, 2024",
-        "filename": "Cederrotheyewash_7251A_exp12Oct2024-signed.pdf"
-    },
-    {
-        "name": "Tenofovir (Chemscene)",
-        "category": "Antiviral Drugs/Standards",
-        "hazards": "Harmful if swallowed, causes skin irritation and eye irritation",
-        "date_msds_expires": "December 13, 2024",
-        "filename": "Tenofovir_CS-1609_2021-12-13.pdf"
-    },
-    {
-        "name": "1M Tris-HCL buffer, pH 6.8",
-        "category": "PCR",
-        "hazards": null,
-        "date_msds_expires": "March 09, 2026",
-        "filename": "TRIS__1.0M_Buffer_Solution__pH_6.8_MTR_CLP1_EN_reviewed_9march2026.pdf"
-    },
-    {
-        "name": "TrackIt 1 Kb Plus DNA Ladder",
-        "category": "Gels",
-        "hazards": null,
-        "date_msds_expires": "March 22, 2025",
-        "filename": "Trackit_ladder_104880851F_2022-03-22.pdf"
-    },
-    {
-        "name": "RNAqueous 4PCR: DNA-free RNA Isolation for RT-PCR",
-        "category": "Other Chemicals",
-        "hazards": null,
-        "date_msds_expires": "November 22, 2026",
-        "filename": "Thermo_RNAqueousKit_AM1914_exp22NOV2026-signed.pdf"
-    },
-    {
-        "name": "Water LC-MS Grade",
-        "category": "TDM",
-        "hazards": null,
-        "date_msds_expires": "August 09, 2025",
-        "filename": "Water_LCMS grade_09-Aug-2022.pdf"
-    },
-    {
-        "name": "Magnesium Chloride Solution, 1M",
-        "category": "3730 Sequencing",
-        "hazards": null,
-        "date_msds_expires": "December 28, 2025",
-        "filename": "Magnesium chloride solution_M1028_28Dec2025.pdf"
-    },
-    {
-        "name": "0.1M DTT",
-        "category": "PCR",
-        "hazards": null,
-        "date_msds_expires": "December 30, 2025",
-        "filename": "Dithiothreitol (DTT), 0.1M Solution_707265ML_30Dec2025.pdf"
-    },
-    {
         "name": "phi29 DNA Polymerase",
         "category": "PCR",
         "hazards": null,
         "date_msds_expires": "April 12, 2025",
         "filename": "SDS_phi29DNAPolymerase_2022-04-12.pdf"
-    },
-    {
-        "name": "8N Potassium Hydroxide",
-        "category": "Other Chemicals",
-        "hazards": "Corrosive, Harmful if swallowed, Causes severe skin burns and eye damage",
-        "date_msds_expires": "December 25, 2024",
-        "filename": "Thermo_380625000_exp25Dec2024-signed.pdf"
-    },
-    {
-        "name": "DNA Prep, (M) Tagmentation beads(24 Samples)  ",
-        "category": "NGS Sequencing",
-        "hazards": null,
-        "date_msds_expires": "February 09, 2026",
-        "filename": "DNA Prep, (M) Tagmentation beads(24 Samples)_20015173_rwd_9Feb2026.pdf"
-    },
-    {
-        "name": "DNA Prep, Beads & buffer",
-        "category": "NGS Sequencing",
-        "hazards": "Stop Buffer: causes serious eye damage",
-        "date_msds_expires": "February 09, 2026",
-        "filename": "DNA Prep, Beads & buffer_illumina_20060060_9Feb2026.zip"
-    },
-    {
-        "name": "IPB, DNA Prep, PCR & Buffer",
-        "category": "NGS Sequencing",
-        "hazards": "Tagm. buffer: harmful if inhaled, causes serious eye irritation, may cause cancer",
-        "date_msds_expires": "February 17, 2026",
-        "filename": "IPB, DNA Prep, PCR & Buffer_20049005_17feb2026.zip"
-    },
-    {
-        "name": "IDT for Illumina DNA/RNA UD Indexes Set A, Tagmentation",
-        "category": "NGS Sequencing",
-        "hazards": null,
-        "date_msds_expires": "February 17, 2026",
-        "filename": "20025019_20027213_96DNARNA UDP indx setA_rwd_17Feb 2026.pdf"
-    },
-    {
-        "name": "RPMI-1640 Medium w/ Hepes, L-glutamine",
-        "category": "Other Chemicals",
-        "hazards": null,
-        "date_msds_expires": "January 02, 2024",
-        "filename": "RPMI_1640_ATCC_2021-01-02.pdf"
     }
 ]
