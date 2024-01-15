@@ -1,0 +1,17 @@
+name: Check
+on:
+  schedule:
+    # run every Monday at 8
+    - cron: 0 8 * * 1
+  workflow_dispatch:
+jobs:
+  selfcheck:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Check if last sync older than 7 days
+        run: |
+          if [[ $(python selfcheck.py) != True ]];
+          then
+            fail 1
+          fi
