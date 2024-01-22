@@ -175,6 +175,13 @@
         "filename": "Sigma_Bovine-Serum_exp01Jul2026-signed.pdf"
     },
     {
+        "name": "Ammonium Acetate (Solution)",
+        "category": "TDM",
+        "hazards": "Avoid inhalation, skin and eye contact. Wear PPE.",
+        "date_msds_expires": "May 24, 2026",
+        "filename": "Sigma_AmmoniumAcetate_73594_exp24MAY2026-signed.pdf"
+    },
+    {
         "name": "Ammonium Acetate - Fisher",
         "category": "TDM",
         "hazards": null,
@@ -320,6 +327,13 @@
         "hazards": "Harmful if swallowed, very toxic to aquatic life with long lasting effects",
         "date_msds_expires": "February 26, 2024",
         "filename": "Cabotegravir_combined_2021-02-26.pdf"
+    },
+    {
+        "name": "Cabotegravir-D5 (reagent)",
+        "category": "Antiviral Drugs/Standards",
+        "hazards": null,
+        "date_msds_expires": "July 19, 2026",
+        "filename": "Cayman_cabotegravir-d5_31319m_exp19-Jul2026-signed.pdf"
     },
     {
         "name": "Cabotegravir-d5",
@@ -495,6 +509,13 @@
         "hazards": "irritant, Organ toxicity",
         "date_msds_expires": "February 15, 2025",
         "filename": "EDTA_solution_pH8_05M_Sigma_MSDS_2022-02-15.pdf"
+    },
+    {
+        "name": "Easysep Negative Human CD4 Kit",
+        "category": "Other Chemicals",
+        "hazards": null,
+        "date_msds_expires": "June 10, 2024",
+        "filename": "EasySep_NegCD4_exp10Jun2024.pdf"
     },
     {
         "name": "Efavirenz",
@@ -1043,6 +1064,13 @@
         "filename": "Innovative_Research_Human_exp22Nov2026-signed.pdf"
     },
     {
+        "name": "Nuclease-Free Water (not DEPC-Treated)",
+        "category": "Other Chemicals",
+        "hazards": null,
+        "date_msds_expires": "January 05, 2024",
+        "filename": "Nuclease-Free Water (not DEPC-Treated)_AM9930_Invitrogen_05Jan2024.pdf"
+    },
+    {
         "name": "NxtScript RT",
         "category": "PCR",
         "hazards": null,
@@ -1097,6 +1125,13 @@
         "hazards": "NA",
         "date_msds_expires": "June 07, 2024",
         "filename": "PEG400_202398_MSDS_2021-06-07.pdf"
+    },
+    {
+        "name": "Primers ",
+        "category": "3730 Sequencing",
+        "hazards": null,
+        "date_msds_expires": "March 31, 2026",
+        "filename": "unmodified-dna-oligo_reviewed_31March2026.pdf"
     },
     {
         "name": "Proguard Hand Cream ",
@@ -1204,6 +1239,13 @@
         "filename": "RNaseOUT RecombinantRibonucleaseInhibitor_10777019_20190811reviewed.pdf"
     },
     {
+        "name": "RPMI 1640 Medium, powder",
+        "category": "Other Chemicals",
+        "hazards": null,
+        "date_msds_expires": "December 15, 2023",
+        "filename": "RPMI 1640, Powder_31800105_15Dec2023.pdf"
+    },
+    {
         "name": "RPMI-1640 Medium w/ Hepes, L-glutamine",
         "category": "Other Chemicals",
         "hazards": null,
@@ -1223,6 +1265,41 @@
         "hazards": "flammable",
         "date_msds_expires": "February 12, 2024",
         "filename": "Reagent_Alcohol_95_EN.pdf"
+    },
+    {
+        "name": "Reconstituted ChromSystems MassCheck ",
+        "category": "TDM",
+        "hazards": null,
+        "date_msds_expires": "June 02, 2025",
+        "filename": "SAFETY DATA SHEET_lyophilized_EQA_2019_04_29_reviewed02-Jun-2022.docx"
+    },
+    {
+        "name": "Reconstituted Holland 1",
+        "category": "TDM",
+        "hazards": null,
+        "date_msds_expires": "June 02, 2025",
+        "filename": "SAFETY DATA SHEET_lyophilized_EQA_2019_04_29_reviewed02-Jun-2022.docx"
+    },
+    {
+        "name": "Reconstituted Holland 2",
+        "category": "TDM",
+        "hazards": null,
+        "date_msds_expires": "June 02, 2025",
+        "filename": "SAFETY DATA SHEET_lyophilized_EQA_2019_04_29_reviewed02-Jun-2022.docx"
+    },
+    {
+        "name": "Reconstituted Instand 1",
+        "category": "TDM",
+        "hazards": null,
+        "date_msds_expires": "June 02, 2025",
+        "filename": "SAFETY DATA SHEET_lyophilized_EQA_2019_04_29_reviewed02-Jun-2022.docx"
+    },
+    {
+        "name": "Reconstituted Instand 2",
+        "category": "TDM",
+        "hazards": null,
+        "date_msds_expires": "June 02, 2025",
+        "filename": "SAFETY DATA SHEET_lyophilized_EQA_2019_04_29_reviewed02-Jun-2022.docx"
     },
     {
         "name": "Red-Z",
@@ -1265,6 +1342,13 @@
         "hazards": "No Data on Hazards available",
         "date_msds_expires": "November 19, 2023",
         "filename": "Ritonavir_D6__CS_O_06931__MSDS.pdf"
+    },
+    {
+        "name": "RoboSep Buffer",
+        "category": "IDC Specimen Processing",
+        "hazards": null,
+        "date_msds_expires": "December 11, 2023",
+        "filename": "RoboSep Buffer_Stemcell_20104_11Dec2023.pdf"
     },
     {
         "name": "SAR-CoV-2 Standard",
@@ -1678,6 +1762,13 @@
         "hazards": null,
         "date_msds_expires": "January 21, 2024",
         "filename": "TWEEN 20_SDS_P7949_2021-01-21.pdf"
+    },
+    {
+        "name": "Unmodified DNA Oligo (SDS)",
+        "category": "Primers",
+        "hazards": null,
+        "date_msds_expires": "October 25, 2026",
+        "filename": "IDT_unmodifiedDNAoligo_exp25Oct2026-signed.pdf"
     },
     {
         "name": "Vacuum Grease, Silicone",
