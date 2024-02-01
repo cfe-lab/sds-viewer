@@ -1,8 +1,7 @@
 from datetime import datetime
-from pytz import timezone
 
 
 with open('timestamp', 'r') as timestamp:
-    updated = datetime.fromisoformat(timestamp.readline())
-    current = datetime.now(timezone('America/Vancouver'))
+    updated = datetime.fromtimestamp(int(timestamp.readline()))
+    current = datetime.utcnow()
     print((current - updated).days < 8)
