@@ -1,7 +1,8 @@
+import time
 from datetime import datetime
 
 
 with open('timestamp', 'r') as timestamp:
-    updated = datetime.fromtimestamp(float(timestamp.readline()))
-    current = datetime.utcnow()
-    print((current - updated).days < 8)
+    updated = float(timestamp.readline())
+    current = time.time()
+    print((current - updated) / 86400 < 8)
