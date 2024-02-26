@@ -518,7 +518,7 @@
         "filename": "EasySep_NegCD4_exp10Jun2024.pdf"
     },
     {
-        "name": "Efavirenz",
+        "name": "Efavirenz (EFV)",
         "category": "Antiviral Drugs/Standards",
         "hazards": "toxic, irritant, reproductive hazard",
         "date_msds_expires": "October 12, 2024",
@@ -567,7 +567,7 @@
         "filename": "Ethyl-Alcohol-Anhydrous_MSDS_2021_02_12.pdf"
     },
     {
-        "name": "Etravirine (Chemscene)",
+        "name": "Etravirine ETV (Chemscene)",
         "category": "Antiviral Drugs/Standards",
         "hazards": "Acute toxicity",
         "date_msds_expires": "July 22, 2024",
@@ -1001,7 +1001,7 @@
         "filename": "Avantor_Neutrasorb_exp19Jul2026-signed.pdf"
     },
     {
-        "name": "Nevirapine, Anhydrous - USP Reference Standard",
+        "name": "Nevirapine (NVP), Anhydrous - USP Reference Standard",
         "category": "Antiviral Drugs/Standards",
         "hazards": "toxic, irritant",
         "date_msds_expires": "October 25, 2026",
