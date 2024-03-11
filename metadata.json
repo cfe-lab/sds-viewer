@@ -1305,7 +1305,7 @@
         "name": "Red-Z",
         "category": "Safety/Emergency",
         "hazards": null,
-        "date_msds_expires": "February 28, 2024",
+        "date_msds_expires": "February 28, 2027",
         "filename": "Safetec_Red-Z-exp28Feb2027-signed.pdf"
     },
     {
@@ -1886,7 +1886,7 @@
         "name": "mMessage T7 kit",
         "category": "Other Chemicals",
         "hazards": "Loading Buffer II- Health hazard ( organ toxic, carcinogenic, reproductive toxic); LCPs-Health hazard (oral toxicity, skin corrosion, eye irritation) ",
-        "date_msds_expires": "March 12, 2024",
+        "date_msds_expires": "May 31, 2026",
         "filename": "Thermo_AM1344_exp12Mar2024-signed.pdf"
     },
     {
