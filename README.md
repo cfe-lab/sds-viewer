@@ -2,7 +2,7 @@
 
 [![Check](https://github.com/cfe-lab/sds-viewer/actions/workflows/selfcheck.yml/badge.svg)](https://github.com/cfe-lab/sds-viewer/actions/workflows/selfcheck.yml)
 
-Last update: March 11, 2024
+Last update: March 18, 2024
 
                                                                                                                                                                                                                                                                                                                                                                                                 
 | Name                                                             | Category                  | Hazards                                                                                                                                                                                                                                                 | Expiry Date        | Document       |
@@ -347,7 +347,7 @@ Last update: March 11, 2024
 [63]: files/DMSO_MSDS_2021-10-08.pdf
 [64]: files/ChemScene_Dolutegravir_exp27Jul2024-signed.pdf
 [65]: files/%5B13C%2C-2H5%5D-DOLUTEGRAVIR_C4671_2020-11-16.pdf
-[66]: files/Doravirine_CS-5924_2021-06-28.pdf
+[66]: files/MCE_CS_HY-16767-signed.pdf
 [67]: files/Thermo_DPBS_exp10Feb2026-signed.pdf
 [68]: files/Thermo_DynaBeads-Strep_65305_exp25Jan2025-signed.pdf
 [69]: files/Dynabeads%20Preotin%20A_10002D_24Jan2025.pdf
@@ -460,7 +460,7 @@ Last update: March 11, 2024
 [176]: files/RNaseOUT%20RecombinantRibonucleaseInhibitor_10777019_20190811reviewed.pdf
 [177]: files/RPMI%201640%2C%20Powder_31800105_15Dec2023.pdf
 [178]: files/ATCC_RPMI_exp26Feb2027-signed.pdf
-[179]: files/RAL_potassium_3263_2021-07-23.pdf
+[179]: files/MedChem_HY-10353A_exp13Mar2027-signed.pdf
 [180]: files/Leica_Reagent_Alcohol_exp28Feb2027-signed.pdf
 [181]: files/SAFETY%20DATA%20SHEET_lyophilized_EQA_2019_04_29_reviewed02-Jun-2022.docx
 [182]: files/SAFETY%20DATA%20SHEET_lyophilized_EQA_2019_04_29_reviewed02-Jun-2022.docx
@@ -470,7 +470,7 @@ Last update: March 11, 2024
 [186]: files/Safetec_Red-Z-exp28Feb2027-signed.pdf
 [187]: files/Reserpine_83580_reviewed_09March2026.pdf
 [188]: files/Ribo-Zero%20Gold%20rRNA%20Removal%20Kit%20%28HumanMouseRat%29_27Jan2026.zip
-[189]: files/Rilpivirine_CS-0440_29Jan2025.pdf
+[189]: files/MCE_CS_HY-10574_exp29Jan2025-signed.pdf
 [190]: files/RTV_1604803_2017_Dec_26_1.pdf
 [191]: files/Ritonavir_D6__CS_O_06931__MSDS.pdf
 [192]: files/RoboSep%20Buffer_Stemcell_20104_11Dec2023.pdf
