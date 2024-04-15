@@ -318,8 +318,8 @@
         "name": "Cabotegravir",
         "category": "Antiviral Drugs/Standards",
         "hazards": "Harmful if swallowed, very toxic to aquatic life with long lasting effects",
-        "date_msds_expires": "February 26, 2024",
-        "filename": "Cabotegravir_combined_2021-02-26.pdf"
+        "date_msds_expires": "April 09, 2027",
+        "filename": "CS_CS-5078_Cabotegravir_exp09APR2027-signed.pdf"
     },
     {
         "name": "Cabotegravir-D5 (reagent)",
@@ -360,8 +360,8 @@
         "name": "Cobicistat",
         "category": "Antiviral Drugs/Standards",
         "hazards": "toxic, harmful if swollowed",
-        "date_msds_expires": "December 29, 2023",
-        "filename": "Chemscene-Cobicistat-29DEC2020.pdf"
+        "date_msds_expires": "March 12, 2027",
+        "filename": "MCE_Cobicistat_HY-10493-exp12MAR2027-signed.pdf"
     },
     {
         "name": "Cresol Red",
@@ -542,8 +542,8 @@
         "name": "Elvitegravir-d6",
         "category": "Antiviral Drugs/Standards",
         "hazards": "Toxic",
-        "date_msds_expires": "January 12, 2024",
-        "filename": "EVG-D6_E509002MSDS.pdf"
+        "date_msds_expires": "April 09, 2027",
+        "filename": "LGC_TRC-E509002_exp09APR2027-signed.pdf"
     },
     {
         "name": "Emtricitabine (FTC) - USP Reference Standard",
@@ -696,8 +696,8 @@
         "name": "HIV-1 Genotyping Kit Cycle Sequencing",
         "category": "3730 Sequencing",
         "hazards": null,
-        "date_msds_expires": "March 22, 2024",
-        "filename": "Thermo_CycleSequencing_22MAR2021.pdf"
+        "date_msds_expires": "April 09, 2027",
+        "filename": "Thermo_A32318_Cycle_Sequencing_exp09APR2027-signed.pdf"
     },
     {
         "name": "Hi-Di Formamide",
@@ -780,8 +780,8 @@
         "name": "Indinavir - USP Reference Standard",
         "category": "Antiviral Drugs/Standards",
         "hazards": "irritant",
-        "date_msds_expires": "January 12, 2024",
-        "filename": "IDV_1339178.pdf"
+        "date_msds_expires": "April 09, 2027",
+        "filename": "USP_Indinavir_1339178_exp09APR2027-signed.pdf"
     },
     {
         "name": "Instand 1",
@@ -906,8 +906,8 @@
         "name": "Maraviroc",
         "category": "Antiviral Drugs/Standards",
         "hazards": null,
-        "date_msds_expires": "January 12, 2024",
-        "filename": "MVC_CS_0366.pdf"
+        "date_msds_expires": "March 12, 2027",
+        "filename": "CS_CS-0366_Maraviroc_exp12MAR2027-signed.pdf"
     },
     {
         "name": "Metergoline",
@@ -1207,8 +1207,8 @@
         "name": "RBC Lysis Solution",
         "category": "Other Chemicals",
         "hazards": null,
-        "date_msds_expires": "April 19, 2024",
-        "filename": "00-4333-57_RBC Lysis Buffer 200mL solution_eBioscience_2021April19.pdf"
+        "date_msds_expires": "April 09, 2027",
+        "filename": "Thermo_RBC_00-4333-57_exp09APR2027-signed.pdf"
     },
     {
         "name": "RNAlater",
@@ -1333,8 +1333,8 @@
         "name": "Ritonavir (RTV) - USP Reference Standard",
         "category": "Antiviral Drugs/Standards",
         "hazards": "irritant",
-        "date_msds_expires": "January 12, 2024",
-        "filename": "RTV_1604803_2017_Dec_26_1.pdf"
+        "date_msds_expires": "March 23, 2025",
+        "filename": "USP_Ritonavir_1604803_exp23MAR2025-signed.pdf"
     },
     {
         "name": "Ritonavir-D6",
@@ -1578,8 +1578,8 @@
         "name": "Telaprevir",
         "category": "Antiviral Drugs/Standards",
         "hazards": "Toxic",
-        "date_msds_expires": "January 12, 2024",
-        "filename": "Telaprevir_CS_0285.pdf"
+        "date_msds_expires": "March 12, 2027",
+        "filename": "CS_CS-0285_Telaprevir_exp12MAR2027-signed.pdf"
     },
     {
         "name": "Tenofovir (Chemscene)",
