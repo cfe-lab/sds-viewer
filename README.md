@@ -2,7 +2,7 @@
 
 [![Check](https://github.com/cfe-lab/sds-viewer/actions/workflows/selfcheck.yml/badge.svg)](https://github.com/cfe-lab/sds-viewer/actions/workflows/selfcheck.yml)
 
-Last update: April 15, 2024
+Last update: April 22, 2024
 
                                                                                                                                                                                                                                                                                                                                                                                                 
 | Name                                                             | Category                  | Hazards                                                                                                                                                                                                                                                 | Expiry Date        | Document       |
@@ -42,7 +42,7 @@ Last update: April 15, 2024
 | Bar Keeper's Friend                                              | Other Chemicals           | None                                                                                                                                                                                                                                                    | November 15, 2024  | [📄 open][32]  |
 | Betaine Solution, 5M                                             | PCR                       | None                                                                                                                                                                                                                                                    | June 30, 2024      | [📄 open][33]  |
 | Bictegravir                                                      | Antiviral Drugs/Standards | Toxic, harmful if swallowed                                                                                                                                                                                                                             | May 17, 2025       | [📄 open][34]  |
-| Big Dye Xterminator Purification Kit                             | 3730 Sequencing           | Tube Xterminator Solution, BTL Xterminator solution-eye irritation;                                                                                                                                                                                     | April 08, 2024     | [📄 open][35]  |
+| Big Dye Xterminator Purification Kit                             | 3730 Sequencing           | Tube Xterminator Solution, BTL Xterminator solution-eye irritation;                                                                                                                                                                                     | April 19, 2027     | [📄 open][35]  |
 | BigDye Terminator v3.1 Ready Reaction Mix                        | 3730 Sequencing           | None                                                                                                                                                                                                                                                    | February 28, 2027  | [📄 open][36]  |
 | BigDye v3.1 3730 Sequencing Standards                            | 3730 Sequencing           | None                                                                                                                                                                                                                                                    | June 06, 2025      | [📄 open][37]  |
 | Bleach, Advance                                                  | Disinfectants             | corrosive                                                                                                                                                                                                                                               | June 17, 2025      | [📄 open][38]  |
@@ -207,9 +207,9 @@ Last update: April 15, 2024
 | SYBR Safe DNA Gel Stain                                          | Gels                      | Flammable                                                                                                                                                                                                                                               | May 04, 2025       | [📄 open][197] |
 | SeqCAP Adapter Kit A                                             | Other Chemicals           | None                                                                                                                                                                                                                                                    | March 22, 2025     | [📄 open][198] |
 | SeqCap EZ Accessory Kit v2                                       | NGS Sequencing            | None                                                                                                                                                                                                                                                    | March 20, 2025     | [📄 open][199] |
-| Silicone Oil                                                     | Other Chemicals           | not WHMIS controlled                                                                                                                                                                                                                                    | April 29, 2024     | [📄 open][200] |
+| Silicone Oil                                                     | Other Chemicals           | not WHMIS controlled                                                                                                                                                                                                                                    | July 30, 2026      | [📄 open][200] |
 | Simeprevir                                                       | Antiviral Drugs/Standards | None                                                                                                                                                                                                                                                    | June 28, 2024      | [📄 open][201] |
-| Sodium Acetate                                                   | 3730 Sequencing           | None                                                                                                                                                                                                                                                    | April 29, 2024     | [📄 open][202] |
+| Sodium Acetate                                                   | 3730 Sequencing           | None                                                                                                                                                                                                                                                    | July 19, 2026      | [📄 open][202] |
 | Sodium Chloride Solution, 5M                                     | NGS Sequencing            | None                                                                                                                                                                                                                                                    | April 23, 2025     | [📄 open][203] |
 | Sodium Hydroxide, 10N Concentrate                                | NGS Sequencing            | corrosive, causes severe skin burns and eye damage                                                                                                                                                                                                      | December 24, 2024  | [📄 open][204] |
 | Sofosbuvir                                                       | Antiviral Drugs/Standards | None                                                                                                                                                                                                                                                    | June 17, 2025      | [📄 open][205] |
@@ -316,7 +316,7 @@ Last update: April 15, 2024
 [32]: files/Bar%20Keepers%20Friend_2021-11-15.pdf
 [33]: files/Betaine_B0300_SDS_2021-06-30.pdf
 [34]: files/BIC_MSDS_S5911_reviewed_2022-05-17.pdf
-[35]: files/BigDye%20XTerminator_4376486_2021April08.zip
+[35]: files/Thermo_BigDye_Xterminator_exp19APR2027-signed.pdf
 [36]: files/Thermo_BD_4336913_exp28FEB2027-signed.pdf
 [37]: files/Bigdye_37XX%20BDT%20V3.1%20SEQ%20STD%2CKIT_4336943_reviewed_17eb2026.pdf
 [38]: files/BLEACH_6__-SDS_2022-06-17%20reviewed.pdf
@@ -481,9 +481,9 @@ Last update: April 15, 2024
 [197]: files/SybrSafe_DNAStain_reviewed220504.pdf
 [198]: files/Roche_SeqCap%20Adapter%20Kit%20A_exp22Mar2025-signed.pdf
 [199]: files/Roche_SeqCap%20EZ%20Accessory%20Kit%20v2_exp20Mar2025-signed.pdf
-[200]: files/Silicone%20oil_Sigma_MSDS_2021-04-29.pdf
+[200]: files/MS_SiliconeOil_378372_exp30AUG2026-signed.pdf
 [201]: files/SMP_MSDS_CS-0338_2021-06-28.pdf
-[202]: files/Sodium%20acetate_s8750_2021april29.pdf
+[202]: files/MS_SodiumAcetate_s8750_exp19JUL2026-signed.pdf
 [203]: files/NaCL_s5150_2022-04-23.pdf
 [204]: files/SOD-HYDROX-SOL-CONC-40--100ML.pdf
 [205]: files/Sofosbuvir_GP2923_2022-06-17_reviewed.pdf

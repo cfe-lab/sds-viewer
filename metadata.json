@@ -248,8 +248,8 @@
         "name": "Big Dye Xterminator Purification Kit",
         "category": "3730 Sequencing",
         "hazards": "Tube Xterminator Solution, BTL Xterminator solution-eye irritation;",
-        "date_msds_expires": "April 08, 2024",
-        "filename": "BigDye XTerminator_4376486_2021April08.zip"
+        "date_msds_expires": "April 19, 2027",
+        "filename": "Thermo_BigDye_Xterminator_exp19APR2027-signed.pdf"
     },
     {
         "name": "BigDye Terminator v3.1 Ready Reaction Mix",
@@ -1403,8 +1403,8 @@
         "name": "Silicone Oil",
         "category": "Other Chemicals",
         "hazards": "not WHMIS controlled",
-        "date_msds_expires": "April 29, 2024",
-        "filename": "Silicone oil_Sigma_MSDS_2021-04-29.pdf"
+        "date_msds_expires": "July 30, 2026",
+        "filename": "MS_SiliconeOil_378372_exp30AUG2026-signed.pdf"
     },
     {
         "name": "Simeprevir",
@@ -1417,8 +1417,8 @@
         "name": "Sodium Acetate",
         "category": "3730 Sequencing",
         "hazards": null,
-        "date_msds_expires": "April 29, 2024",
-        "filename": "Sodium acetate_s8750_2021april29.pdf"
+        "date_msds_expires": "July 19, 2026",
+        "filename": "MS_SodiumAcetate_s8750_exp19JUL2026-signed.pdf"
     },
     {
         "name": "Sodium Chloride Solution, 5M",
