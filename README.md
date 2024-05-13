@@ -2,7 +2,7 @@
 
 [![Check](https://github.com/cfe-lab/sds-viewer/actions/workflows/selfcheck.yml/badge.svg)](https://github.com/cfe-lab/sds-viewer/actions/workflows/selfcheck.yml)
 
-Last update: April 22, 2024
+Last update: May 13, 2024
 
                                                                                                                                                                                                                                                                                                                                                                                                 
 | Name                                                             | Category                  | Hazards                                                                                                                                                                                                                                                 | Expiry Date        | Document       |
@@ -256,7 +256,7 @@ Last update: April 22, 2024
 | TruSeq RNA Access Coding Transcriptome                           | Extraction                | None                                                                                                                                                                                                                                                    | January 27, 2026   | [📄 open][246] |
 | TruSeq RNA Access cDNA Synthesis                                 | Other Chemicals           | None                                                                                                                                                                                                                                                    | November 14, 2025  | [📄 open][247] |
 | Truvada                                                          | Antiviral Drugs/Standards | Causes serious eye damage                                                                                                                                                                                                                               | May 04, 2025       | [📄 open][248] |
-| Trypan Blue 0.4% Stain Solution                                  | IDC Specimen Processing   | toxic, carcinogen                                                                                                                                                                                                                                       | April 26, 2024     | [📄 open][249] |
+| Trypan Blue 0.4% Stain Solution                                  | IDC Specimen Processing   | toxic, carcinogen                                                                                                                                                                                                                                       | May 08, 2027       | [📄 open][249] |
 | Trypsin-EDTA, 0.05%, 1X                                          | Tissue Culture            | None                                                                                                                                                                                                                                                    | November 22, 2026  | [📄 open][250] |
 | Tween 20                                                         | NGS Sequencing            | None                                                                                                                                                                                                                                                    | February 21, 2025  | [📄 open][251] |
 | Unmodified DNA Oligo (SDS)                                       | Primers                   | None                                                                                                                                                                                                                                                    | October 25, 2026   | [📄 open][252] |
@@ -530,7 +530,7 @@ Last update: April 22, 2024
 [246]: files/TruSeq%20RNA%20Access%2C%20Coding%20Transcriptome%28%20Oligo%20Kit%29_15052314_reviwed_27Jan2026.zip
 [247]: files/TruSeq%20RNA%20Access%20cDNA%20synthesis_15052309_reviewed_14Nov2025.zip
 [248]: files/Truvada_revised2016_revised190211_revised220504.pdf
-[249]: files/TrypanBlueT10282_2021-04-26.pdf
+[249]: files/MP_Trypan_195532_exp08MAY2027-signed.pdf
 [250]: files/Thermo_Trypsin_25300062_exp22NOV2023-signed.pdf
 [251]: files/Sigma_p7949_exp21Feb2025-signed.pdf
 [252]: files/IDT_unmodifiedDNAoligo_exp25Oct2026-signed.pdf
