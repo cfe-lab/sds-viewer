@@ -581,7 +581,7 @@
         "filename": "Etravirine-d8_2021-06-25.pdf"
     },
     {
-        "name": "Expand HiFi Buffer 2, 10X w/ MgCl2",
+        "name": "Expand HiFi 10X w/ MgCl2 (Buffer 2)",
         "category": "PCR",
         "hazards": null,
         "date_msds_expires": "June 17, 2025",
@@ -703,8 +703,8 @@
         "name": "Hi-Di Formamide",
         "category": "3730 Sequencing",
         "hazards": "Toxic",
-        "date_msds_expires": "May 10, 2024",
-        "filename": "11-May-2021_HiDi_Formamide-May-2021.pdf"
+        "date_msds_expires": "May 13, 2027",
+        "filename": "Thermo_4311320_HiDi_exp13May2027-signed.pdf"
     },
     {
         "name": "Holland 1",
@@ -1109,8 +1109,8 @@
         "name": "Platinum Taq DNA Polymerase High Fidelity",
         "category": "PCR",
         "hazards": null,
-        "date_msds_expires": "May 06, 2024",
-        "filename": "Platinum_Taq_52046_2021-05-06.pdf"
+        "date_msds_expires": "May 13, 2027",
+        "filename": "Thermo_PlatTaq_exp13May2027-signed.pdf"
     },
     {
         "name": "Poly(ethylene glycol) (PEG-8000)",
@@ -1137,8 +1137,8 @@
         "name": "Proguard Hand Cream ",
         "category": "Disinfectants",
         "hazards": null,
-        "date_msds_expires": "May 01, 2024",
-        "filename": "Proguard_SDS.pdf"
+        "date_msds_expires": "May 13, 2027",
+        "filename": "Decon_Proguard_exp13May2027-signed.pdf"
     },
     {
         "name": "Propylene glycol ",
