@@ -2,7 +2,7 @@
 
 [![Check](https://github.com/cfe-lab/sds-viewer/actions/workflows/selfcheck.yml/badge.svg)](https://github.com/cfe-lab/sds-viewer/actions/workflows/selfcheck.yml)
 
-Last update: June 10, 2024
+Last update: July 15, 2024
 
                                                                                                                                                                                                                                                                                                                                                                                                 
 | Name                                                             | Category                  | Hazards                                                                                                                                                                                                                                                 | Expiry Date        | Document       |
@@ -103,7 +103,7 @@ Last update: June 10, 2024
 | Fyrite CO2 indicator fluid refill                                | Other Chemicals           | corrosive. poisonous                                                                                                                                                                                                                                    | November 15, 2024  | [📄 open][93]  |
 | GeneScan DS-33 Installation Standard                             | 3730 Sequencing           | None                                                                                                                                                                                                                                                    | December 27, 2024  | [📄 open][94]  |
 | Glycogen, Ultrapure                                              | Extraction                | None                                                                                                                                                                                                                                                    | May 28, 2027       | [📄 open][95]  |
-| Guanidine Thiocyanate                                            | Extraction                | acute toxic and aquatic hazard                                                                                                                                                                                                                          | June 30, 2024      | [📄 open][96]  |
+| Guanidine Thiocyanate                                            | Extraction                | acute toxic and aquatic hazard                                                                                                                                                                                                                          | April 24, 2027     | [📄 open][96]  |
 | Guava ICF Instrument Cleaning Fluid                              | Other Chemicals           | Causes skin and serious eye irritation                                                                                                                                                                                                                  | January 04, 2025   | [📄 open][97]  |
 | HIV-1 Genotyping Kit Amplification Module                        | PCR                       | None                                                                                                                                                                                                                                                    | September 15, 2025 | [📄 open][98]  |
 | HIV-1 Genotyping Kit Cycle Sequencing                            | 3730 Sequencing           | None                                                                                                                                                                                                                                                    | April 09, 2027     | [📄 open][99]  |
@@ -377,7 +377,7 @@ Last update: June 10, 2024
 [93]: files/FyriteCO2_SDS.pdf
 [94]: files/GeneScan_installation%20Standard_DS-33_4330399_2021-12-27.pdf
 [95]: files/Thermo_Glycogen_exp28MAY2027-signed.pdf
-[96]: files/Guanidine%20thiocyanate_G9277_2022oct08.pdf
+[96]: files/Sigma_Guanidine_G9277_exp24APR2027-signed.pdf
 [97]: files/Guava_Instrument_cleaning%20fluid_632805_SDS.PDF
 [98]: files/ABI_HIV-1_Genotyping_exp15Sep2025-signed.zip
 [99]: files/Thermo_A32318_Cycle_Sequencing_exp09APR2027-signed.pdf
