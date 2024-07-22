@@ -234,8 +234,8 @@
         "name": "Betaine Solution, 5M",
         "category": "PCR",
         "hazards": null,
-        "date_msds_expires": "June 30, 2024",
-        "filename": "Betaine_B0300_SDS_2021-06-30.pdf"
+        "date_msds_expires": "May 24, 2026",
+        "filename": "Sigma_Betaine_b0300_exp24MAY2026-signed.pdf"
     },
     {
         "name": "Bictegravir",
@@ -1655,8 +1655,8 @@
         "name": "Tris, 1M, pH 8.0",
         "category": "Other Chemicals",
         "hazards": null,
-        "date_msds_expires": "July 19, 2024",
-        "filename": "Tris_1M_pH8_AM9856_2021-07-19.pdf"
+        "date_msds_expires": "December 27, 2026",
+        "filename": "Thermo_Tris8__AM9855G_exp27DEC2026-signed.pdf"
     },
     {
         "name": "Tris, 1M, pH 8.5",

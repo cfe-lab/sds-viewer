@@ -2,7 +2,7 @@
 
 [![Check](https://github.com/cfe-lab/sds-viewer/actions/workflows/selfcheck.yml/badge.svg)](https://github.com/cfe-lab/sds-viewer/actions/workflows/selfcheck.yml)
 
-Last update: July 15, 2024
+Last update: July 22, 2024
 
                                                                                                                                                                                                                                                                                                                                                                                                 
 | Name                                                             | Category                  | Hazards                                                                                                                                                                                                                                                 | Expiry Date        | Document       |
@@ -40,7 +40,7 @@ Last update: July 15, 2024
 | Atazanavir Sulfate                                               | Antiviral Drugs/Standards | Serious eye damage, Specific target organ toxicity                                                                                                                                                                                                      | May 09, 2025       | [📄 open][30]  |
 | Automated Droplet Generation Oil for Probes                      | Other Chemicals           | None                                                                                                                                                                                                                                                    | January 09, 2027   | [📄 open][31]  |
 | Bar Keeper's Friend                                              | Other Chemicals           | None                                                                                                                                                                                                                                                    | November 15, 2024  | [📄 open][32]  |
-| Betaine Solution, 5M                                             | PCR                       | None                                                                                                                                                                                                                                                    | June 30, 2024      | [📄 open][33]  |
+| Betaine Solution, 5M                                             | PCR                       | None                                                                                                                                                                                                                                                    | May 24, 2026       | [📄 open][33]  |
 | Bictegravir                                                      | Antiviral Drugs/Standards | Toxic, harmful if swallowed                                                                                                                                                                                                                             | May 17, 2025       | [📄 open][34]  |
 | Big Dye Xterminator Purification Kit                             | 3730 Sequencing           | Tube Xterminator Solution, BTL Xterminator solution-eye irritation;                                                                                                                                                                                     | April 19, 2027     | [📄 open][35]  |
 | BigDye Terminator v3.1 Ready Reaction Mix                        | 3730 Sequencing           | None                                                                                                                                                                                                                                                    | February 28, 2027  | [📄 open][36]  |
@@ -243,7 +243,7 @@ Last update: July 15, 2024
 | TrackIt 1 Kb Plus DNA Ladder                                     | Gels                      | None                                                                                                                                                                                                                                                    | March 22, 2025     | [📄 open][233] |
 | Triazine Pesticides Standards Mix                                | TDM                       | Flammable, Poisonous, Aspiration                                                                                                                                                                                                                        | July 30, 2024      | [📄 open][234] |
 | Trifluoroacetic Acid                                             | TDM                       | highly corrosive                                                                                                                                                                                                                                        | July 18, 2025      | [📄 open][235] |
-| Tris, 1M, pH 8.0                                                 | Other Chemicals           | None                                                                                                                                                                                                                                                    | July 19, 2024      | [📄 open][236] |
+| Tris, 1M, pH 8.0                                                 | Other Chemicals           | None                                                                                                                                                                                                                                                    | December 27, 2026  | [📄 open][236] |
 | Tris, 1M, pH 8.5                                                 | NGS Sequencing            | No change noted, 08-Jun-2020                                                                                                                                                                                                                            | May 09, 2026       | [📄 open][237] |
 | Tris-buffered saline (TBS), pH 7.4                               | Other Chemicals           | None                                                                                                                                                                                                                                                    | March 09, 2026     | [📄 open][238] |
 | Triton X-100                                                     | Other Chemicals           | None                                                                                                                                                                                                                                                    | September 05, 2025 | [📄 open][239] |
@@ -314,7 +314,7 @@ Last update: July 15, 2024
 [30]: files/ATV-sulfate_cs-1890_reviewed_2022-05-09.pdf
 [31]: files/BioRad_DropletOil_exp09JAN2027-signed.pdf
 [32]: files/Bar%20Keepers%20Friend_2021-11-15.pdf
-[33]: files/Betaine_B0300_SDS_2021-06-30.pdf
+[33]: files/Sigma_Betaine_b0300_exp24MAY2026-signed.pdf
 [34]: files/BIC_MSDS_S5911_reviewed_2022-05-17.pdf
 [35]: files/Thermo_BigDye_Xterminator_exp19APR2027-signed.pdf
 [36]: files/Thermo_BD_4336913_exp28FEB2027-signed.pdf
@@ -517,7 +517,7 @@ Last update: July 15, 2024
 [233]: files/Trackit_ladder_104880851F_2022-03-22.pdf
 [234]: files/Triazine%20Pesticides%20Standard%20Mix_crm48392_2021-07-30.pdf
 [235]: files/Sigma_Triluoroacetic_acid_v6.7_18JUL2022.pdf
-[236]: files/Tris_1M_pH8_AM9856_2021-07-19.pdf
+[236]: files/Thermo_Tris8__AM9855G_exp27DEC2026-signed.pdf
 [237]: files/Tris_SDS_786-269_09MAY2023.pdf
 [238]: files/TRIS-buffered_saline_%28TBS__10X_MTR_CLP1_J62938_reviewed_09March2026.pdf
 [239]: files/Triton%20X-100_t8787_05Sep2022.pdf
