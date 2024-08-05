@@ -805,6 +805,13 @@
         "filename": "2-PROPANOL-HISTO-4L-2021-12-24.pdf"
     },
     {
+        "name": "Isopropanol (2-Propanol), Histological",
+        "category": "TDM",
+        "hazards": "flammable, toxic",
+        "date_msds_expires": "December 24, 2024",
+        "filename": "2-PROPANOL-HISTO-4L-POLY.pdf"
+    },
+    {
         "name": "JumpStart Taq DNA Polyerase",
         "category": "Other Chemicals",
         "hazards": null,
