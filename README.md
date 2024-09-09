@@ -2,7 +2,7 @@
 
 [![Check](https://github.com/cfe-lab/sds-viewer/actions/workflows/selfcheck.yml/badge.svg)](https://github.com/cfe-lab/sds-viewer/actions/workflows/selfcheck.yml)
 
-Last update: August 05, 2024
+Last update: September 09, 2024
 
                                                                                                                                                                                                                                                                                                                                                                                                 
 | Name                                                             | Category                  | Hazards                                                                                                                                                                                                                                                 | Expiry Date        | Document       |
@@ -502,7 +502,7 @@ Last update: August 05, 2024
 [217]: files/Thermo_SSIII_Taq_100005841_exp03JUN2027-signed.pdf
 [218]: files/SupreDye_SDS_V2.4_31-Jan-2023.pdf
 [219]: files/SDS_Twist%20Synthetic%20SARS-CoV-2%20RNA%20Control_v8.2%20.pdf
-[220]: files/T36%20Disinfex_Din02231344_review_10Jan2026
+[220]: files/T36%20Disinfex_Din02231344_review_10Jan2026.pdf
 [221]: files/Thermo_50xTAE_exp25Oct2026-signed.pdf
 [222]: files/20X%20TE%20buffer%20RNase%20free_T11493_rvwd_17fb2026.pdf
 [223]: files/Thermo_AM9849_exp28Feb2027-signed.pdf
