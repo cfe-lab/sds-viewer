@@ -206,8 +206,8 @@
         "name": "Atazanavir Bisulphate",
         "category": "Antiviral Drugs/Standards",
         "hazards": null,
-        "date_msds_expires": "August 26, 2024",
-        "filename": "ATV bisulfate_TRC_A790050MSDS.pdf"
+        "date_msds_expires": "January 29, 2027",
+        "filename": "LGC_TRC_Atazanavir_A790050_exp29Jan2027-signed.pdf"
     },
     {
         "name": "Atazanavir Sulfate",
@@ -416,15 +416,15 @@
         "name": "Darunavir-d9",
         "category": "Antiviral Drugs/Standards",
         "hazards": null,
-        "date_msds_expires": "June 20, 2024",
-        "filename": "DRV-D9_D193502MSDS.pdf"
+        "date_msds_expires": "September 12, 2027",
+        "filename": "ChemScene_Dolutegravir_exp27Jul2024-2-signed.pdf"
     },
     {
-        "name": "Desiccant",
+        "name": "Desiccant Cartridge",
         "category": "TDM",
         "hazards": "Health Hazard, Environment",
-        "date_msds_expires": "August 30, 2024",
-        "filename": "Desiccator_z163392_2021-08-30.pdf"
+        "date_msds_expires": "September 04, 2027",
+        "filename": "Sigma_Desiccator_z163392_exp04Sep2027-signed.pdf"
     },
     {
         "name": "Dichloromethane DCM (Methylene Chloride)",
@@ -451,8 +451,8 @@
         "name": "Dolutegravir",
         "category": "Antiviral Drugs/Standards",
         "hazards": "Toxic, harmful if swallowed",
-        "date_msds_expires": "July 27, 2024",
-        "filename": "ChemScene_Dolutegravir_exp27Jul2024-signed.pdf"
+        "date_msds_expires": "September 12, 2027",
+        "filename": "ChemScene_Dolutegravir_exp27Jul2024-2-signed.pdf"
     },
     {
         "name": "Dolutegravir-D5,C13",
@@ -465,8 +465,8 @@
         "name": "Doravirine (DOR)",
         "category": "Antiviral Drugs/Standards",
         "hazards": "Skin corrosion, serious eye damage, specific target organ toxicity- single exposure, respiratory system",
-        "date_msds_expires": "June 28, 2024",
-        "filename": "MCE_CS_HY-16767-signed.pdf"
+        "date_msds_expires": "September 12, 2027",
+        "filename": "Chemscene-Doravirine_exp12Sep2027-signed.pdf"
     },
     {
         "name": "Dulbecco's Phosphate-Buffered Saline (DPBS), 1X",
@@ -549,8 +549,8 @@
         "name": "Emtricitabine (FTC) - USP Reference Standard",
         "category": "Antiviral Drugs/Standards",
         "hazards": "Not considered a hazard with std use",
-        "date_msds_expires": "June 25, 2024",
-        "filename": "Emtricitabine_2021-06-25.pdf"
+        "date_msds_expires": "December 17, 2024",
+        "filename": "USP-Emtricitabine-1235106_exp17Dec2024-signed.pdf"
     },
     {
         "name": "Ethanol (Ethyl Alcohol), 95% - Commercial Alcohols",
@@ -570,15 +570,15 @@
         "name": "Etravirine ETV (Chemscene)",
         "category": "Antiviral Drugs/Standards",
         "hazards": "Acute toxicity",
-        "date_msds_expires": "July 22, 2024",
-        "filename": "ETV-0435_2021-07-22.pdf"
+        "date_msds_expires": "September 12, 2027",
+        "filename": "Chemscene-Etravirine_exp12Sep2027-signed.pdf"
     },
     {
         "name": "Etravirine-d8",
         "category": "Antiviral Drugs/Standards",
         "hazards": "Harmful if swallowed",
-        "date_msds_expires": "June 25, 2024",
-        "filename": "Etravirine-d8_2021-06-25.pdf"
+        "date_msds_expires": "August 27, 2027",
+        "filename": "LGC_TRC-E937003-10MG_27Aug2027-signed.pdf"
     },
     {
         "name": "Expand HiFi 10X w/ MgCl2 (Buffer 2)",
@@ -633,8 +633,8 @@
         "name": "Fluoresbrite YG Microspheres, 0.1um",
         "category": "Other Chemicals",
         "hazards": null,
-        "date_msds_expires": "July 26, 2024",
-        "filename": "Fluoresbrite_SDS.pdf"
+        "date_msds_expires": "September 12, 2027",
+        "filename": "Polysciences_Fluoresbrite_exp12Sep2027-signed.pdf"
     },
     {
         "name": "Fluorescein Sodium Salt",
@@ -840,11 +840,18 @@
         "filename": "USP_3TC_1356836_exp26Sep2026-signed.pdf"
     },
     {
+        "name": "Lamivudine 3TC (reagent)",
+        "category": "TDM",
+        "hazards": "Avoid inhalation, skin and eye contact. Wear PPE.",
+        "date_msds_expires": "March 08, 2027",
+        "filename": "Sigma_Lamivudine_l1295_exp08Mar2027-signed.pdf"
+    },
+    {
         "name": "Ledipasvir 10 mM from MedChem",
         "category": "Antiviral Drugs/Standards",
         "hazards": "Irritating to eyes, respiratory system and skin.",
-        "date_msds_expires": "July 27, 2024",
-        "filename": "MedChem_Ledipasvir_exp27Jul2024-signed.pdf"
+        "date_msds_expires": "December 19, 2026",
+        "filename": "Medchem_Ledipasvir_exp19Dec2026-signed.pdf"
     },
     {
         "name": "Leybonol Mineral Oil",
@@ -1235,8 +1242,8 @@
         "name": "RNase A",
         "category": "Other Chemicals",
         "hazards": null,
-        "date_msds_expires": "September 18, 2024",
-        "filename": "RNaseA.pdf"
+        "date_msds_expires": "September 12, 2027",
+        "filename": "Qiagen_RnaseA_exp12Sep2024-signed.pdf"
     },
     {
         "name": "RNaseOUT Recombinant Ribonuclease Inhibitor",
@@ -1263,7 +1270,7 @@
         "name": "Raltegravir potassium salt",
         "category": "Antiviral Drugs/Standards",
         "hazards": "Harmful if swallowed, Very toxic to aquatic life with long lasting effects",
-        "date_msds_expires": "July 23, 2024",
+        "date_msds_expires": "March 13, 2027",
         "filename": "MedChem_HY-10353A_exp13Mar2027-signed.pdf"
     },
     {
@@ -1407,6 +1414,13 @@
         "filename": "Roche_SeqCap EZ Accessory Kit v2_exp20Mar2025-signed.pdf"
     },
     {
+        "name": "SeqCap HE-Oligo Kit A & Kit B",
+        "category": "Other Chemicals",
+        "hazards": null,
+        "date_msds_expires": "September 12, 2027",
+        "filename": "Roche_SeqCapOligoKitAB_exp12Sep2027.pdf"
+    },
+    {
         "name": "Silicone Oil",
         "category": "Other Chemicals",
         "hazards": "not WHMIS controlled",
@@ -1417,8 +1431,8 @@
         "name": "Simeprevir",
         "category": "Antiviral Drugs/Standards",
         "hazards": null,
-        "date_msds_expires": "June 28, 2024",
-        "filename": "SMP_MSDS_CS-0338_2021-06-28.pdf"
+        "date_msds_expires": "September 12, 2027",
+        "filename": "Chemscene-Simeprivir_exp12Sep2027-signed.pdf"
     },
     {
         "name": "Sodium Acetate",
@@ -1648,8 +1662,8 @@
         "name": "Triazine Pesticides Standards Mix",
         "category": "TDM",
         "hazards": "Flammable, Poisonous, Aspiration",
-        "date_msds_expires": "July 30, 2024",
-        "filename": "Triazine Pesticides Standard Mix_crm48392_2021-07-30.pdf"
+        "date_msds_expires": "November 25, 2026",
+        "filename": "Sigma_Triazine_exp25Nov2026-signed.pdf"
     },
     {
         "name": "Trifluoroacetic Acid",
@@ -1795,8 +1809,8 @@
         "name": "Water, DEPC-treated",
         "category": "PCR",
         "hazards": null,
-        "date_msds_expires": "August 18, 2024",
-        "filename": "DEPC-TREATED WATER 1000 ML EACH_AM9922_2021Aug18.pdf"
+        "date_msds_expires": "September 12, 2027",
+        "filename": "Thermo_DEPC_AM9922_exp12Sep2027-signed.pdf"
     },
     {
         "name": "XHO I",
