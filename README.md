@@ -2,7 +2,7 @@
 
 [![Check](https://github.com/cfe-lab/sds-viewer/actions/workflows/selfcheck.yml/badge.svg)](https://github.com/cfe-lab/sds-viewer/actions/workflows/selfcheck.yml)
 
-Last update: September 16, 2024
+Last update: October 21, 2024
 
                                                                                                                                                                                                                                                                                                                                                                                                 
 | Name                                                             | Category                  | Hazards                                                                                                                                                                                                                                                 | Expiry Date        | Document       |
@@ -16,7 +16,7 @@ Last update: September 16, 2024
 | 1M Tris-HCl, pH 7.5                                              | Other Chemicals           | None                                                                                                                                                                                                                                                    | January 28, 2027   | [📄 open][6]   |
 | 2-Mercaptoethanol                                                | Extraction                | acute toxicity, skin sensitization, organ and reproductive toxicity                                                                                                                                                                                     | July 21, 2025      | [📄 open][7]   |
 | 3730 POP-7 Polymer                                               | 3730 Sequencing           | None                                                                                                                                                                                                                                                    | November 15, 2024  | [📄 open][8]   |
-| 3730 Running Buffer, 10X                                         | 3730 Sequencing           | None                                                                                                                                                                                                                                                    | October 18, 2024   | [📄 open][9]   |
+| 3730 Running Buffer, 10X                                         | 3730 Sequencing           | None                                                                                                                                                                                                                                                    | October 15, 2027   | [📄 open][9]   |
 | 40% Potassium Hydroxide (Voges-Proskauer B)                      | Other Chemicals           | Caustic, harmful if swallowed                                                                                                                                                                                                                           | February 22, 2025  | [📄 open][10]  |
 | 8N Potassium Hydroxide                                           | Other Chemicals           | Corrosive, Harmful if swallowed, Causes severe skin burns and eye damage                                                                                                                                                                                | December 25, 2024  | [📄 open][11]  |
 | ADS 10x CE Running buffer                                        | 3730 Sequencing           | None                                                                                                                                                                                                                                                    | March 31, 2026     | [📄 open][12]  |
@@ -293,7 +293,7 @@ Last update: September 16, 2024
 [6]: files/Thermo_15567027_exp26Feb2027-signed.pdf
 [7]: files/M6250-10ml_21985023_21Jul2025.pdf
 [8]: files/POP7_4363929_MSDS_2021-11-15.pdf
-[9]: files/10X_Running%20Buffer_4335613_2021-10-18.pdf
+[9]: files/4335613_MTR-NALT_EN_31-Jan-2025.pdf
 [10]: files/40%25Potassium%20Hydroxide_SDS_2022-02-22.pdf
 [11]: files/Thermo_380625000_exp25Dec2024-signed.pdf
 [12]: files/ADS%2010x%20CE%20Running%20Buffer%20SDS_v2.2.pdf
