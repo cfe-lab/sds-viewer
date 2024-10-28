@@ -280,6 +280,13 @@
         "filename": "Boceprevir_GP0844_2022-06-17_reviewed.pdf"
     },
     {
+        "name": "Bovine Serum Albumin",
+        "category": "Other Chemicals",
+        "hazards": null,
+        "date_msds_expires": "October 21, 2027",
+        "filename": "700-100P BSA Fraction V_exp21Oct2027.pdf"
+    },
+    {
         "name": "Bromophenol Blue",
         "category": "PCR",
         "hazards": null,
@@ -339,8 +346,8 @@
         "name": "Cederroth Eye Wash, Sterile, 500ml",
         "category": "Safety/Emergency",
         "hazards": null,
-        "date_msds_expires": "October 12, 2024",
-        "filename": "Cederrotheyewash_7251A_exp12Oct2024-signed.pdf"
+        "date_msds_expires": "February 16, 2026",
+        "filename": "eye-wash_Cederroth_725200_exp16feb2026.pdf"
     },
     {
         "name": "Chloramphenicol",
@@ -458,8 +465,8 @@
         "name": "Dolutegravir-D5,C13",
         "category": "Antiviral Drugs/Standards",
         "hazards": "Warning!  Very toxic to aquatic life with long lasting effects",
-        "date_msds_expires": "November 16, 2023",
-        "filename": "[13C,-2H5]-DOLUTEGRAVIR_C4671_2020-11-16.pdf"
+        "date_msds_expires": "October 11, 2025",
+        "filename": "Dolutegravir_C4671_exp11Oct2025.pdf"
     },
     {
         "name": "Doravirine (DOR)",
@@ -1193,8 +1200,8 @@
         "name": "QIAamp DNA Mini Kit",
         "category": "Other Chemicals",
         "hazards": null,
-        "date_msds_expires": "September 18, 2024",
-        "filename": "QIAmpDNAMiniKit.pdf"
+        "date_msds_expires": "June 23, 2026",
+        "filename": "QIAampDNA_51206_exp23Jun2026.pdf"
     },
     {
         "name": "QX200 EvaGreen ddPCR Supermix",
@@ -1368,8 +1375,8 @@
         "name": "SAR-CoV-2 Standard",
         "category": "Other Chemicals",
         "hazards": null,
-        "date_msds_expires": "October 27, 2024",
-        "filename": "SARS_CoV-2_2021-10-27.pdf"
+        "date_msds_expires": "September 15, 2026",
+        "filename": "Exact Diagnostics SARS-CoV-2_exp15Sep2026.pdf"
     },
     {
         "name": "SARS-CoV-Negative",
