@@ -2,7 +2,7 @@
 
 [![Check](https://github.com/cfe-lab/sds-viewer/actions/workflows/selfcheck.yml/badge.svg)](https://github.com/cfe-lab/sds-viewer/actions/workflows/selfcheck.yml)
 
-Last update: October 28, 2024
+Last update: November 11, 2024
 
                                                                                                                                                                                                                                                                                                                                                                                                 
 | Name                                                             | Category                  | Hazards                                                                                                                                                                                                                                                 | Expiry Date        | Document       |
@@ -414,7 +414,7 @@ Last update: October 28, 2024
 [126]: files/z273279-Liqui-nox%20phosphate-free%20liquid%20detergent_01Aug2022.pdf
 [127]: files/LPV_EN-GP6351_2022-06-17_Reviewed.pdf
 [128]: files/Lymphoprep_SDS_11MAR2022.pdf
-[129]: files/ABSCIEX_POSonly_exp03JUN2027-signed.pdf
+[129]: files/Standards%20Chemical%20Kit%20PN%204412399%20-%20SDSs.zip
 [130]: files/Magnesium%20chloride%20solution_M1028_28Dec2025.pdf
 [131]: files/MgSO4%20Assay_52044_reviewed_9March2026.pdf
 [132]: files/CS_CS-0366_Maraviroc_exp12MAR2027-signed.pdf
