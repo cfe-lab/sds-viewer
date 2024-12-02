@@ -2,7 +2,7 @@
 
 [![Check](https://github.com/cfe-lab/sds-viewer/actions/workflows/selfcheck.yml/badge.svg)](https://github.com/cfe-lab/sds-viewer/actions/workflows/selfcheck.yml)
 
-Last update: November 11, 2024
+Last update: December 02, 2024
 
                                                                                                                                                                                                                                                                                                                                                                                                 
 | Name                                                             | Category                  | Hazards                                                                                                                                                                                                                                                 | Expiry Date        | Document       |
@@ -15,7 +15,7 @@ Last update: November 11, 2024
 | 1M Tris-HCL buffer, pH 6.8                                       | PCR                       | None                                                                                                                                                                                                                                                    | March 09, 2026     | [📄 open][5]   |
 | 1M Tris-HCl, pH 7.5                                              | Other Chemicals           | None                                                                                                                                                                                                                                                    | January 28, 2027   | [📄 open][6]   |
 | 2-Mercaptoethanol                                                | Extraction                | acute toxicity, skin sensitization, organ and reproductive toxicity                                                                                                                                                                                     | July 21, 2025      | [📄 open][7]   |
-| 3730 POP-7 Polymer                                               | 3730 Sequencing           | None                                                                                                                                                                                                                                                    | November 15, 2024  | [📄 open][8]   |
+| 3730 POP-7 Polymer                                               | 3730 Sequencing           | None                                                                                                                                                                                                                                                    | January 23, 2025   | [📄 open][8]   |
 | 3730 Running Buffer, 10X                                         | 3730 Sequencing           | None                                                                                                                                                                                                                                                    | October 15, 2027   | [📄 open][9]   |
 | 40% Potassium Hydroxide (Voges-Proskauer B)                      | Other Chemicals           | Caustic, harmful if swallowed                                                                                                                                                                                                                           | February 22, 2025  | [📄 open][10]  |
 | 8N Potassium Hydroxide                                           | Other Chemicals           | Corrosive, Harmful if swallowed, Causes severe skin burns and eye damage                                                                                                                                                                                | December 25, 2024  | [📄 open][11]  |
@@ -34,12 +34,12 @@ Last update: November 11, 2024
 | Albumin, from Bovine Serum                                       | Tissue Culture            | None                                                                                                                                                                                                                                                    | July 01, 2026      | [📄 open][24]  |
 | Ammonium Acetate (Solution)                                      | TDM                       | Avoid inhalation, skin and eye contact. Wear PPE.                                                                                                                                                                                                       | May 24, 2026       | [📄 open][25]  |
 | Ammonium Acetate - Fisher                                        | TDM                       | None                                                                                                                                                                                                                                                    | December 24, 2024  | [📄 open][26]  |
-| Ammonium formate                                                 | TDM                       | eye and skin irritation.  Do not swallow                                                                                                                                                                                                                | October 26, 2024   | [📄 open][27]  |
-| Anti-HIV1 GP120 Goat Polyclonal Antibody                         | Other Chemicals           | None                                                                                                                                                                                                                                                    | November 15, 2024  | [📄 open][28]  |
+| Ammonium formate                                                 | TDM                       | eye and skin irritation.  Do not swallow                                                                                                                                                                                                                | May 28, 2027       | [📄 open][27]  |
+| Anti-HIV1 GP120 Goat Polyclonal Antibody                         | Other Chemicals           | None                                                                                                                                                                                                                                                    | November 25, 2027  | [📄 open][28]  |
 | Atazanavir Bisulphate                                            | Antiviral Drugs/Standards | None                                                                                                                                                                                                                                                    | January 29, 2027   | [📄 open][29]  |
 | Atazanavir Sulfate                                               | Antiviral Drugs/Standards | Serious eye damage, Specific target organ toxicity                                                                                                                                                                                                      | May 09, 2025       | [📄 open][30]  |
 | Automated Droplet Generation Oil for Probes                      | Other Chemicals           | None                                                                                                                                                                                                                                                    | January 09, 2027   | [📄 open][31]  |
-| Bar Keeper's Friend                                              | Other Chemicals           | None                                                                                                                                                                                                                                                    | November 15, 2024  | [📄 open][32]  |
+| Bar Keeper's Friend                                              | Other Chemicals           | None                                                                                                                                                                                                                                                    | November 25, 2027  | [📄 open][32]  |
 | Betaine Solution, 5M                                             | PCR                       | None                                                                                                                                                                                                                                                    | May 24, 2026       | [📄 open][33]  |
 | Bictegravir                                                      | Antiviral Drugs/Standards | Toxic, harmful if swallowed                                                                                                                                                                                                                             | May 17, 2025       | [📄 open][34]  |
 | Big Dye Xterminator Purification Kit                             | 3730 Sequencing           | Tube Xterminator Solution, BTL Xterminator solution-eye irritation;                                                                                                                                                                                     | April 19, 2027     | [📄 open][35]  |
@@ -82,7 +82,7 @@ Last update: November 11, 2024
 | E-Gel Low Range Quantitative DNA Ladder                          | Gels                      | None                                                                                                                                                                                                                                                    | March 22, 2025     | [📄 open][72]  |
 | EDTA Solution, pH 8.0, 0.5M                                      | 3730 Sequencing           | irritant, Organ toxicity                                                                                                                                                                                                                                | February 15, 2025  | [📄 open][73]  |
 | Easysep Negative Human CD4 Kit                                   | Other Chemicals           | None                                                                                                                                                                                                                                                    | June 14, 2025      | [📄 open][74]  |
-| Efavirenz (EFV)                                                  | Antiviral Drugs/Standards | toxic, irritant, reproductive hazard                                                                                                                                                                                                                    | October 12, 2024   | [📄 open][75]  |
+| Efavirenz (EFV)                                                  | Antiviral Drugs/Standards | toxic, irritant, reproductive hazard                                                                                                                                                                                                                    | March 08, 2027     | [📄 open][75]  |
 | Electrolyte Solution KCl 3 mol/L                                 | TDM                       | None                                                                                                                                                                                                                                                    | August 09, 2025    | [📄 open][76]  |
 | Elvitegravir                                                     | Antiviral Drugs/Standards | Skin corrosion, Serious eye damage/irritation                                                                                                                                                                                                           | February 13, 2026  | [📄 open][77]  |
 | Elvitegravir-d6                                                  | Antiviral Drugs/Standards | Toxic                                                                                                                                                                                                                                                   | April 09, 2027     | [📄 open][78]  |
@@ -180,7 +180,7 @@ Last update: November 11, 2024
 | QIAGEN Buffer EB Elution Buffer                                  | NGS Sequencing            | None                                                                                                                                                                                                                                                    | March 06, 2026     | [📄 open][170] |
 | QIAamp DNA Mini Kit                                              | Other Chemicals           | None                                                                                                                                                                                                                                                    | June 23, 2026      | [📄 open][171] |
 | QX200 EvaGreen ddPCR Supermix                                    | Other Chemicals           | None                                                                                                                                                                                                                                                    | June 03, 2027      | [📄 open][172] |
-| Quant-iT PicoGreen dsDNA Reagent                                 | Quant                     | None                                                                                                                                                                                                                                                    | November 15, 2024  | [📄 open][173] |
+| Quant-iT PicoGreen dsDNA Reagent                                 | Quant                     | None                                                                                                                                                                                                                                                    | April 18, 2026     | [📄 open][173] |
 | Quant-iT RiboGreen RNA Assay Kit                                 | Quant                     | Combustible and toxic                                                                                                                                                                                                                                   | October 17, 2025   | [📄 open][174] |
 | RBC Lysis Solution                                               | Other Chemicals           | None                                                                                                                                                                                                                                                    | April 09, 2027     | [📄 open][175] |
 | RNAlater                                                         | Extraction                | N/A                                                                                                                                                                                                                                                     | January 17, 2026   | [📄 open][176] |
@@ -241,7 +241,7 @@ Last update: November 11, 2024
 | Tenofovir alafenamide (TAF)                                      | Antiviral Drugs/Standards | Irritating to eyes, respiratory system and skin                                                                                                                                                                                                         | November 30, 2024  | [📄 open][231] |
 | Tenofovir-D6                                                     | Antiviral Drugs/Standards | harmful if swollowed                                                                                                                                                                                                                                    | February 09, 2024  | [📄 open][232] |
 | Tergitol                                                         | Other Chemicals           | None                                                                                                                                                                                                                                                    | December 06, 2025  | [📄 open][233] |
-| Thymol                                                           | IDC Specimen Processing   | corrosive, toxic                                                                                                                                                                                                                                        | November 05, 2024  | [📄 open][234] |
+| Thymol                                                           | IDC Specimen Processing   | corrosive, toxic                                                                                                                                                                                                                                        | June 21, 2027      | [📄 open][234] |
 | Tipranavir                                                       | Antiviral Drugs/Standards | irritataing to skin, eyes, respiratory system                                                                                                                                                                                                           | November 22, 2026  | [📄 open][235] |
 | Tipranavir from MedChem Express                                  | Antiviral Drugs/Standards | Irritating to eyes, respitory system and eyes                                                                                                                                                                                                           | November 22, 2026  | [📄 open][236] |
 | TrackIt 1 Kb Plus DNA Ladder                                     | Gels                      | None                                                                                                                                                                                                                                                    | March 22, 2025     | [📄 open][237] |
@@ -293,7 +293,7 @@ Last update: November 11, 2024
 [5]: files/TRIS__1.0M_Buffer_Solution__pH_6.8_MTR_CLP1_EN_reviewed_9march2026.pdf
 [6]: files/Thermo_15567027_exp26Feb2027-signed.pdf
 [7]: files/M6250-10ml_21985023_21Jul2025.pdf
-[8]: files/POP7_4363929_MSDS_2021-11-15.pdf
+[8]: files/4363929_POP7-3730_23Jan2025.pdf
 [9]: files/4335613_MTR-NALT_EN_31-Jan-2025.pdf
 [10]: files/40%25Potassium%20Hydroxide_SDS_2022-02-22.pdf
 [11]: files/Thermo_380625000_exp25Dec2024-signed.pdf
@@ -312,12 +312,12 @@ Last update: November 11, 2024
 [24]: files/Sigma_Bovine-Serum_exp01Jul2026-signed.pdf
 [25]: files/Sigma_AmmoniumAcetate_73594_exp24MAY2026-signed.pdf
 [26]: files/Fisher_ammon-acetate-hplc_exp24Dec2024-signed.pdf
-[27]: files/Ammonium%20formate_70221_2021-10-26.pdf
-[28]: files/GP120GoatPolyconalAntibody_SDS.pdf
+[27]: files/Ammonium%20formate_70221_28May2027.pdf
+[28]: files/HIV1gp120_PA173098_25Nov2027.pdf
 [29]: files/LGC_TRC_Atazanavir_A790050_exp29Jan2027-signed.pdf
 [30]: files/ATV-sulfate_cs-1890_reviewed_2022-05-09.pdf
 [31]: files/BioRad_DropletOil_exp09JAN2027-signed.pdf
-[32]: files/Bar%20Keepers%20Friend_2021-11-15.pdf
+[32]: files/Bar%20Keepers%20Friend_extended25Nov2027.pdf
 [33]: files/Sigma_Betaine_b0300_exp24MAY2026-signed.pdf
 [34]: files/BIC_MSDS_S5911_reviewed_2022-05-17.pdf
 [35]: files/Thermo_BigDye_Xterminator_exp19APR2027-signed.pdf
@@ -360,12 +360,12 @@ Last update: November 11, 2024
 [72]: files/EGel_low%20range_123730311F_2022-03-22.pdf
 [73]: files/EDTA_solution_pH8_05M_Sigma_MSDS_2022-02-15.pdf
 [74]: files/Stemcell_19052_exp14JUN2025-signed.pdf
-[75]: files/Efavirenz_sml0536_2021oct12.pdf
+[75]: files/Efavirenz_sml0536_08March2027.pdf
 [76]: files/Electrolyte_KCl_3_mol_l_2022-08-09.pdf
 [77]: files/Chemscene_Elvitegravir_exp13Feb2026-signed.pdf
 [78]: files/LGC_TRC-E509002_exp09APR2027-signed.pdf
 [79]: files/USP-Emtricitabine-1235106_exp17Dec2024-signed.pdf
-[80]: files/Ethyl%20Alcohol%20%2895%25%20VOL%29_P016EA95_2021Mar24.pdf
+[80]: files/Ethyl-alcohol-95_1223_11Dec2026.pdf
 [81]: files/CA_Anhydrous_exp28Feb2027-signed.pdf
 [82]: files/Chemscene-Etravirine_exp12Sep2027-signed.pdf
 [83]: files/LGC_TRC-E937003-10MG_27Aug2027-signed.pdf
@@ -458,7 +458,7 @@ Last update: November 11, 2024
 [170]: files/Qiagen_BufferEB_exp06Mar2026-signed.pdf
 [171]: files/QIAampDNA_51206_exp23Jun2026.pdf
 [172]: files/BioRad_QX200_exp03JUN2027-signed.pdf
-[173]: files/P11495_Quant-iT_MSDS_2021-11-15.pdf
+[173]: files/Quant-iT_P7589COMPONENTA_18Apr2026.pdf
 [174]: files/Quant-it%20RiboGreen%20RNA%20Assay%20Kit_R11490_2019may31_reviewed.zip
 [175]: files/Thermo_RBC_00-4333-57_exp09APR2027-signed.pdf
 [176]: files/RNAlater_SDS_17JAN2023.pdf
@@ -519,7 +519,7 @@ Last update: November 11, 2024
 [231]: files/Tenofovir%20alafenamide-3366_30Nov2024.pdf
 [232]: files/ClearSynth_Tenofovir_SDS_09FEB2021.pdf
 [233]: files/Tergitol_np40s_06Dec2025.pdf
-[234]: files/SDS_Thymol_2021-Nov-05.pdf
+[234]: files/Thymol_t0501_21Jun2027.pdf
 [235]: files/Chemscene_Tipranavir_CS1210_exp22NOV2026-signed.pdf
 [236]: files/MedChemExpress_Tipranavir_HY15148_exp22NOV2026-signed.pdf
 [237]: files/Trackit_ladder_104880851F_2022-03-22.pdf

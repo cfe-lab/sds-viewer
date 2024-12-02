@@ -59,8 +59,8 @@
         "name": "3730 POP-7 Polymer",
         "category": "3730 Sequencing",
         "hazards": null,
-        "date_msds_expires": "November 15, 2024",
-        "filename": "POP7_4363929_MSDS_2021-11-15.pdf"
+        "date_msds_expires": "January 23, 2025",
+        "filename": "4363929_POP7-3730_23Jan2025.pdf"
     },
     {
         "name": "3730 Running Buffer, 10X",
@@ -192,15 +192,15 @@
         "name": "Ammonium formate",
         "category": "TDM",
         "hazards": "eye and skin irritation.  Do not swallow",
-        "date_msds_expires": "October 26, 2024",
-        "filename": "Ammonium formate_70221_2021-10-26.pdf"
+        "date_msds_expires": "May 28, 2027",
+        "filename": "Ammonium formate_70221_28May2027.pdf"
     },
     {
         "name": "Anti-HIV1 GP120 Goat Polyclonal Antibody",
         "category": "Other Chemicals",
         "hazards": null,
-        "date_msds_expires": "November 15, 2024",
-        "filename": "GP120GoatPolyconalAntibody_SDS.pdf"
+        "date_msds_expires": "November 25, 2027",
+        "filename": "HIV1gp120_PA173098_25Nov2027.pdf"
     },
     {
         "name": "Atazanavir Bisulphate",
@@ -227,8 +227,8 @@
         "name": "Bar Keeper's Friend",
         "category": "Other Chemicals",
         "hazards": null,
-        "date_msds_expires": "November 15, 2024",
-        "filename": "Bar Keepers Friend_2021-11-15.pdf"
+        "date_msds_expires": "November 25, 2027",
+        "filename": "Bar Keepers Friend_extended25Nov2027.pdf"
     },
     {
         "name": "Betaine Solution, 5M",
@@ -528,8 +528,8 @@
         "name": "Efavirenz (EFV)",
         "category": "Antiviral Drugs/Standards",
         "hazards": "toxic, irritant, reproductive hazard",
-        "date_msds_expires": "October 12, 2024",
-        "filename": "Efavirenz_sml0536_2021oct12.pdf"
+        "date_msds_expires": "March 08, 2027",
+        "filename": "Efavirenz_sml0536_08March2027.pdf"
     },
     {
         "name": "Electrolyte Solution KCl 3 mol/L",
@@ -564,7 +564,7 @@
         "category": "3730 Sequencing",
         "hazards": "flammable",
         "date_msds_expires": "November 05, 2024",
-        "filename": "Ethyl Alcohol (95% VOL)_P016EA95_2021Mar24.pdf"
+        "filename": "Ethyl-alcohol-95_1223_11Dec2026.pdf"
     },
     {
         "name": "Ethanol (Ethyl Alcohol), Anhydrous - Commercial Alcohols",
@@ -1214,8 +1214,8 @@
         "name": "Quant-iT PicoGreen dsDNA Reagent",
         "category": "Quant",
         "hazards": null,
-        "date_msds_expires": "November 15, 2024",
-        "filename": "P11495_Quant-iT_MSDS_2021-11-15.pdf"
+        "date_msds_expires": "April 18, 2026",
+        "filename": "Quant-iT_P7589COMPONENTA_18Apr2026.pdf"
     },
     {
         "name": "Quant-iT RiboGreen RNA Assay Kit",
@@ -1641,8 +1641,8 @@
         "name": "Thymol",
         "category": "IDC Specimen Processing",
         "hazards": "corrosive, toxic",
-        "date_msds_expires": "November 05, 2024",
-        "filename": "SDS_Thymol_2021-Nov-05.pdf"
+        "date_msds_expires": "June 21, 2027",
+        "filename": "Thymol_t0501_21Jun2027.pdf"
     },
     {
         "name": "Tipranavir",
