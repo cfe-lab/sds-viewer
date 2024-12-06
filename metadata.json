@@ -143,15 +143,15 @@
         "name": "Agarose, Standard Low mr - 500g - Bio-Rad",
         "category": "Gels",
         "hazards": null,
-        "date_msds_expires": "November 30, 2024",
-        "filename": "Agarose_low_2021-11-30.pdf"
+        "date_msds_expires": "August 25, 2026",
+        "filename": "Agarose_low_1620100_25Aug2026.pdf"
     },
     {
         "name": "Agarose, Ultra Pure, 100g - Bio-Rad",
         "category": "Gels",
         "hazards": null,
-        "date_msds_expires": "November 30, 2024",
-        "filename": "Agarose_HRLS00416-13_2021-11-30.pdf"
+        "date_msds_expires": "August 25, 2026",
+        "filename": "Agarose_low_1620100_25Aug2026.pdf"
     },
     {
         "name": "Agencourt AMPure XP",
@@ -451,8 +451,8 @@
         "name": "Dimethyl sulfoxide (DMSO), CHROMASOLV Plus for HPLC",
         "category": "TDM",
         "hazards": "Flammable",
-        "date_msds_expires": "October 08, 2024",
-        "filename": "DMSO_MSDS_2021-10-08.pdf"
+        "date_msds_expires": "March 01, 2027",
+        "filename": "DMSO_34869_1March2027.pdf"
     },
     {
         "name": "Dolutegravir",
@@ -556,8 +556,8 @@
         "name": "Emtricitabine (FTC) - USP Reference Standard",
         "category": "Antiviral Drugs/Standards",
         "hazards": "Not considered a hazard with std use",
-        "date_msds_expires": "December 17, 2024",
-        "filename": "USP-Emtricitabine-1235106_exp17Dec2024-signed.pdf"
+        "date_msds_expires": "December 03, 2027",
+        "filename": "emtricitabine_1235106_extended_3Dec2027.pdf"
     },
     {
         "name": "Ethanol (Ethyl Alcohol), 95% - Commercial Alcohols",
@@ -612,8 +612,8 @@
         "name": "Extran MA 01",
         "category": "Disinfectants",
         "hazards": "Corrosive",
-        "date_msds_expires": "November 30, 2024",
-        "filename": "Extran MA 01_107555_30Nov2024.PDF"
+        "date_msds_expires": "November 05, 2027",
+        "filename": "Extran_107555_SDS_05Nov2027.PDF"
     },
     {
         "name": "Fetal Bovine Serum (FBS)",
@@ -661,8 +661,8 @@
         "name": "Fyrite CO2 indicator fluid refill",
         "category": "Other Chemicals",
         "hazards": "corrosive. poisonous",
-        "date_msds_expires": "November 15, 2024",
-        "filename": "FyriteCO2_SDS.pdf"
+        "date_msds_expires": "December 03, 2027",
+        "filename": "Fyrite_ghs_10-5057_03Dec2027.pdf"
     },
     {
         "name": "GeneScan DS-33 Installation Standard",
@@ -730,9 +730,9 @@
     {
         "name": "Home Defense Max Insecticide",
         "category": "Other Chemicals",
-        "hazards": null,
-        "date_msds_expires": "November 15, 2024",
-        "filename": "ORTHO_HOME_DEFENSE_MAX_INSECT_KILLER_FOR_INDOOR_&_PERIMETER_SDS.pdf"
+        "hazards": "mild skin  irritation ",
+        "date_msds_expires": "June 14, 2025",
+        "filename": "Ortho Home Defense Max Perimeter_14Jun2025.pdf"
     },
     {
         "name": "Human AB Serum Negative for HBsAG, HIV 1/2, HCV",
@@ -864,8 +864,8 @@
         "name": "Leybonol Mineral Oil",
         "category": "TDM",
         "hazards": null,
-        "date_msds_expires": "October 04, 2024",
-        "filename": "Leybonol LVO100_2021-10-04.pdf"
+        "date_msds_expires": "April 22, 2027",
+        "filename": "Leybonol LVO 100_22April2027.pdf"
     },
     {
         "name": "Lime-A-Way",
@@ -1620,8 +1620,8 @@
         "name": "Tenofovir alafenamide (TAF)",
         "category": "Antiviral Drugs/Standards",
         "hazards": "Irritating to eyes, respiratory system and skin",
-        "date_msds_expires": "November 30, 2024",
-        "filename": "Tenofovir alafenamide-3366_30Nov2024.pdf"
+        "date_msds_expires": "December 03, 2027",
+        "filename": "Tenofovir_alafenamide_CS-3366_ext03Dec2027.pdf"
     },
     {
         "name": "Tenofovir-D6",
