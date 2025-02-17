@@ -59,8 +59,8 @@
         "name": "3730 POP-7 Polymer",
         "category": "3730 Sequencing",
         "hazards": null,
-        "date_msds_expires": "January 23, 2025",
-        "filename": "4363929_POP7-3730_23Jan2025.pdf"
+        "date_msds_expires": "February 14, 2028",
+        "filename": "4363929_POP7-3730_14feb2028.pdf"
     },
     {
         "name": "3730 Running Buffer, 10X",
@@ -115,15 +115,15 @@
         "name": "Acetone, HPLC grade",
         "category": "TDM",
         "hazards": "highly flammable, toxic",
-        "date_msds_expires": "December 24, 2024",
-        "filename": "acetone-hplc-fisher-chemical-4_2021-12-24.pdf"
+        "date_msds_expires": "October 11, 2026",
+        "filename": "Acetone_11Oct2026.pdf"
     },
     {
         "name": "Acetonitrile Chromasolv Plus for HPLC, >99.9%",
         "category": "TDM",
         "hazards": "Highly flammable, harmful if swallowed or inhaled, causes serious eye irritation aand damage to organs",
-        "date_msds_expires": "December 24, 2024",
-        "filename": "acetonitrile-hplc-fisher-chemical-10.pdf"
+        "date_msds_expires": "February 10, 2028",
+        "filename": "acetonitrile_A998-1_10Feb2028.pdf"
     },
     {
         "name": "Acycloguanosine, Acyclovir (ACV)",
@@ -171,8 +171,8 @@
         "name": "Ammonium Acetate - Fisher",
         "category": "TDM",
         "hazards": null,
-        "date_msds_expires": "December 24, 2024",
-        "filename": "Fisher_ammon-acetate-hplc_exp24Dec2024-signed.pdf"
+        "date_msds_expires": "February 12, 2028",
+        "filename": "ammonium-acetate_A639-500_12feb2028.pdf"
     },
     {
         "name": "Ammonium formate",
@@ -227,8 +227,8 @@
         "name": "Bictegravir",
         "category": "Antiviral Drugs/Standards",
         "hazards": "Toxic, harmful if swallowed",
-        "date_msds_expires": "May 17, 2025",
-        "filename": "BIC_MSDS_S5911_reviewed_2022-05-17.pdf"
+        "date_msds_expires": "October 08, 2026",
+        "filename": "Bictegravir_A17011_AdooqBioscience_8Oct2026.pdf"
     },
     {
         "name": "Big Dye Xterminator Purification Kit",
@@ -290,8 +290,8 @@
         "name": "Buffer Solution pH 10, Blue",
         "category": "TDM",
         "hazards": null,
-        "date_msds_expires": "December 31, 2024",
-        "filename": "Fisher_buffer-blue-ph_exp31Dec2024-signed.pdf"
+        "date_msds_expires": "February 14, 2028",
+        "filename": "buffer-colrd-blue-ph10_SB115-4_14Feb2028.pdf"
     },
     {
         "name": "Buffer Solution pH 4, Red",
@@ -549,7 +549,7 @@
         "name": "Ethanol (Ethyl Alcohol), 95% - Commercial Alcohols",
         "category": "3730 Sequencing",
         "hazards": "flammable",
-        "date_msds_expires": "November 05, 2024",
+        "date_msds_expires": "December 11, 2026",
         "filename": "Ethyl-alcohol-95_1223_11Dec2026.pdf"
     },
     {
@@ -794,15 +794,15 @@
         "name": "Isopropanol (2-Propanol), HPLC grade",
         "category": "TDM",
         "hazards": "flammable, toxic",
-        "date_msds_expires": "December 24, 2024",
-        "filename": "2-PROPANOL-HISTO-4L-2021-12-24.pdf"
+        "date_msds_expires": "October 13, 2026",
+        "filename": "Isopropanol_13Oct2026.pdf"
     },
     {
         "name": "Isopropanol (2-Propanol), Histological",
         "category": "TDM",
         "hazards": "flammable, toxic",
-        "date_msds_expires": "December 24, 2024",
-        "filename": "2-PROPANOL-HISTO-4L-POLY.pdf"
+        "date_msds_expires": "October 13, 2026",
+        "filename": "Isopropanol_13Oct2026.pdf"
     },
     {
         "name": "JumpStart Taq DNA Polyerase",
@@ -1445,8 +1445,8 @@
         "name": "Sodium Hydroxide, 10N Concentrate",
         "category": "NGS Sequencing",
         "hazards": "corrosive, causes severe skin burns and eye damage",
-        "date_msds_expires": "December 24, 2024",
-        "filename": "SOD-HYDROX-SOL-CONC-40--100ML.pdf"
+        "date_msds_expires": "October 13, 2026",
+        "filename": "sod-hydrox_SS267_13Oct2026.pdf"
     },
     {
         "name": "Sofosbuvir",
