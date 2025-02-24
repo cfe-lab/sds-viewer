@@ -353,8 +353,8 @@
         "name": "Cobicistat",
         "category": "Antiviral Drugs/Standards",
         "hazards": "toxic, harmful if swollowed",
-        "date_msds_expires": "March 12, 2027",
-        "filename": "MCE_Cobicistat_HY-10493-exp12MAR2027-signed.pdf"
+        "date_msds_expires": "February 18, 2028",
+        "filename": "Cobicistat_C633150_SDS_18Feb2028.pdf"
     },
     {
         "name": "Cresol Red",
@@ -402,8 +402,8 @@
         "name": "Darunavir Ethanolate",
         "category": "Antiviral Drugs/Standards",
         "hazards": "Harmful if swallowed, Very toxic to aquatic life with long lasting effects",
-        "date_msds_expires": "March 14, 2025",
-        "filename": "Chemscene_Darunavir_exp14Mar2025-signed.pdf"
+        "date_msds_expires": "February 06, 2026",
+        "filename": "Darunavir_CS-0750_6Feb2026.pdf"
     },
     {
         "name": "Darunavir-d9",
@@ -878,8 +878,8 @@
         "name": "Lopinavir (LPV)",
         "category": "Antiviral Drugs/Standards",
         "hazards": "Harmful if swollowed, in contact with skin, if inhaled",
-        "date_msds_expires": "June 17, 2025",
-        "filename": "LPV_EN-GP6351_2022-06-17_Reviewed.pdf"
+        "date_msds_expires": "September 28, 2027",
+        "filename": "Lopinavir_sml1222_28Sep2027.pdf"
     },
     {
         "name": "Lymphoprep",
@@ -1599,8 +1599,8 @@
         "name": "Tenofovir (Chemscene)",
         "category": "Antiviral Drugs/Standards",
         "hazards": "Harmful if swallowed, causes skin irritation and eye irritation",
-        "date_msds_expires": "December 13, 2024",
-        "filename": "Tenofovir_CS-1609_2021-12-13.pdf"
+        "date_msds_expires": "December 10, 2027",
+        "filename": "Tenofovir_CS-1609_10Dec2027.pdf"
     },
     {
         "name": "Tenofovir alafenamide (TAF)",

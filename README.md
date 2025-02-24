@@ -2,7 +2,7 @@
 
 [![Check](https://github.com/cfe-lab/sds-viewer/actions/workflows/selfcheck.yml/badge.svg)](https://github.com/cfe-lab/sds-viewer/actions/workflows/selfcheck.yml)
 
-Last update: February 17, 2025
+Last update: February 24, 2025
 
                                                                                                                                                                                                                                                                                                                                                                                                 
 | Name                                                             | Category                  | Hazards                                                                                                                                                                                                                                                 | Expiry Date        | Document       |
@@ -57,14 +57,14 @@ Last update: February 17, 2025
 | Cederroth Eye Wash, Sterile, 500ml                               | Safety/Emergency          | None                                                                                                                                                                                                                                                    | February 16, 2026  | [📄 open][47]  |
 | Chloramphenicol                                                  | Tissue Culture            | Carcinogen, mutagen                                                                                                                                                                                                                                     | March 29, 2025     | [📄 open][48]  |
 | ChromSystems MassCheck Anti-HIV Drugs                            | TDM                       | None                                                                                                                                                                                                                                                    | June 02, 2025      | [📄 open][49]  |
-| Cobicistat                                                       | Antiviral Drugs/Standards | toxic, harmful if swollowed                                                                                                                                                                                                                             | March 12, 2027     | [📄 open][50]  |
+| Cobicistat                                                       | Antiviral Drugs/Standards | toxic, harmful if swollowed                                                                                                                                                                                                                             | February 18, 2028  | [📄 open][50]  |
 | Cresol Red                                                       | PCR                       | none                                                                                                                                                                                                                                                    | April 15, 2025     | [📄 open][51]  |
 | D-(+)-Trehalose dihydrate                                        | Other Chemicals           | None                                                                                                                                                                                                                                                    | October 29, 2025   | [📄 open][52]  |
 | DNA Prep, (M) Tagmentation beads(24 Samples)                     | NGS Sequencing            | None                                                                                                                                                                                                                                                    | February 09, 2026  | [📄 open][53]  |
 | DNA Prep, Beads & buffer                                         | NGS Sequencing            | Stop Buffer: causes serious eye damage                                                                                                                                                                                                                  | February 09, 2026  | [📄 open][54]  |
 | DNAse-free kit DNase treatment and removal                       | PCR                       | None                                                                                                                                                                                                                                                    | May 11, 2025       | [📄 open][55]  |
 | DNase I                                                          | PCR                       | None                                                                                                                                                                                                                                                    | April 12, 2025     | [📄 open][56]  |
-| Darunavir Ethanolate                                             | Antiviral Drugs/Standards | Harmful if swallowed, Very toxic to aquatic life with long lasting effects                                                                                                                                                                              | March 14, 2025     | [📄 open][57]  |
+| Darunavir Ethanolate                                             | Antiviral Drugs/Standards | Harmful if swallowed, Very toxic to aquatic life with long lasting effects                                                                                                                                                                              | February 06, 2026  | [📄 open][57]  |
 | Darunavir-d9                                                     | Antiviral Drugs/Standards | None                                                                                                                                                                                                                                                    | September 12, 2027 | [📄 open][58]  |
 | Desiccant Cartridge                                              | TDM                       | Health Hazard, Environment                                                                                                                                                                                                                              | September 04, 2027 | [📄 open][59]  |
 | Dichloromethane DCM (Methylene Chloride)                         | TDM                       | Very toxic-Cancerogenic                                                                                                                                                                                                                                 | May 04, 2025       | [📄 open][60]  |
@@ -132,7 +132,7 @@ Last update: February 17, 2025
 | Lime-A-Way                                                       | Disinfectants             | None                                                                                                                                                                                                                                                    | July 26, 2025      | [📄 open][122] |
 | Liqui-Jet 2 - Steris Canada                                      | Disinfectants             | Causes serious eye and skin damage                                                                                                                                                                                                                      | October 18, 2025   | [📄 open][123] |
 | Liquinox phosphate-free liquid detergent                         | Disinfectants             | None                                                                                                                                                                                                                                                    | August 01, 2025    | [📄 open][124] |
-| Lopinavir (LPV)                                                  | Antiviral Drugs/Standards | Harmful if swollowed, in contact with skin, if inhaled                                                                                                                                                                                                  | June 17, 2025      | [📄 open][125] |
+| Lopinavir (LPV)                                                  | Antiviral Drugs/Standards | Harmful if swollowed, in contact with skin, if inhaled                                                                                                                                                                                                  | September 28, 2027 | [📄 open][125] |
 | Lymphoprep                                                       | Other Chemicals           | None                                                                                                                                                                                                                                                    | March 11, 2025     | [📄 open][126] |
 | MS Chemical Kit 1, Low-High Conc. PPGs                           | TDM                       | flammable, toxic                                                                                                                                                                                                                                        | June 03, 2027      | [📄 open][127] |
 | Magnesium Chloride Solution, 1M                                  | 3730 Sequencing           | None                                                                                                                                                                                                                                                    | December 28, 2025  | [📄 open][128] |
@@ -235,7 +235,7 @@ Last update: February 17, 2025
 | TOPO TA Cloning Kit for Sequencing                               | Other Chemicals           | None                                                                                                                                                                                                                                                    | March 17, 2025     | [📄 open][225] |
 | TOPO TA Cloning Kit, pCR 2.1-TOPO Vector                         | Other Chemicals           | None                                                                                                                                                                                                                                                    | June 20, 2026      | [📄 open][226] |
 | Telaprevir                                                       | Antiviral Drugs/Standards | Toxic                                                                                                                                                                                                                                                   | March 12, 2027     | [📄 open][227] |
-| Tenofovir (Chemscene)                                            | Antiviral Drugs/Standards | Harmful if swallowed, causes skin irritation and eye irritation                                                                                                                                                                                         | December 13, 2024  | [📄 open][228] |
+| Tenofovir (Chemscene)                                            | Antiviral Drugs/Standards | Harmful if swallowed, causes skin irritation and eye irritation                                                                                                                                                                                         | December 10, 2027  | [📄 open][228] |
 | Tenofovir alafenamide (TAF)                                      | Antiviral Drugs/Standards | Irritating to eyes, respiratory system and skin                                                                                                                                                                                                         | December 03, 2027  | [📄 open][229] |
 | Tenofovir-D6                                                     | Antiviral Drugs/Standards | harmful if swollowed                                                                                                                                                                                                                                    | February 09, 2024  | [📄 open][230] |
 | Tergitol                                                         | Other Chemicals           | None                                                                                                                                                                                                                                                    | December 06, 2025  | [📄 open][231] |
@@ -333,14 +333,14 @@ Last update: February 17, 2025
 [47]: files/eye-wash_Cederroth_725200_exp16feb2026.pdf
 [48]: files/Chloramphenicol_c0378_29March2025.pdf
 [49]: files/SAFETY%20DATA%20SHEET_lyophilized_EQA_2019_04_29_reviewed_2022-06-02.docx
-[50]: files/MCE_Cobicistat_HY-10493-exp12MAR2027-signed.pdf
+[50]: files/Cobicistat_C633150_SDS_18Feb2028.pdf
 [51]: files/Cresol_red114472_2022-04-15.pdf
 [52]: files/SDS_t5251.pdf
 [53]: files/DNA%20Prep%2C%20%28M%29%20Tagmentation%20beads%2824%20Samples%29_20015173_rwd_9Feb2026.pdf
 [54]: files/DNA%20Prep%2C%20Beads%20%26%20buffer_illumina_20060060_9Feb2026.zip
 [55]: files/Thermo_DNASEkit_exp11May2025-signed.pdf
 [56]: files/DNase%20I%20%28RNase-Free%29_M0303_12Apr2025.pdf
-[57]: files/Chemscene_Darunavir_exp14Mar2025-signed.pdf
+[57]: files/Darunavir_CS-0750_6Feb2026.pdf
 [58]: files/ChemScene_Dolutegravir_exp27Jul2024-2-signed.pdf
 [59]: files/Sigma_Desiccator_z163392_exp04Sep2027-signed.pdf
 [60]: files/Dichloromethane%20ACS_CA71007-066_20200804.pdf
@@ -408,7 +408,7 @@ Last update: February 17, 2025
 [122]: files/SDS_Lime-A-Way_2016-06-02.pdf
 [123]: files/Liqui-Jet2%202022-Oct-18_reviewed.zip
 [124]: files/z273279-Liqui-nox%20phosphate-free%20liquid%20detergent_01Aug2022.pdf
-[125]: files/LPV_EN-GP6351_2022-06-17_Reviewed.pdf
+[125]: files/Lopinavir_sml1222_28Sep2027.pdf
 [126]: files/Lymphoprep_SDS_11MAR2022.pdf
 [127]: files/Standards%20Chemical%20Kit%20PN%204412399%20-%20SDSs.zip
 [128]: files/Magnesium%20chloride%20solution_M1028_28Dec2025.pdf
@@ -511,7 +511,7 @@ Last update: February 17, 2025
 [225]: files/Thermo_TA_Seq_exp17MAR2025.pdf
 [226]: files/Thermo_Topo_450641-signed.pdf
 [227]: files/CS_CS-0285_Telaprevir_exp12MAR2027-signed.pdf
-[228]: files/Tenofovir_CS-1609_2021-12-13.pdf
+[228]: files/Tenofovir_CS-1609_10Dec2027.pdf
 [229]: files/Tenofovir_alafenamide_CS-3366_ext03Dec2027.pdf
 [230]: files/ClearSynth_Tenofovir_SDS_09FEB2021.pdf
 [231]: files/Tergitol_np40s_06Dec2025.pdf
