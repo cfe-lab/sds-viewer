@@ -2,7 +2,7 @@
 
 [![Check](https://github.com/cfe-lab/sds-viewer/actions/workflows/selfcheck.yml/badge.svg)](https://github.com/cfe-lab/sds-viewer/actions/workflows/selfcheck.yml)
 
-Last update: February 24, 2025
+Last update: March 10, 2025
 
                                                                                                                                                                                                                                                                                                                                                                                                 
 | Name                                                             | Category                  | Hazards                                                                                                                                                                                                                                                 | Expiry Date        | Document       |
@@ -120,7 +120,7 @@ Last update: February 24, 2025
 | Indinavir - USP Reference Standard                               | Antiviral Drugs/Standards | irritant                                                                                                                                                                                                                                                | April 09, 2027     | [📄 open][110] |
 | Instand 1                                                        | TDM                       | None                                                                                                                                                                                                                                                    | June 02, 2025      | [📄 open][111] |
 | Instand 2                                                        | TDM                       | None                                                                                                                                                                                                                                                    | June 02, 2025      | [📄 open][112] |
-| Isopropanol (2-Propanol), HPLC grade                             | TDM                       | flammable, toxic                                                                                                                                                                                                                                        | October 13, 2026   | [📄 open][113] |
+| Isopropanol (2-Propanol), HPLC grade                             | TDM                       | flammable, toxic                                                                                                                                                                                                                                        | July 02, 2027      | [📄 open][113] |
 | Isopropanol (2-Propanol), Histological                           | TDM                       | flammable, toxic                                                                                                                                                                                                                                        | October 13, 2026   | [📄 open][114] |
 | JumpStart Taq DNA Polyerase                                      | Other Chemicals           | None                                                                                                                                                                                                                                                    | March 17, 2025     | [📄 open][115] |
 | Klentaq LA DNA Polymerase                                        | PCR                       | None                                                                                                                                                                                                                                                    | January 04, 2026   | [📄 open][116] |
@@ -396,7 +396,7 @@ Last update: February 24, 2025
 [110]: files/USP_Indinavir_1339178_exp09APR2027-signed.pdf
 [111]: files/SAFETY%20DATA%20SHEET_lyophilized_EQA_2019_04_29_reviewed02-Jun-2022.docx
 [112]: files/SAFETY%20DATA%20SHEET_lyophilized_EQA_2019_04_29_reviewed02-Jun-2022.docx
-[113]: files/Isopropanol_13Oct2026.pdf
+[113]: files/Millipore_2-Propanol_exp02JUL2027.pdf
 [114]: files/Isopropanol_13Oct2026.pdf
 [115]: files/JumpStart-Tac-DNA-Polymeraase_D9307_2022-03-17.pdf
 [116]: files/KlentaqLA_v2_exp04Jan2026-signed.pdf
