@@ -472,22 +472,22 @@
         "name": "Dynabeads M-270 Streptavidin ",
         "category": "Other Chemicals",
         "hazards": null,
-        "date_msds_expires": "January 25, 2025",
-        "filename": "Thermo_DynaBeads-Strep_65305_exp25Jan2025-signed.pdf"
+        "date_msds_expires": "March 14, 2028",
+        "filename": "dynabeads_M-270_Strept_65305_14March2028_extended.pdf"
     },
     {
         "name": "Dynabeads Protein A",
         "category": "Other Chemicals",
         "hazards": null,
-        "date_msds_expires": "January 24, 2025",
-        "filename": "Dynabeads Preotin A_10002D_24Jan2025.pdf"
+        "date_msds_expires": "April 24, 2026",
+        "filename": "Dynabeads_ProteinA_10002D_24Apr2026.pdf"
     },
     {
         "name": "Dynabeads Protein G",
         "category": "Other Chemicals",
         "hazards": null,
-        "date_msds_expires": "January 24, 2025",
-        "filename": "Thermo_10004D_exp24Jan2025-signed.pdf"
+        "date_msds_expires": "March 14, 2028",
+        "filename": "Dynabeads_proteinG_10004D_extended14March2028.pdf"
     },
     {
         "name": "E-Gel Low Range Quantitative DNA Ladder",
@@ -500,8 +500,8 @@
         "name": "EDTA Solution, pH 8.0, 0.5M",
         "category": "3730 Sequencing",
         "hazards": "irritant, Organ toxicity",
-        "date_msds_expires": "February 15, 2025",
-        "filename": "EDTA_solution_pH8_05M_Sigma_MSDS_2022-02-15.pdf"
+        "date_msds_expires": "February 17, 2028",
+        "filename": "EDTA_03690_17Feb_2028.pdf"
     },
     {
         "name": "Easysep Negative Human CD4 Kit",
@@ -1375,8 +1375,8 @@
         "name": "SOLUSORB Solvent Adsorbent",
         "category": "Safety/Emergency",
         "hazards": null,
-        "date_msds_expires": "January 10, 2025",
-        "filename": "Solusorb_Adsorbent_SDS.pdf"
+        "date_msds_expires": "January 10, 2028",
+        "filename": "Solusorb_Adsorbent_4437_extended10_Jan2028.pdf"
     },
     {
         "name": "SPINKOTE Lubricant for metal threads",
@@ -1774,8 +1774,8 @@
         "name": "Tween 20 ",
         "category": "NGS Sequencing",
         "hazards": null,
-        "date_msds_expires": "February 21, 2025",
-        "filename": "Sigma_p7949_exp21Feb2025-signed.pdf"
+        "date_msds_expires": "May 28, 2027",
+        "filename": "Tween20_p7949_28may2027.pdf"
     },
     {
         "name": "Unmodified DNA Oligo (SDS)",

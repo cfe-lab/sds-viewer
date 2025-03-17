@@ -2,7 +2,7 @@
 
 [![Check](https://github.com/cfe-lab/sds-viewer/actions/workflows/selfcheck.yml/badge.svg)](https://github.com/cfe-lab/sds-viewer/actions/workflows/selfcheck.yml)
 
-Last update: March 10, 2025
+Last update: March 17, 2025
 
                                                                                                                                                                                                                                                                                                                                                                                                 
 | Name                                                             | Category                  | Hazards                                                                                                                                                                                                                                                 | Expiry Date        | Document       |
@@ -74,11 +74,11 @@ Last update: March 10, 2025
 | Dolutegravir-D5,C13                                              | Antiviral Drugs/Standards | Warning!  Very toxic to aquatic life with long lasting effects                                                                                                                                                                                          | October 11, 2025   | [📄 open][64]  |
 | Doravirine (DOR)                                                 | Antiviral Drugs/Standards | Skin corrosion, serious eye damage, specific target organ toxicity- single exposure, respiratory system                                                                                                                                                 | September 12, 2027 | [📄 open][65]  |
 | Dulbecco's Phosphate-Buffered Saline (DPBS), 1X                  | Quant                     | None                                                                                                                                                                                                                                                    | February 10, 2026  | [📄 open][66]  |
-| Dynabeads M-270 Streptavidin                                     | Other Chemicals           | None                                                                                                                                                                                                                                                    | January 25, 2025   | [📄 open][67]  |
-| Dynabeads Protein A                                              | Other Chemicals           | None                                                                                                                                                                                                                                                    | January 24, 2025   | [📄 open][68]  |
-| Dynabeads Protein G                                              | Other Chemicals           | None                                                                                                                                                                                                                                                    | January 24, 2025   | [📄 open][69]  |
+| Dynabeads M-270 Streptavidin                                     | Other Chemicals           | None                                                                                                                                                                                                                                                    | March 14, 2028     | [📄 open][67]  |
+| Dynabeads Protein A                                              | Other Chemicals           | None                                                                                                                                                                                                                                                    | April 24, 2026     | [📄 open][68]  |
+| Dynabeads Protein G                                              | Other Chemicals           | None                                                                                                                                                                                                                                                    | March 14, 2028     | [📄 open][69]  |
 | E-Gel Low Range Quantitative DNA Ladder                          | Gels                      | None                                                                                                                                                                                                                                                    | March 22, 2025     | [📄 open][70]  |
-| EDTA Solution, pH 8.0, 0.5M                                      | 3730 Sequencing           | irritant, Organ toxicity                                                                                                                                                                                                                                | February 15, 2025  | [📄 open][71]  |
+| EDTA Solution, pH 8.0, 0.5M                                      | 3730 Sequencing           | irritant, Organ toxicity                                                                                                                                                                                                                                | February 17, 2028  | [📄 open][71]  |
 | Easysep Negative Human CD4 Kit                                   | Other Chemicals           | None                                                                                                                                                                                                                                                    | June 14, 2025      | [📄 open][72]  |
 | Efavirenz (EFV)                                                  | Antiviral Drugs/Standards | toxic, irritant, reproductive hazard                                                                                                                                                                                                                    | March 08, 2027     | [📄 open][73]  |
 | Electrolyte Solution KCl 3 mol/L                                 | TDM                       | None                                                                                                                                                                                                                                                    | August 09, 2025    | [📄 open][74]  |
@@ -203,7 +203,7 @@ Last update: March 10, 2025
 | RoboSep Buffer                                                   | IDC Specimen Processing   | None                                                                                                                                                                                                                                                    | November 01, 2026  | [📄 open][193] |
 | SAR-CoV-2 Standard                                               | Other Chemicals           | None                                                                                                                                                                                                                                                    | September 15, 2026 | [📄 open][194] |
 | SARS-CoV-Negative                                                | Other Chemicals           | None                                                                                                                                                                                                                                                    | August 18, 2025    | [📄 open][195] |
-| SOLUSORB Solvent Adsorbent                                       | Safety/Emergency          | None                                                                                                                                                                                                                                                    | January 10, 2025   | [📄 open][196] |
+| SOLUSORB Solvent Adsorbent                                       | Safety/Emergency          | None                                                                                                                                                                                                                                                    | January 10, 2028   | [📄 open][196] |
 | SPINKOTE Lubricant for metal threads                             | Other Chemicals           | Damages fertility or unborn child, mild skin irritation, toxic to aquatic life                                                                                                                                                                          | June 21, 2026      | [📄 open][197] |
 | SYBR Safe DNA Gel Stain                                          | Gels                      | Flammable                                                                                                                                                                                                                                               | May 04, 2025       | [📄 open][198] |
 | SeqCAP Adapter Kit A                                             | Other Chemicals           | None                                                                                                                                                                                                                                                    | March 22, 2025     | [📄 open][199] |
@@ -260,7 +260,7 @@ Last update: March 10, 2025
 | Truvada                                                          | Antiviral Drugs/Standards | Causes serious eye damage                                                                                                                                                                                                                               | May 04, 2025       | [📄 open][250] |
 | Trypan Blue 0.4% Stain Solution                                  | IDC Specimen Processing   | toxic, carcinogen                                                                                                                                                                                                                                       | May 08, 2027       | [📄 open][251] |
 | Trypsin-EDTA, 0.05%, 1X                                          | Tissue Culture            | None                                                                                                                                                                                                                                                    | November 22, 2026  | [📄 open][252] |
-| Tween 20                                                         | NGS Sequencing            | None                                                                                                                                                                                                                                                    | February 21, 2025  | [📄 open][253] |
+| Tween 20                                                         | NGS Sequencing            | None                                                                                                                                                                                                                                                    | May 28, 2027       | [📄 open][253] |
 | Unmodified DNA Oligo (SDS)                                       | Primers                   | None                                                                                                                                                                                                                                                    | October 25, 2026   | [📄 open][254] |
 | Vacuum Grease, Silicone                                          | Other Chemicals           | Not hazardous                                                                                                                                                                                                                                           | December 21, 2026  | [📄 open][255] |
 | Water LC-MS Grade                                                | TDM                       | None                                                                                                                                                                                                                                                    | August 09, 2025    | [📄 open][256] |
@@ -350,11 +350,11 @@ Last update: March 10, 2025
 [64]: files/Dolutegravir_C4671_exp11Oct2025.pdf
 [65]: files/Chemscene-Doravirine_exp12Sep2027-signed.pdf
 [66]: files/Thermo_DPBS_exp10Feb2026-signed.pdf
-[67]: files/Thermo_DynaBeads-Strep_65305_exp25Jan2025-signed.pdf
-[68]: files/Dynabeads%20Preotin%20A_10002D_24Jan2025.pdf
-[69]: files/Thermo_10004D_exp24Jan2025-signed.pdf
+[67]: files/dynabeads_M-270_Strept_65305_14March2028_extended.pdf
+[68]: files/Dynabeads_ProteinA_10002D_24Apr2026.pdf
+[69]: files/Dynabeads_proteinG_10004D_extended14March2028.pdf
 [70]: files/EGel_low%20range_123730311F_2022-03-22.pdf
-[71]: files/EDTA_solution_pH8_05M_Sigma_MSDS_2022-02-15.pdf
+[71]: files/EDTA_03690_17Feb_2028.pdf
 [72]: files/Stemcell_19052_exp14JUN2025-signed.pdf
 [73]: files/Efavirenz_sml0536_08March2027.pdf
 [74]: files/Electrolyte_KCl_3_mol_l_2022-08-09.pdf
@@ -479,7 +479,7 @@ Last update: March 10, 2025
 [193]: files/Stemcell_DX21063_exp01NOV2026-signed.pdf
 [194]: files/Exact%20Diagnostics%20SARS-CoV-2_exp15Sep2026.pdf
 [195]: files/Exact%20Diagnostics%20SARS-CoV-2%20Negative_COV000_18Aug2025.pdf
-[196]: files/Solusorb_Adsorbent_SDS.pdf
+[196]: files/Solusorb_Adsorbent_4437_extended10_Jan2028.pdf
 [197]: files/Beckman_Spinkote_306812AM_exp21DEC2026.pdf
 [198]: files/SybrSafe_DNAStain_reviewed220504.pdf
 [199]: files/Roche_SeqCap%20Adapter%20Kit%20A_exp22Mar2025-signed.pdf
@@ -536,7 +536,7 @@ Last update: March 10, 2025
 [250]: files/Truvada_revised2016_revised190211_revised220504.pdf
 [251]: files/MP_Trypan_195532_exp08MAY2027-signed.pdf
 [252]: files/Thermo_Trypsin_25300062_exp22NOV2023-signed.pdf
-[253]: files/Sigma_p7949_exp21Feb2025-signed.pdf
+[253]: files/Tween20_p7949_28may2027.pdf
 [254]: files/IDT_unmodifiedDNAoligo_exp25Oct2026-signed.pdf
 [255]: files/Beckman_Grease_335148AK_exp21DEC2026.pdf
 [256]: files/Water_LCMS%20grade_09-Aug-2022.pdf
