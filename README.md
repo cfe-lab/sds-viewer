@@ -2,7 +2,7 @@
 
 [![Check](https://github.com/cfe-lab/sds-viewer/actions/workflows/selfcheck.yml/badge.svg)](https://github.com/cfe-lab/sds-viewer/actions/workflows/selfcheck.yml)
 
-Last update: March 17, 2025
+Last update: March 31, 2025
 
                                                                                                                                                                                                                                                                                                                                                                                                 
 | Name                                                             | Category                  | Hazards                                                                                                                                                                                                                                                 | Expiry Date        | Document       |
@@ -98,7 +98,7 @@ Last update: March 17, 2025
 | Ficoll-Paque PLUS                                                | IDC Specimen Processing   | None                                                                                                                                                                                                                                                    | March 09, 2026     | [📄 open][88]  |
 | Fluoresbrite YG Microspheres, 0.1um                              | Other Chemicals           | None                                                                                                                                                                                                                                                    | September 12, 2027 | [📄 open][89]  |
 | Fluorescein Sodium Salt                                          | Quant                     | None                                                                                                                                                                                                                                                    | February 18, 2025  | [📄 open][90]  |
-| Formic Acid                                                      | TDM                       | corrosive                                                                                                                                                                                                                                               | September 12, 2025 | [📄 open][91]  |
+| Formic Acid                                                      | TDM                       | corrosive                                                                                                                                                                                                                                               | November 25, 2025  | [📄 open][91]  |
 | Fyrite CO2 indicator fluid refill                                | Other Chemicals           | corrosive. poisonous                                                                                                                                                                                                                                    | December 03, 2027  | [📄 open][92]  |
 | GeneScan DS-33 Installation Standard                             | 3730 Sequencing           | None                                                                                                                                                                                                                                                    | December 27, 2024  | [📄 open][93]  |
 | Glycogen, Ultrapure                                              | Extraction                | None                                                                                                                                                                                                                                                    | May 28, 2027       | [📄 open][94]  |
@@ -374,7 +374,7 @@ Last update: March 17, 2025
 [88]: files/Ficoll-Paque%20PLUS%2C%206%20x%20100%20ml_17-1440-02_reviewed_9March2026.pdf
 [89]: files/Polysciences_Fluoresbrite_exp12Sep2027-signed.pdf
 [90]: files/Flrorescein%20sodium%20salt_f6377_2022-02-18.pdf
-[91]: files/Formic_Acid_Fluka_reviewed%202022-09-12.pdf
+[91]: files/TFS_formic-acid-99-analysis-thermo-scientific_exp25Nov2025-signed.pdf
 [92]: files/Fyrite_ghs_10-5057_03Dec2027.pdf
 [93]: files/GeneScan_installation%20Standard_DS-33_4330399_2021-12-27.pdf
 [94]: files/Thermo_Glycogen_exp28MAY2027-signed.pdf
