@@ -35,6 +35,13 @@
         "filename": "10x Klentaq1 Reaction Buffer pH 7.9_RB21_reviewed_9March2026.pdf"
     },
     {
+        "name": "1M Potassium Chloride Solution",
+        "category": "Other Chemicals",
+        "hazards": null,
+        "date_msds_expires": "August 24, 2027",
+        "filename": "Potassium chloride solution _60142_24August2027.pdf"
+    },
+    {
         "name": "1M Tris-HCL buffer, pH 6.8",
         "category": "PCR",
         "hazards": null,
@@ -80,8 +87,8 @@
         "name": "8N Potassium Hydroxide",
         "category": "Other Chemicals",
         "hazards": "Corrosive, Harmful if swallowed, Causes severe skin burns and eye damage",
-        "date_msds_expires": "December 25, 2024",
-        "filename": "Thermo_380625000_exp25Dec2024-signed.pdf"
+        "date_msds_expires": "October 10, 2026",
+        "filename": "Potassium_hydroxide__8N_solution_in_water_380625000_4Oct2026.pdf"
     },
     {
         "name": "ADS 10x CE Running buffer",
