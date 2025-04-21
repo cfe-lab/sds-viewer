@@ -80,8 +80,8 @@
         "name": "40% Potassium Hydroxide (Voges-Proskauer B)",
         "category": "Other Chemicals",
         "hazards": "Caustic, harmful if swallowed",
-        "date_msds_expires": "February 22, 2025",
-        "filename": "40%Potassium Hydroxide_SDS_2022-02-22.pdf"
+        "date_msds_expires": "April 14, 2028",
+        "filename": "40_Potassium Hydroxide_Voges-ProskauerB_R21281_17April2028.pdf"
     },
     {
         "name": "8N Potassium Hydroxide",
@@ -290,8 +290,8 @@
         "name": "Buffer Solution pH 1.68 (White)",
         "category": "TDM",
         "hazards": null,
-        "date_msds_expires": "February 02, 2025",
-        "filename": "pH 1.68 Buffer_910168_02Feb2022.pdf"
+        "date_msds_expires": "April 17, 2028",
+        "filename": "pH 1.68 Buffer_910168_17April2028.pdf"
     },
     {
         "name": "Buffer Solution pH 10, Blue",
@@ -640,8 +640,8 @@
         "name": "Fluorescein Sodium Salt",
         "category": "Quant",
         "hazards": "None",
-        "date_msds_expires": "February 18, 2025",
-        "filename": "Flrorescein sodium salt_f6377_2022-02-18.pdf"
+        "date_msds_expires": "February 17, 2028",
+        "filename": "Fluorescein sodium salt _f6377_17Feb2028.pdf"
     },
     {
         "name": "Formic Acid",
@@ -661,8 +661,8 @@
         "name": "GeneScan DS-33 Installation Standard",
         "category": "3730 Sequencing",
         "hazards": null,
-        "date_msds_expires": "December 27, 2024",
-        "filename": "GeneScan_installation Standard_DS-33_4330399_2021-12-27.pdf"
+        "date_msds_expires": "April 14, 2028",
+        "filename": "GeneScan_4330399_17April2028.pdf"
     },
     {
         "name": "Glycogen, Ultrapure",
@@ -682,8 +682,8 @@
         "name": "Guava ICF Instrument Cleaning Fluid",
         "category": "Other Chemicals",
         "hazards": "Causes skin and serious eye irritation",
-        "date_msds_expires": "January 04, 2025",
-        "filename": "Guava_Instrument_cleaning fluid_632805_SDS.PDF"
+        "date_msds_expires": "April 17, 2028",
+        "filename": "Guava_Instrument_cleaning fluid_632805_17April2028.pdf"
     },
     {
         "name": "HIV-1 Genotyping Kit Amplification Module",
@@ -745,22 +745,22 @@
         "name": "Human Plasma, Normal, Pooled, K2 EDTA",
         "category": "TDM",
         "hazards": "potentially infectious",
-        "date_msds_expires": "January 05, 2025",
-        "filename": "HumanBiologicalFluids_SDS_2022-01-05.pdf"
+        "date_msds_expires": "April 14, 2028",
+        "filename": "HumanBiologicalFluids_SDS_14April2028.pdf"
     },
     {
         "name": "Human Plasma, Normal, Pooled, K3 EDTA",
         "category": "TDM",
         "hazards": null,
-        "date_msds_expires": "January 05, 2025",
-        "filename": "HumanBiologicalFluids_SDS_2022-01-05.pdf"
+        "date_msds_expires": "April 14, 2028",
+        "filename": "HumanBiologicalFluids_SDS_14April2028.pdf"
     },
     {
         "name": "Humonitor Humidity indicator cards",
         "category": "Other Chemicals",
         "hazards": "very toxic and toxic for environment ",
-        "date_msds_expires": "February 05, 2025",
-        "filename": "Humonitor humidity indicator cards_z163449_20220205.pdf"
+        "date_msds_expires": "April 17, 2028",
+        "filename": "Humonitor humidity cards_z163449_17April2028.pdf"
     },
     {
         "name": "IDT for Illumina DNA/RNA UD Indexes Set A, Tagmentation",
@@ -976,8 +976,8 @@
         "name": "Multi-Capillary DS-33 Dye Set Matrix Std",
         "category": "3730 Sequencing",
         "hazards": null,
-        "date_msds_expires": "December 27, 2024",
-        "filename": "Matrix_Std_DS-33_4345320_2021-12-27.pdf"
+        "date_msds_expires": "May 14, 2027",
+        "filename": "Matrix Standard DS-33_4345320_14May2027.pdf"
     },
     {
         "name": "NEBNEXT RNA Library Prep Kit",
@@ -1102,8 +1102,8 @@
         "name": "PfuUltra II Fusion HS DNA Polymerase",
         "category": "PCR",
         "hazards": "toxic, irritant",
-        "date_msds_expires": "February 02, 2025",
-        "filename": "PfuUltra II Fusion HS DNA Polymerase_600672_2022feb02.pdf"
+        "date_msds_expires": "April 14, 2028",
+        "filename": "PfuUltra II Fusion HS DNA Polymerase_600672_NACanada.pdf"
     },
     {
         "name": "PhiX  Control v3",
@@ -1529,8 +1529,8 @@
         "name": "SuperScript IV",
         "category": "PCR",
         "hazards": null,
-        "date_msds_expires": "March 11, 2025",
-        "filename": "SDS_SuperscriptIV_2022-May-11.pdf"
+        "date_msds_expires": "April 14, 2028",
+        "filename": "SuperScript\u2122 IV_EP1452F_14April208.pdf"
     },
     {
         "name": "SuperScript/Platinum High Fidelity Enzyme Mix",
