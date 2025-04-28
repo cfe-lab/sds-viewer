@@ -346,8 +346,8 @@
         "name": "Chloramphenicol",
         "category": "Tissue Culture",
         "hazards": "Carcinogen, mutagen",
-        "date_msds_expires": "March 29, 2025",
-        "filename": "Chloramphenicol_c0378_29March2025.pdf"
+        "date_msds_expires": "July 13, 2027",
+        "filename": "Chloramphenicol _c0378_13July2027.pdf"
     },
     {
         "name": "ChromSystems MassCheck Anti-HIV Drugs",
@@ -367,8 +367,8 @@
         "name": "Cresol Red",
         "category": "PCR",
         "hazards": "none",
-        "date_msds_expires": "April 15, 2025",
-        "filename": "Cresol_red114472_2022-04-15.pdf"
+        "date_msds_expires": "June 22, 2027",
+        "filename": "Cresol red_114472_22June2027.pdf"
     },
     {
         "name": "D-(+)-Trehalose dihydrate",
@@ -500,8 +500,8 @@
         "name": "E-Gel Low Range Quantitative DNA Ladder",
         "category": "Gels",
         "hazards": null,
-        "date_msds_expires": "March 22, 2025",
-        "filename": "EGel_low range_123730311F_2022-03-22.pdf"
+        "date_msds_expires": "April 25, 2028",
+        "filename": "E-gel low range Quant_123730311F_25April2028.pdf"
     },
     {
         "name": "EDTA Solution, pH 8.0, 0.5M",
@@ -731,8 +731,8 @@
         "name": "Human AB Serum Negative for HBsAG, HIV 1/2, HCV",
         "category": "IDC Specimen Processing",
         "hazards": null,
-        "date_msds_expires": "February 22, 2025",
-        "filename": "HumanBiologicalFluids_SDS_2022-02-22.pdf"
+        "date_msds_expires": "April 14, 2028",
+        "filename": "HumanBiologicalFluids_SDS_14April2028.pdf"
     },
     {
         "name": "Human Cot-1 DNA ",
@@ -815,8 +815,8 @@
         "name": "JumpStart Taq DNA Polyerase",
         "category": "Other Chemicals",
         "hazards": null,
-        "date_msds_expires": "March 17, 2025",
-        "filename": "JumpStart-Tac-DNA-Polymeraase_D9307_2022-03-17.pdf"
+        "date_msds_expires": "July 13, 2027",
+        "filename": "JumpStart_d9307_13July2027.pdf"
     },
     {
         "name": "Klentaq LA DNA Polymerase",
@@ -892,8 +892,8 @@
         "name": "Lymphoprep",
         "category": "Other Chemicals",
         "hazards": null,
-        "date_msds_expires": "March 11, 2025",
-        "filename": "Lymphoprep_SDS_11MAR2022.pdf"
+        "date_msds_expires": "April 25, 2028",
+        "filename": "Lymphoprep_DX20981_25April2028.pdf"
     },
     {
         "name": "MS Chemical Kit 1, Low-High Conc. PPGs",
@@ -1130,8 +1130,8 @@
         "name": "Poly(ethylene glycol) (PEG-8000)",
         "category": "NGS Sequencing",
         "hazards": "Not controlled under WHMIS",
-        "date_msds_expires": "March 12, 2025",
-        "filename": "PEG_P5413_Sigma_MSDS_2022-03-12.pdf"
+        "date_msds_expires": "March 10, 2028",
+        "filename": "Poly(ethylene glycol)_p5413_10March2028.pdf"
     },
     {
         "name": "Poly(ethylene glycol) PEG-400",
@@ -1340,22 +1340,22 @@
         "name": "Rilpivirine (RPV)",
         "category": "Antiviral Drugs/Standards",
         "hazards": null,
-        "date_msds_expires": "January 29, 2025",
-        "filename": "MCE_CS_HY-10574_exp29Jan2025-signed.pdf"
+        "date_msds_expires": "April 25, 2028",
+        "filename": "Rilpivirine_CS-0440_25April2028.pdf"
     },
     {
         "name": "Ritonavir (RTV) - USP Reference Standard",
         "category": "Antiviral Drugs/Standards",
         "hazards": "irritant",
-        "date_msds_expires": "March 23, 2025",
-        "filename": "USP_Ritonavir_1604803_exp23MAR2025-signed.pdf"
+        "date_msds_expires": "April 25, 2028",
+        "filename": "Ritonavir_1604803_25April2028.pdf"
     },
     {
         "name": "Ritonavir-D6",
         "category": "Antiviral Drugs/Standards",
         "hazards": "No Data on Hazards available",
-        "date_msds_expires": "November 19, 2023",
-        "filename": "Ritonavir_D6__CS_O_06931__MSDS.pdf"
+        "date_msds_expires": "April 25, 2028",
+        "filename": "Ritonavir_D6__CS_O_06931_25April2028.pdf"
     },
     {
         "name": "RoboSep Buffer",
@@ -1585,8 +1585,8 @@
         "name": "TOPO TA Cloning Kit for Sequencing",
         "category": "Other Chemicals",
         "hazards": null,
-        "date_msds_expires": "March 17, 2025",
-        "filename": "Thermo_TA_Seq_exp17MAR2025.pdf"
+        "date_msds_expires": "April 25, 2028",
+        "filename": "460204 PCR4-TOPO VECTOR_460204_25Apr2028.pdf"
     },
     {
         "name": "TOPO TA Cloning Kit, pCR 2.1-TOPO Vector",
@@ -1620,8 +1620,8 @@
         "name": "Tenofovir-D6",
         "category": "Antiviral Drugs/Standards",
         "hazards": "harmful if swollowed",
-        "date_msds_expires": "February 09, 2024",
-        "filename": "ClearSynth_Tenofovir_SDS_09FEB2021.pdf"
+        "date_msds_expires": "April 25, 2028",
+        "filename": "ClearSynth_Tenofovir_D6_exp25april2028.pdf"
     },
     {
         "name": "Tergitol",
@@ -1655,8 +1655,8 @@
         "name": "TrackIt 1 Kb Plus DNA Ladder",
         "category": "Gels",
         "hazards": null,
-        "date_msds_expires": "March 22, 2025",
-        "filename": "Trackit_ladder_104880851F_2022-03-22.pdf"
+        "date_msds_expires": "June 05, 2027",
+        "filename": "Track_104880851F_05Jun2027.pdf"
     },
     {
         "name": "Triazine Pesticides Standards Mix",
@@ -1725,8 +1725,8 @@
         "name": "Tru Seq RNA Access Oligo Kit",
         "category": "Other Chemicals",
         "hazards": "GA#-HP3-Skin corrosion, eye irritation; Enhanced PCR mix-Acute toxicity (Oral), specific target organ toxicity; Capture target buffer- Carcinogenicity, Reproductive toxicity, specific target organ toxicity",
-        "date_msds_expires": "January 22, 2025",
-        "filename": "TruSq RNA Accs CDNG_22Jan2025.zip"
+        "date_msds_expires": "December 09, 2025",
+        "filename": "TruSq RNA Accs CDNG_9Dec2025.zip"
     },
     {
         "name": "TruPure Formamide",
