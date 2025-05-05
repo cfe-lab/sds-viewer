@@ -1414,11 +1414,25 @@
         "filename": "Roche_SeqCap EZ Accessory Kit v2_exp20Mar2025-signed.pdf"
     },
     {
+        "name": "SeqCap EZ Developer Library 4 Reaction",
+        "category": "NGS Sequencing",
+        "hazards": null,
+        "date_msds_expires": "May 02, 2025",
+        "filename": "SDS_06471757001_SeqCap EZ Developer Library_2May2028.pdf"
+    },
+    {
         "name": "SeqCap HE-Oligo Kit A & Kit B",
         "category": "Other Chemicals",
         "hazards": null,
         "date_msds_expires": "September 12, 2027",
         "filename": "Roche_SeqCapOligoKitAB_exp12Sep2027.pdf"
+    },
+    {
+        "name": "SeqCap Hybridization and Wash Kit",
+        "category": "NGS Sequencing",
+        "hazards": "Vial 5 contains tetramethylammonium chloride. Vial 6 contains formamide. Toxic and may cause serious health effects.",
+        "date_msds_expires": "February 10, 2027",
+        "filename": "SDS_08061033001_AVENIO Post-Hybridization Kit_EN_3_0.pdf"
     },
     {
         "name": "Silicone Oil",
