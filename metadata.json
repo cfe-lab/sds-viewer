@@ -136,8 +136,8 @@
         "name": "Acycloguanosine, Acyclovir (ACV)",
         "category": "Antiviral Drugs/Standards",
         "hazards": "Not considered a hazard with std use",
-        "date_msds_expires": "April 28, 2025",
-        "filename": "a4669_Acycloguanosine_2022april28.pdf"
+        "date_msds_expires": "May 26, 2028",
+        "filename": "Acycloguanosine_a4669_26May2028.pdf"
     },
     {
         "name": "Agarose, Standard Low mr - 500g - Bio-Rad",
@@ -283,8 +283,8 @@
         "name": "Bromophenol Blue",
         "category": "PCR",
         "hazards": null,
-        "date_msds_expires": "April 28, 2025",
-        "filename": "Bromophenolblue_b5525_2022-04-28.pdf"
+        "date_msds_expires": "May 18, 2028",
+        "filename": "Bromophenol_b5525_18May2028.pdf"
     },
     {
         "name": "Buffer Solution pH 1.68 (White)",
@@ -318,6 +318,13 @@
         "name": "Cabotegravir",
         "category": "Antiviral Drugs/Standards",
         "hazards": "Harmful if swallowed, very toxic to aquatic life with long lasting effects",
+        "date_msds_expires": "April 09, 2027",
+        "filename": "CS_CS-5078_Cabotegravir_exp09APR2027-signed.pdf"
+    },
+    {
+        "name": "Cabotegravir (reagent)",
+        "category": "TDM",
+        "hazards": null,
         "date_msds_expires": "April 09, 2027",
         "filename": "CS_CS-5078_Cabotegravir_exp09APR2027-signed.pdf"
     },
@@ -402,8 +409,8 @@
         "name": "DNase I",
         "category": "PCR",
         "hazards": null,
-        "date_msds_expires": "April 12, 2025",
-        "filename": "DNase I (RNase-Free)_M0303_12Apr2025.pdf"
+        "date_msds_expires": "December 19, 2026",
+        "filename": "DNaseI_M0303S_19Dec2026.pdf"
     },
     {
         "name": "Darunavir Ethanolate",
@@ -549,6 +556,13 @@
         "name": "Emtricitabine (FTC) - USP Reference Standard",
         "category": "Antiviral Drugs/Standards",
         "hazards": "Not considered a hazard with std use",
+        "date_msds_expires": "December 03, 2027",
+        "filename": "emtricitabine_1235106_extended_3Dec2027.pdf"
+    },
+    {
+        "name": "Emtricitabine FTC (reagent)",
+        "category": "TDM",
+        "hazards": "Avoid inhalation, skin and eye contact. Wear PPE.",
         "date_msds_expires": "December 03, 2027",
         "filename": "emtricitabine_1235106_extended_3Dec2027.pdf"
     },
@@ -983,8 +997,8 @@
         "name": "NEBNEXT RNA Library Prep Kit",
         "category": "NGS Sequencing",
         "hazards": null,
-        "date_msds_expires": "April 12, 2025",
-        "filename": "NEBNext Ultra RNA Library Prep Kit_2022-04-12.7z"
+        "date_msds_expires": "February 12, 2028",
+        "filename": "NEBNEXT RNA Library Prep Kit_E7530S_12Feb2028.pdf"
     },
     {
         "name": "NEBNext Multiplex Oligos for Illumina (Dual Index Primers Set 1)",
@@ -997,8 +1011,8 @@
         "name": "NEBNext rRNA Depletion Kit",
         "category": "NGS Sequencing",
         "hazards": null,
-        "date_msds_expires": "April 12, 2025",
-        "filename": "NEBNext\u00ae rRNA Depletion Kit_E6310_20220412.7z"
+        "date_msds_expires": "May 26, 2028",
+        "filename": "NEBNext_rRNA_Depletion_kit_26May2028.pdf"
     },
     {
         "name": "NEUTRACIT Caustic Neutralizer",
@@ -1015,7 +1029,7 @@
         "filename": "Avantor_Neutrasorb_exp19Jul2026-signed.pdf"
     },
     {
-        "name": "Nevirapine (NVP), Anhydrous - USP Reference Standard",
+        "name": "Nevirapine (NVP)",
         "category": "Antiviral Drugs/Standards",
         "hazards": "toxic, irritant",
         "date_msds_expires": "October 25, 2026",
@@ -1088,8 +1102,8 @@
         "name": "NxtScript RT",
         "category": "PCR",
         "hazards": null,
-        "date_msds_expires": "February 18, 2025",
-        "filename": "SDS_NxtscriptRT_2022-02-18.pdf"
+        "date_msds_expires": "June 27, 2027",
+        "filename": "NxtScript Reverse_07371527103_27June2027.pdf"
     },
     {
         "name": "One-Step RT-ddPCR Adv kit",
@@ -1158,15 +1172,15 @@
         "name": "Propylene glycol ",
         "category": "Other Chemicals",
         "hazards": null,
-        "date_msds_expires": "April 28, 2025",
-        "filename": "PPG_w294004_2022-04-28.pdf"
+        "date_msds_expires": "April 26, 2028",
+        "filename": "Propylene glycol _w294004_26April2028.pdf"
     },
     {
         "name": "Protector RNase Inhibitor",
         "category": "PCR",
         "hazards": null,
-        "date_msds_expires": "April 25, 2025",
-        "filename": "Roche_RNASE_09537643103_exp25Apr2025-signed.pdf"
+        "date_msds_expires": "June 24, 2027",
+        "filename": "RNase Inhibitor_09537643103_24June2027.pdf"
     },
     {
         "name": "Purell Hand Sanitizer Refill Pack",
@@ -1396,15 +1410,8 @@
         "name": "SYBR Safe DNA Gel Stain",
         "category": "Gels",
         "hazards": "Flammable",
-        "date_msds_expires": "May 04, 2025",
-        "filename": "SybrSafe_DNAStain_reviewed220504.pdf"
-    },
-    {
-        "name": "SeqCAP Adapter Kit A",
-        "category": "Other Chemicals",
-        "hazards": null,
-        "date_msds_expires": "March 22, 2025",
-        "filename": "Roche_SeqCap Adapter Kit A_exp22Mar2025-signed.pdf"
+        "date_msds_expires": "April 03, 2026",
+        "filename": "SYBR Safe\u00ae DNA gel stain_S33102_03April2026.pdf"
     },
     {
         "name": "SeqCap EZ Accessory Kit v2",
@@ -1459,8 +1466,8 @@
         "name": "Sodium Chloride Solution, 5M",
         "category": "NGS Sequencing",
         "hazards": null,
-        "date_msds_expires": "April 23, 2025",
-        "filename": "NaCL_s5150_2022-04-23.pdf"
+        "date_msds_expires": "May 02, 2028",
+        "filename": "Sodium chloride _s5150_02May2028.pdf"
     },
     {
         "name": "Sodium Hydroxide, 10N Concentrate",
@@ -1501,15 +1508,15 @@
         "name": "Spill-X-A, Acid Neutralizer",
         "category": "Safety/Emergency",
         "hazards": "Acute toxicity",
-        "date_msds_expires": "May 04, 2025",
-        "filename": "SDS_Spill-X-A_Reviewed 2022-05-04.pdf"
+        "date_msds_expires": "May 24, 2028",
+        "filename": "SDS_Spill-X-A_extended to 26May2028.pdf"
     },
     {
         "name": "Spill-X-C, Caustic Neutralizer",
         "category": "Safety/Emergency",
         "hazards": "Toxic, serious eye damage",
-        "date_msds_expires": "May 04, 2025",
-        "filename": "SDS_Spill-X-C_reviewed_2022-05-04.pdf"
+        "date_msds_expires": "May 26, 2028",
+        "filename": "SDS_Spill-X-C_ext26may2028.pdf"
     },
     {
         "name": "Spill-X-S, Solvent Adsorbent",
@@ -1725,8 +1732,8 @@
         "name": "Trizma Hydrochloride Solution, pH 9.0, 1M",
         "category": "3730 Sequencing",
         "hazards": "none",
-        "date_msds_expires": "April 25, 2025",
-        "filename": "Trizma_HCL_t2819_2022-04-25.pdf"
+        "date_msds_expires": "October 02, 2027",
+        "filename": "Trizma_t2819_02Oct2027.pdf"
     },
     {
         "name": "Tru Seq RNA Access Capture Reagent",
@@ -1830,8 +1837,8 @@
         "name": "XHO I",
         "category": "Other Chemicals",
         "hazards": null,
-        "date_msds_expires": "April 04, 2025",
-        "filename": "SDS_XHOI_2022-04-04.pdf"
+        "date_msds_expires": "December 19, 2026",
+        "filename": "XHOL_sdsR0146-_19Dec2026.pdf"
     },
     {
         "name": "ZR Viral RNA Kit",
@@ -1844,29 +1851,29 @@
         "name": "dATP PCR Grade, Sodium Solution, 20 ml",
         "category": "PCR",
         "hazards": "none",
-        "date_msds_expires": "April 09, 2025",
-        "filename": "Roche_dATP_04631056103_exp09Apr2025-signed.pdf"
+        "date_msds_expires": "April 05, 2027",
+        "filename": "dATP_04631056103_5April2027.pdf"
     },
     {
         "name": "dCTP PCR Grade, Sodium Solution, 20 ml ",
         "category": "PCR",
         "hazards": "none",
-        "date_msds_expires": "April 09, 2025",
-        "filename": "Roche_dCTP_04631072103_exp09Apr2025-signed.pdf"
+        "date_msds_expires": "April 05, 2027",
+        "filename": "dCTP_04631072103_5April2027.pdf"
     },
     {
         "name": "dGTP PCR Grade, Sodium Solution, 20 ml ",
         "category": "PCR",
         "hazards": "none",
-        "date_msds_expires": "April 09, 2025",
-        "filename": "Roche_dGTP_04631129103_exp09Apr2025-signed.pdf"
+        "date_msds_expires": "April 05, 2027",
+        "filename": "dGTP_04631129103_5April2027.pdf"
     },
     {
         "name": "dTTP PCR Grade, Sodium Solution, 20 ml ",
         "category": "PCR",
         "hazards": "none",
-        "date_msds_expires": "April 09, 2025",
-        "filename": "Roche_dTTP_04631137103_exp09Apr2025-signed.pdf"
+        "date_msds_expires": "April 05, 2027",
+        "filename": "dTTP_04631137103_5April2027.pdf"
     },
     {
         "name": "ddPCR Droplet Reader Oil",
@@ -1928,7 +1935,7 @@
         "name": "phi29 DNA Polymerase",
         "category": "PCR",
         "hazards": null,
-        "date_msds_expires": "April 12, 2025",
-        "filename": "SDS_phi29DNAPolymerase_2022-04-12.pdf"
+        "date_msds_expires": "December 19, 2026",
+        "filename": "Phi29 DNA polymerase_M0269S_19DEC2026.pdf"
     }
 ]
