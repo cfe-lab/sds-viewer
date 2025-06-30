@@ -294,13 +294,6 @@
         "filename": "pH 1.68 Buffer_910168_17April2028.pdf"
     },
     {
-        "name": "Buffer Solution pH 10, Blue",
-        "category": "TDM",
-        "hazards": null,
-        "date_msds_expires": "February 14, 2028",
-        "filename": "buffer-colrd-blue-ph10_SB115-4_14Feb2028.pdf"
-    },
-    {
         "name": "Buffer Solution pH 4, Red",
         "category": "TDM",
         "hazards": null,
@@ -859,13 +852,6 @@
         "hazards": "Avoid inhalation, skin and eye contact. Wear PPE.",
         "date_msds_expires": "March 08, 2027",
         "filename": "Sigma_Lamivudine_l1295_exp08Mar2027-signed.pdf"
-    },
-    {
-        "name": "Ledipasvir 10 mM from MedChem",
-        "category": "Antiviral Drugs/Standards",
-        "hazards": "Irritating to eyes, respiratory system and skin.",
-        "date_msds_expires": "December 19, 2026",
-        "filename": "Medchem_Ledipasvir_exp19Dec2026-signed.pdf"
     },
     {
         "name": "Leybonol Mineral Oil",
@@ -1615,13 +1601,6 @@
         "hazards": null,
         "date_msds_expires": "June 20, 2026",
         "filename": "Thermo_Topo_450641-signed.pdf"
-    },
-    {
-        "name": "Telaprevir",
-        "category": "Antiviral Drugs/Standards",
-        "hazards": "Toxic",
-        "date_msds_expires": "March 12, 2027",
-        "filename": "CS_CS-0285_Telaprevir_exp12MAR2027-signed.pdf"
     },
     {
         "name": "Tenofovir (Chemscene)",
