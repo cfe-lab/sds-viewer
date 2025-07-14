@@ -665,6 +665,13 @@
         "filename": "Fyrite_ghs_10-5057_03Dec2027.pdf"
     },
     {
+        "name": "Gel Loading Dye, Purple (6X)",
+        "category": "Other Chemicals",
+        "hazards": null,
+        "date_msds_expires": "January 14, 2028",
+        "filename": "NEB_GelLoadingDyePurple_exp14Jan2028-signed.pdf"
+    },
+    {
         "name": "GeneScan DS-33 Installation Standard",
         "category": "3730 Sequencing",
         "hazards": null,
@@ -1090,6 +1097,13 @@
         "hazards": null,
         "date_msds_expires": "November 22, 2026",
         "filename": "Innovative_Research_Human_exp22Nov2026-signed.pdf"
+    },
+    {
+        "name": "NspI",
+        "category": "Other Chemicals",
+        "hazards": null,
+        "date_msds_expires": "December 19, 2026",
+        "filename": "NEB_NspI_exp19Dec2026-signed.pdf"
     },
     {
         "name": "Nuclease-Free Water (not DEPC-Treated)",
@@ -1582,6 +1596,20 @@
         "filename": "T36 Disinfex_Din02231344_review_10Jan2026.pdf"
     },
     {
+        "name": "T4 DNA Ligase",
+        "category": "Other Chemicals",
+        "hazards": null,
+        "date_msds_expires": "December 19, 2026",
+        "filename": "NEB_T4_Ligase_exp19Dec2026-signed.pdf"
+    },
+    {
+        "name": "T4 DNA Ligase Reaction Buffer",
+        "category": "Other Chemicals",
+        "hazards": null,
+        "date_msds_expires": "December 19, 2026",
+        "filename": "NEB_T4_Ligase_Buffer_exp19Dec2026-signed.pdf"
+    },
+    {
         "name": "TAE Buffer, 50X, UltraPure DNA Typing Grade",
         "category": "Gels",
         "hazards": "mild irritant",
@@ -1930,5 +1958,12 @@
         "hazards": null,
         "date_msds_expires": "December 19, 2026",
         "filename": "Phi29 DNA polymerase_M0269S_19DEC2026.pdf"
+    },
+    {
+        "name": "rCutSmart Buffer",
+        "category": "Other Chemicals",
+        "hazards": null,
+        "date_msds_expires": "December 19, 2026",
+        "filename": "NEB_rCutsmartBuffer_19dec2026-signed.pdf"
     }
 ]
