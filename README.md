@@ -2,7 +2,7 @@
 
 [![Check](https://github.com/cfe-lab/sds-viewer/actions/workflows/selfcheck.yml/badge.svg)](https://github.com/cfe-lab/sds-viewer/actions/workflows/selfcheck.yml)
 
-Last update: July 14, 2025
+Last update: July 28, 2025
 
                                                                                                                                                                                                                                                                                                                                                                                                 
 | Name                                                             | Category                  | Hazards                                                                                                                                                                                                                                                 | Expiry Date        | Document       |
@@ -138,7 +138,7 @@ Last update: July 14, 2025
 | Liquinox phosphate-free liquid detergent                         | Disinfectants             | None                                                                                                                                                                                                                                                    | August 01, 2025    | [📄 open][128] |
 | Lopinavir (LPV)                                                  | Antiviral Drugs/Standards | Harmful if swollowed, in contact with skin, if inhaled                                                                                                                                                                                                  | September 28, 2027 | [📄 open][129] |
 | Lymphoprep                                                       | Other Chemicals           | None                                                                                                                                                                                                                                                    | April 25, 2028     | [📄 open][130] |
-| MS Chemical Kit 1, Low-High Conc. PPGs                           | TDM                       | flammable, toxic                                                                                                                                                                                                                                        | June 03, 2027      | [📄 open][131] |
+| MS Chemical Kit 1, Low-High Conc. PPGs                           | TDM                       | flammable, toxic                                                                                                                                                                                                                                        | July 23, 2028      | [📄 open][131] |
 | Magnesium Chloride Solution, 1M                                  | 3730 Sequencing           | None                                                                                                                                                                                                                                                    | December 28, 2025  | [📄 open][132] |
 | Magnesium Sulphate, 50mM                                         | Other Chemicals           | None                                                                                                                                                                                                                                                    | March 09, 2026     | [📄 open][133] |
 | Maraviroc                                                        | Antiviral Drugs/Standards | None                                                                                                                                                                                                                                                    | March 12, 2027     | [📄 open][134] |
@@ -251,7 +251,7 @@ Last update: July 14, 2025
 | Tipranavir from MedChem Express                                  | Antiviral Drugs/Standards | Irritating to eyes, respitory system and eyes                                                                                                                                                                                                           | November 22, 2026  | [📄 open][241] |
 | TrackIt 1 Kb Plus DNA Ladder                                     | Gels                      | None                                                                                                                                                                                                                                                    | June 05, 2027      | [📄 open][242] |
 | Triazine Pesticides Standards Mix                                | TDM                       | Flammable, Poisonous, Aspiration                                                                                                                                                                                                                        | November 25, 2026  | [📄 open][243] |
-| Trifluoroacetic Acid                                             | TDM                       | highly corrosive                                                                                                                                                                                                                                        | July 18, 2025      | [📄 open][244] |
+| Trifluoroacetic Acid                                             | TDM                       | highly corrosive                                                                                                                                                                                                                                        | July 23, 2028      | [📄 open][244] |
 | Tris, 1M, pH 8.0                                                 | Other Chemicals           | None                                                                                                                                                                                                                                                    | December 27, 2026  | [📄 open][245] |
 | Tris, 1M, pH 8.5                                                 | NGS Sequencing            | No change noted, 08-Jun-2020                                                                                                                                                                                                                            | May 09, 2026       | [📄 open][246] |
 | Tris-buffered saline (TBS), pH 7.4                               | Other Chemicals           | None                                                                                                                                                                                                                                                    | March 09, 2026     | [📄 open][247] |
@@ -422,7 +422,7 @@ Last update: July 14, 2025
 [128]: files/z273279-Liqui-nox%20phosphate-free%20liquid%20detergent_01Aug2022.pdf
 [129]: files/Lopinavir_sml1222_28Sep2027.pdf
 [130]: files/Lymphoprep_DX20981_25April2028.pdf
-[131]: files/Standards%20Chemical%20Kit%20PN%204412399%20-%20SDSs.zip
+[131]: files/MS%20Chemical%20kit_4406127_23Jul2028.pdf
 [132]: files/Magnesium%20chloride%20solution_M1028_28Dec2025.pdf
 [133]: files/MgSO4%20Assay_52044_reviewed_9March2026.pdf
 [134]: files/CS_CS-0366_Maraviroc_exp12MAR2027-signed.pdf
@@ -535,7 +535,7 @@ Last update: July 14, 2025
 [241]: files/MedChemExpress_Tipranavir_HY15148_exp22NOV2026-signed.pdf
 [242]: files/Track_104880851F_05Jun2027.pdf
 [243]: files/Sigma_Triazine_exp25Nov2026-signed.pdf
-[244]: files/Sigma_Triluoroacetic_acid_v6.7_18JUL2022.pdf
+[244]: files/trifluoroacetic-acid_23Jul2028.pdf
 [245]: files/Thermo_Tris8__AM9855G_exp27DEC2026-signed.pdf
 [246]: files/Tris_SDS_786-269_09MAY2023.pdf
 [247]: files/TRIS-buffered_saline_%28TBS__10X_MTR_CLP1_J62938_reviewed_09March2026.pdf

@@ -920,8 +920,8 @@
         "name": "MS Chemical Kit 1, Low-High Conc. PPGs",
         "category": "TDM",
         "hazards": "flammable, toxic",
-        "date_msds_expires": "June 03, 2027",
-        "filename": "Standards Chemical Kit PN 4412399 - SDSs.zip"
+        "date_msds_expires": "July 23, 2028",
+        "filename": "MS Chemical kit_4406127_23Jul2028.pdf"
     },
     {
         "name": "Magnesium Chloride Solution, 1M",
@@ -1711,8 +1711,8 @@
         "name": "Trifluoroacetic Acid",
         "category": "TDM",
         "hazards": "highly corrosive",
-        "date_msds_expires": "July 18, 2025",
-        "filename": "Sigma_Triluoroacetic_acid_v6.7_18JUL2022.pdf"
+        "date_msds_expires": "July 23, 2028",
+        "filename": "trifluoroacetic-acid_23Jul2028.pdf"
     },
     {
         "name": "Tris, 1M, pH 8.0",
