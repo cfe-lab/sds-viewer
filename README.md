@@ -2,7 +2,7 @@
 
 [![Check](https://github.com/cfe-lab/sds-viewer/actions/workflows/selfcheck.yml/badge.svg)](https://github.com/cfe-lab/sds-viewer/actions/workflows/selfcheck.yml)
 
-Last update: July 28, 2025
+Last update: August 11, 2025
 
                                                                                                                                                                                                                                                                                                                                                                                                 
 | Name                                                             | Category                  | Hazards                                                                                                                                                                                                                                                 | Expiry Date        | Document       |
@@ -15,7 +15,7 @@ Last update: July 28, 2025
 | 1M Potassium Chloride Solution                                   | Other Chemicals           | None                                                                                                                                                                                                                                                    | August 24, 2027    | [📄 open][5]   |
 | 1M Tris-HCL buffer, pH 6.8                                       | PCR                       | None                                                                                                                                                                                                                                                    | March 09, 2026     | [📄 open][6]   |
 | 1M Tris-HCl, pH 7.5                                              | Other Chemicals           | None                                                                                                                                                                                                                                                    | January 28, 2027   | [📄 open][7]   |
-| 2-Mercaptoethanol                                                | Extraction                | acute toxicity, skin sensitization, organ and reproductive toxicity                                                                                                                                                                                     | July 21, 2025      | [📄 open][8]   |
+| 2-Mercaptoethanol                                                | Extraction                | acute toxicity, skin sensitization, organ and reproductive toxicity                                                                                                                                                                                     | May 05, 2028       | [📄 open][8]   |
 | 3730 POP-7 Polymer                                               | 3730 Sequencing           | None                                                                                                                                                                                                                                                    | February 14, 2028  | [📄 open][9]   |
 | 3730 Running Buffer, 10X                                         | 3730 Sequencing           | None                                                                                                                                                                                                                                                    | October 15, 2027   | [📄 open][10]  |
 | 40% Potassium Hydroxide (Voges-Proskauer B)                      | Other Chemicals           | Caustic, harmful if swallowed                                                                                                                                                                                                                           | April 14, 2028     | [📄 open][11]  |
@@ -143,7 +143,7 @@ Last update: July 28, 2025
 | Magnesium Sulphate, 50mM                                         | Other Chemicals           | None                                                                                                                                                                                                                                                    | March 09, 2026     | [📄 open][133] |
 | Maraviroc                                                        | Antiviral Drugs/Standards | None                                                                                                                                                                                                                                                    | March 12, 2027     | [📄 open][134] |
 | Metergoline                                                      | Antiviral Drugs/Standards | toxic                                                                                                                                                                                                                                                   | September 27, 2025 | [📄 open][135] |
-| Methanol, LCMS grade                                             | TDM                       | highly flammable, toxic                                                                                                                                                                                                                                 | July 26, 2025      | [📄 open][136] |
+| Methanol, LCMS grade                                             | TDM                       | highly flammable, toxic                                                                                                                                                                                                                                 | July 29, 2028      | [📄 open][136] |
 | MiSeq v2 Reagent Kit, 300 cycles, Box 1 of 2                     | NGS Sequencing            | None                                                                                                                                                                                                                                                    | November 14, 2025  | [📄 open][137] |
 | MiSeq v2 Reagent Kit, 500 & 300 cycles, Box 2 of 2               | NGS Sequencing            | may cause skin allergies                                                                                                                                                                                                                                | December 28, 2025  | [📄 open][138] |
 | MiSeq v2 Reagent Kit, 500 cycles, Box 1 of 2                     | NGS Sequencing            | Toxin, possible mutagen, carcinogen, teratagen                                                                                                                                                                                                          | December 02, 2025  | [📄 open][139] |
@@ -153,7 +153,7 @@ Last update: July 28, 2025
 | NEBNEXT RNA Library Prep Kit                                     | NGS Sequencing            | None                                                                                                                                                                                                                                                    | February 12, 2028  | [📄 open][143] |
 | NEBNext Multiplex Oligos for Illumina (Dual Index Primers Set 1) | NGS Sequencing            | None                                                                                                                                                                                                                                                    | July 04, 2028      | [📄 open][144] |
 | NEBNext rRNA Depletion Kit                                       | NGS Sequencing            | None                                                                                                                                                                                                                                                    | May 26, 2028       | [📄 open][145] |
-| NEUTRACIT Caustic Neutralizer                                    | Safety/Emergency          | irritant                                                                                                                                                                                                                                                | July 26, 2025      | [📄 open][146] |
+| NEUTRACIT Caustic Neutralizer                                    | Safety/Emergency          | irritant                                                                                                                                                                                                                                                | August 05, 2028    | [📄 open][146] |
 | NEUTRASORB Acid Neutralizer                                      | Safety/Emergency          | irritant                                                                                                                                                                                                                                                | July 19, 2026      | [📄 open][147] |
 | Nevirapine (NVP)                                                 | Antiviral Drugs/Standards | toxic, irritant                                                                                                                                                                                                                                         | October 25, 2026   | [📄 open][148] |
 | Nevirapine-d3                                                    | Antiviral Drugs/Standards | None                                                                                                                                                                                                                                                    | May 10, 2026       | [📄 open][149] |
@@ -299,7 +299,7 @@ Last update: July 28, 2025
 [5]: files/Potassium%20chloride%20solution%20_60142_24August2027.pdf
 [6]: files/TRIS__1.0M_Buffer_Solution__pH_6.8_MTR_CLP1_EN_reviewed_9march2026.pdf
 [7]: files/Thermo_15567027_exp26Feb2027-signed.pdf
-[8]: files/M6250-10ml_21985023_21Jul2025.pdf
+[8]: files/2-Mercaptoethanol_M6250_05May2028.pdf
 [9]: files/4363929_POP7-3730_14feb2028.pdf
 [10]: files/4335613_MTR-NALT_EN_31-Jan-2025.pdf
 [11]: files/40_Potassium%20Hydroxide_Voges-ProskauerB_R21281_17April2028.pdf
@@ -427,7 +427,7 @@ Last update: July 28, 2025
 [133]: files/MgSO4%20Assay_52044_reviewed_9March2026.pdf
 [134]: files/CS_CS-0366_Maraviroc_exp12MAR2027-signed.pdf
 [135]: files/Metergoline_m3668_2022sep27.pdf
-[136]: files/MeOH_34966-4X4L_SDS_CA_E_2019-09-06.pdf
+[136]: files/Methanol_34966-4X4L_29Jul2028.pdf
 [137]: files/MiSeq%C2%AE%20Reagent%20Kit%20v2%20%28300%20cycle%29_MS-102-2022_reviewed_14Nov2025.zip
 [138]: files/MiSeq%C2%AE%20v2%20Reagent%20Kit%20Box%202%20of2.zip
 [139]: files/MiSeq%20v2%20Reagent%20Kit%2C%20500%20cycles%2C%20Box%201%20of%202_2Dec2025.zip
@@ -437,7 +437,7 @@ Last update: July 28, 2025
 [143]: files/NEBNEXT%20RNA%20Library%20Prep%20Kit_E7530S_12Feb2028.pdf
 [144]: files/NEBNext%20Multiplex%20Oligos%20for%20Illumina_ext_04Jul2028.pdf
 [145]: files/NEBNext_rRNA_Depletion_kit_26May2028.pdf
-[146]: files/SDS_BAKER%204470-05.pdf
+[146]: files/Neutracit_BAKER_4470-05_05Aug2028.pdf
 [147]: files/Avantor_Neutrasorb_exp19Jul2026-signed.pdf
 [148]: files/USP_Nevirapine-Anhydrous_1460703_exp25Oct2025-signed.pdf
 [149]: files/ClearSynth_Nevirapine_SDS_10MAY2023.pdf

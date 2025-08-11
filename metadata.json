@@ -59,8 +59,8 @@
         "name": "2-Mercaptoethanol",
         "category": "Extraction",
         "hazards": "acute toxicity, skin sensitization, organ and reproductive toxicity",
-        "date_msds_expires": "July 21, 2025",
-        "filename": "M6250-10ml_21985023_21Jul2025.pdf"
+        "date_msds_expires": "May 05, 2028",
+        "filename": "2-Mercaptoethanol_M6250_05May2028.pdf"
     },
     {
         "name": "3730 POP-7 Polymer",
@@ -955,8 +955,8 @@
         "name": "Methanol, LCMS grade",
         "category": "TDM",
         "hazards": "highly flammable, toxic",
-        "date_msds_expires": "July 26, 2025",
-        "filename": "MeOH_34966-4X4L_SDS_CA_E_2019-09-06.pdf"
+        "date_msds_expires": "July 29, 2028",
+        "filename": "Methanol_34966-4X4L_29Jul2028.pdf"
     },
     {
         "name": "MiSeq v2 Reagent Kit, 300 cycles, Box 1 of 2",
@@ -1025,8 +1025,8 @@
         "name": "NEUTRACIT Caustic Neutralizer",
         "category": "Safety/Emergency",
         "hazards": "irritant",
-        "date_msds_expires": "July 26, 2025",
-        "filename": "SDS_BAKER 4470-05.pdf"
+        "date_msds_expires": "August 05, 2028",
+        "filename": "Neutracit_BAKER_4470-05_05Aug2028.pdf"
     },
     {
         "name": "NEUTRASORB Acid Neutralizer",
