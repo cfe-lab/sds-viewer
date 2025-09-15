@@ -1708,13 +1708,6 @@
         "filename": "Sigma_Triazine_exp25Nov2026-signed.pdf"
     },
     {
-        "name": "Trifluoroacetic Acid",
-        "category": "TDM",
-        "hazards": "highly corrosive",
-        "date_msds_expires": "July 23, 2028",
-        "filename": "trifluoroacetic-acid_23Jul2028.pdf"
-    },
-    {
         "name": "Tris, 1M, pH 8.0",
         "category": "Other Chemicals",
         "hazards": null,
