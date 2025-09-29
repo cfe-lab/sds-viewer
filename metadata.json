@@ -17,15 +17,15 @@
         "name": "0.1M Sodium Chloride Solution",
         "category": "Other Chemicals",
         "hazards": null,
-        "date_msds_expires": "September 13, 2025",
-        "filename": "sds_Sodium Chloride 1 Molar Solution_SS0441_2022-09-13.pdf"
+        "date_msds_expires": "September 13, 2028",
+        "filename": "sds_Sodium Chloride 1 Molar Solution_SS0441_280913.pdf"
     },
     {
         "name": "1 M Magnesium Sulphate",
         "category": "Other Chemicals",
         "hazards": null,
-        "date_msds_expires": "September 13, 2025",
-        "filename": "MgSO4_34276-1L_Fluka_2022-09-13.pdf"
+        "date_msds_expires": "July 15, 2027",
+        "filename": "34276-1L_270715.pdf"
     },
     {
         "name": "10x Klentaq1 Buffer",
@@ -108,15 +108,15 @@
         "name": "Abacavir Sulfate",
         "category": "Antiviral Drugs/Standards",
         "hazards": "Eye irritation, Skin sensitisation, Germ cell mutagenicity, Carcinogenicity, Reproductive toxicity",
-        "date_msds_expires": "August 19, 2025",
-        "filename": "Abacavir (sulfate)_CS-2023_19Aug2025.pdf"
+        "date_msds_expires": "July 01, 2028",
+        "filename": "Abacavir (sulfate)_CS-250701.pdf"
     },
     {
         "name": "Acetic Acid, Glacial, HPLC grade",
         "category": "TDM",
         "hazards": "corrosive, irritant",
-        "date_msds_expires": "September 18, 2025",
-        "filename": "Acetic acid_000000020238_2019sep18_reviewed.pdf"
+        "date_msds_expires": "October 13, 2026",
+        "filename": "Acetic_acid_MTR_AGHS_CE_261013.pdf"
     },
     {
         "name": "Acetone, HPLC grade",
@@ -528,8 +528,8 @@
         "name": "Electrolyte Solution KCl 3 mol/L",
         "category": "TDM",
         "hazards": null,
-        "date_msds_expires": "August 09, 2025",
-        "filename": "Electrolyte_KCl_3_mol_l_2022-08-09.pdf"
+        "date_msds_expires": "September 23, 2028",
+        "filename": "Electrolyte_KCl_3_mol_l_280923.pdf"
     },
     {
         "name": "Elvitegravir",
@@ -703,8 +703,8 @@
         "name": "HIV-1 Genotyping Kit Amplification Module",
         "category": "PCR",
         "hazards": null,
-        "date_msds_expires": "September 15, 2025",
-        "filename": "ABI_HIV-1_Genotyping_exp15Sep2025-signed.zip"
+        "date_msds_expires": "September 23, 2028",
+        "filename": "HIV-1Genotyping kit_280923.pdf"
     },
     {
         "name": "HIV-1 Genotyping Kit Cycle Sequencing",
@@ -752,8 +752,8 @@
         "name": "Human Cot-1 DNA ",
         "category": "Other Chemicals",
         "hazards": null,
-        "date_msds_expires": "October 06, 2025",
-        "filename": "Human Cot-1 DNA_15279011_2022-10-06.pdf"
+        "date_msds_expires": "November 19, 2027",
+        "filename": "15279011V_Human COT1DNA_271119.pdf"
     },
     {
         "name": "Human Plasma, Normal, Pooled, ACD A",
@@ -847,6 +847,13 @@
         "filename": "JumpStart_d9307_13July2027.pdf"
     },
     {
+        "name": "Kapa HTP Library Kit",
+        "category": "Other Chemicals",
+        "hazards": "Irritant to eyes, respiratory system and skin.  Harmful in contact with skin. Toxic if swallowed",
+        "date_msds_expires": "December 06, 2027",
+        "filename": "07961928001_KAPA_271206.pdf"
+    },
+    {
         "name": "Klentaq LA DNA Polymerase",
         "category": "PCR",
         "hazards": null,
@@ -885,8 +892,8 @@
         "name": "Lime-A-Way",
         "category": "Disinfectants",
         "hazards": null,
-        "date_msds_expires": "July 26, 2025",
-        "filename": "SDS_Lime-A-Way_2016-06-02.pdf"
+        "date_msds_expires": "September 22, 2028",
+        "filename": "SDS_Lime-A-Way_250922.pdf"
     },
     {
         "name": "Liqui-Jet 2 - Steris Canada",
@@ -899,8 +906,8 @@
         "name": "Liquinox phosphate-free liquid detergent",
         "category": "Disinfectants",
         "hazards": null,
-        "date_msds_expires": "August 01, 2025",
-        "filename": "z273279-Liqui-nox phosphate-free liquid detergent_01Aug2022.pdf"
+        "date_msds_expires": "September 22, 2028",
+        "filename": "z273279_Liqui-nox_280922.pdf"
     },
     {
         "name": "Lopinavir (LPV)",
@@ -948,8 +955,8 @@
         "name": "Metergoline",
         "category": "Antiviral Drugs/Standards",
         "hazards": "toxic",
-        "date_msds_expires": "September 27, 2025",
-        "filename": "Metergoline_m3668_2022sep27.pdf"
+        "date_msds_expires": "April 03, 2027",
+        "filename": "m3668_Metergoline_270403.pdf"
     },
     {
         "name": "Methanol, LCMS grade",
@@ -1372,7 +1379,7 @@
         "filename": "Rilpivirine_CS-0440_25April2028.pdf"
     },
     {
-        "name": "Ritonavir (RTV) - USP Reference Standard",
+        "name": "Ritonavir (RTV) ",
         "category": "Antiviral Drugs/Standards",
         "hazards": "irritant",
         "date_msds_expires": "April 25, 2028",
@@ -1403,8 +1410,8 @@
         "name": "SARS-CoV-Negative",
         "category": "Other Chemicals",
         "hazards": null,
-        "date_msds_expires": "August 18, 2025",
-        "filename": "Exact Diagnostics SARS-CoV-2 Negative_COV000_18Aug2025.pdf"
+        "date_msds_expires": "September 22, 2028",
+        "filename": "Exact Diagnostics SARS-CoV-2 Negative_COV000_280922.pdf"
     },
     {
         "name": "SOLUSORB Solvent Adsorbent",
@@ -1585,8 +1592,8 @@
         "name": "Synthetic SARS-CoV-2-RNA Control ",
         "category": "PCR",
         "hazards": "Non-hazardous",
-        "date_msds_expires": "July 26, 2025",
-        "filename": "SDS_Twist Synthetic SARS-CoV-2 RNA Control_v8.2 .pdf"
+        "date_msds_expires": "September 22, 2028",
+        "filename": "SDS_Twist Synthetic SARS-CoV-2 RNA Control_v8.2 _280922.pdf"
     },
     {
         "name": "T36 Disinfex",
@@ -1732,8 +1739,8 @@
         "name": "Triton X-100",
         "category": "Other Chemicals",
         "hazards": null,
-        "date_msds_expires": "September 05, 2025",
-        "filename": "Triton X-100_t8787_05Sep2022.pdf"
+        "date_msds_expires": "November 14, 2027",
+        "filename": "t8787_Triton_271114.pdf"
     },
     {
         "name": "Trizma Base",
@@ -1837,8 +1844,8 @@
         "name": "Water LC-MS Grade",
         "category": "TDM",
         "hazards": null,
-        "date_msds_expires": "August 09, 2025",
-        "filename": "Water_LCMS grade_09-Aug-2022.pdf"
+        "date_msds_expires": "September 22, 2028",
+        "filename": "Water_LCMS grade_280922.pdf"
     },
     {
         "name": "Water, DEPC-treated",
@@ -1907,28 +1914,28 @@
         "name": "easyMAG Extraction Buffer 1",
         "category": "Extraction",
         "hazards": "Guanidinium thiocyanate",
-        "date_msds_expires": "July 26, 2025",
-        "filename": "EasyMag_buffer1_MSDS_2019-03-13.pdf"
+        "date_msds_expires": "September 22, 2028",
+        "filename": "EasyMag_buffer1_MSDS_20280922.pdf"
     },
     {
         "name": "easyMAG Extraction Buffer 2",
         "category": "Extraction",
         "hazards": null,
-        "date_msds_expires": "July 26, 2025",
-        "filename": "EasyMag_buffer2_MSDS.pdf"
+        "date_msds_expires": "September 22, 2028",
+        "filename": "EasyMag_buffer2_MSDS_280922.pdf"
     },
     {
         "name": "easyMAG Extraction Buffer 3",
         "category": "Extraction",
         "hazards": null,
-        "date_msds_expires": "July 26, 2025",
-        "filename": "EasyMag_buffer3_MSDS.pdf"
+        "date_msds_expires": "September 22, 2028",
+        "filename": "EasyMag_buffer3_SDS_280922.pdf"
     },
     {
         "name": "easyMAG Lysis Buffer",
         "category": "Extraction",
         "hazards": "Guanidinium thiocyanate",
-        "date_msds_expires": "July 26, 2025",
+        "date_msds_expires": "September 22, 2028",
         "filename": "EasyMag_lysis_buffer_MSDS_2019-03-13.pdf"
     },
     {
