@@ -196,6 +196,13 @@
         "filename": "HIV1gp120_PA173098_25Nov2027.pdf"
     },
     {
+        "name": "Asqualab ARV",
+        "category": "Antiviral Drugs/Standards",
+        "hazards": null,
+        "date_msds_expires": "October 01, 2028",
+        "filename": "SDS_lyophilized_EQA_V2_20250929.docx"
+    },
+    {
         "name": "Atazanavir Bisulphate",
         "category": "Antiviral Drugs/Standards",
         "hazards": null,
@@ -665,13 +672,6 @@
         "filename": "Fyrite_ghs_10-5057_03Dec2027.pdf"
     },
     {
-        "name": "Gel Loading Dye, Purple (6X)",
-        "category": "Other Chemicals",
-        "hazards": null,
-        "date_msds_expires": "January 14, 2028",
-        "filename": "NEB_GelLoadingDyePurple_exp14Jan2028-signed.pdf"
-    },
-    {
         "name": "GeneScan DS-33 Installation Standard",
         "category": "3730 Sequencing",
         "hazards": null,
@@ -724,15 +724,15 @@
         "name": "Holland 1",
         "category": "TDM",
         "hazards": null,
-        "date_msds_expires": "July 04, 2028",
-        "filename": "SAFETY DATA SHEET_lyophilized_EQA_2019_04_29_ext_4Jul2028.docx"
+        "date_msds_expires": "October 01, 2028",
+        "filename": "SDS_lyophilized_EQA_V2_20250929.docx"
     },
     {
         "name": "Holland 2",
         "category": "TDM",
         "hazards": null,
-        "date_msds_expires": "July 04, 2028",
-        "filename": "SAFETY DATA SHEET_lyophilized_EQA_2019_04_29_ext_4Jul2028.docx"
+        "date_msds_expires": "October 01, 2028",
+        "filename": "SDS_lyophilized_EQA_V2_20250929.docx"
     },
     {
         "name": "Home Defense Max Insecticide",
@@ -1204,6 +1204,13 @@
         "filename": "RNase Inhibitor_09537643103_24June2027.pdf"
     },
     {
+        "name": "PstI",
+        "category": "PCR",
+        "hazards": null,
+        "date_msds_expires": "March 22, 2027",
+        "filename": "Pstl_R0140_270322.PDF"
+    },
+    {
         "name": "Purell Hand Sanitizer Refill Pack",
         "category": "Disinfectants",
         "hazards": null,
@@ -1326,15 +1333,15 @@
         "name": "Reconstituted Holland 1",
         "category": "TDM",
         "hazards": null,
-        "date_msds_expires": "July 04, 2028",
-        "filename": "SAFETY DATA SHEET_lyophilized_EQA_2019_04_29_ext_4Jul2028.docx"
+        "date_msds_expires": "October 01, 2028",
+        "filename": "SDS_lyophilized_EQA_V2_20250929.docx"
     },
     {
         "name": "Reconstituted Holland 2",
         "category": "TDM",
         "hazards": null,
-        "date_msds_expires": "July 04, 2028",
-        "filename": "SAFETY DATA SHEET_lyophilized_EQA_2019_04_29_ext_4Jul2028.docx"
+        "date_msds_expires": "October 01, 2028",
+        "filename": "SDS_lyophilized_EQA_V2_20250929.docx"
     },
     {
         "name": "Reconstituted Instand 1",
