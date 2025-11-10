@@ -150,8 +150,8 @@
         "name": "Agencourt AMPure XP",
         "category": "NGS Sequencing",
         "hazards": null,
-        "date_msds_expires": "October 18, 2025",
-        "filename": "AMPure XP_A63880AF_2019Oct15.pdf"
+        "date_msds_expires": "September 14, 2028",
+        "filename": "A63880AM_14Sept2028.pdf"
     },
     {
         "name": "Agencourt RNAClean XP",
@@ -381,8 +381,8 @@
         "name": "D-(+)-Trehalose dihydrate",
         "category": "Other Chemicals",
         "hazards": null,
-        "date_msds_expires": "October 29, 2025",
-        "filename": "SDS_t5251.pdf"
+        "date_msds_expires": "July 29, 2028",
+        "filename": "Trehalose dihydrate_t5251_29-Jul-28.pdf"
     },
     {
         "name": "DNA Prep, (M) Tagmentation beads(24 Samples)  ",
@@ -465,8 +465,8 @@
         "name": "Dolutegravir-D5,C13",
         "category": "Antiviral Drugs/Standards",
         "hazards": "Warning!  Very toxic to aquatic life with long lasting effects",
-        "date_msds_expires": "October 11, 2025",
-        "filename": "Dolutegravir_C4671_exp11Oct2025.pdf"
+        "date_msds_expires": "November 04, 2028",
+        "filename": "Dolutegravir_C4671_exp04Nov28.pdf"
     },
     {
         "name": "Doravirine (DOR)",
@@ -661,8 +661,8 @@
         "name": "Formic Acid",
         "category": "TDM",
         "hazards": "corrosive",
-        "date_msds_expires": "November 25, 2025",
-        "filename": "TFS_formic-acid-99-analysis-thermo-scientific_exp25Nov2025-signed.pdf"
+        "date_msds_expires": "October 07, 2028",
+        "filename": "Formic_acid_MTR_CLP1_EN_270480_281007.pdf"
     },
     {
         "name": "Fyrite CO2 indicator fluid refill",
@@ -864,8 +864,8 @@
         "name": "Lambda DNA Standard (100 ug/ml)",
         "category": "Quant",
         "hazards": null,
-        "date_msds_expires": "November 08, 2025",
-        "filename": "P7589COMPONENTC_Lamda DNA standard_review_8Nov2022.pdf"
+        "date_msds_expires": "April 18, 2026",
+        "filename": "Lambda DNA_P7589_180426.pdf"
     },
     {
         "name": "Lamivudine (3TC) - USP Reference Standard",
@@ -899,8 +899,8 @@
         "name": "Liqui-Jet 2 - Steris Canada",
         "category": "Disinfectants",
         "hazards": "Causes serious eye and skin damage",
-        "date_msds_expires": "October 18, 2025",
-        "filename": "Liqui-Jet2 2022-Oct-18_reviewed.zip"
+        "date_msds_expires": "November 04, 2028",
+        "filename": "Liqui-Jet 2_ext281104.pdf"
     },
     {
         "name": "Liquinox phosphate-free liquid detergent",
@@ -1088,15 +1088,15 @@
         "name": "Nextera XT Library Prep Kit (Box 1)",
         "category": "NGS Sequencing",
         "hazards": "Normalization wash-Carcinogenicity, Reproductive toxicity, Specific organ toxicity; Normalization additives-Carcinogenicity, Reproductive toxicity, Specific organ toxicity; Tagment DNA Buffer- eye irritation, carcinogenicity, reproductive toxicity",
-        "date_msds_expires": "November 14, 2025",
-        "filename": "Nextera\u00ae XT DNA Sample Preparation Kit_FC-131-1024_14Nov2025.zip"
+        "date_msds_expires": "November 04, 2028",
+        "filename": "NXTR_XT_DNA_281104.pdf"
     },
     {
         "name": "Nextera XT Library Prep Kit (Box 2)",
         "category": "NGS Sequencing",
         "hazards": null,
-        "date_msds_expires": "November 14, 2025",
-        "filename": "Nextera\u00ae XT DNA Sample Preparation Kit_FC-131-1024_14Nov2025.zip"
+        "date_msds_expires": "November 04, 2028",
+        "filename": "NXTR_XT_DNA_281104.pdf"
     },
     {
         "name": "Normal Human Serum",
@@ -1257,7 +1257,7 @@
         "category": "Quant",
         "hazards": "Combustible and toxic",
         "date_msds_expires": "October 17, 2025",
-        "filename": "Quant-it RiboGreen RNA Assay Kit_R11490_2019may31_reviewed.zip"
+        "filename": "Quant-iT RiboGreen_R11490_260423.pdf"
     },
     {
         "name": "RBC Lysis Solution",
@@ -1291,7 +1291,7 @@
         "name": "RNaseOUT Recombinant Ribonuclease Inhibitor",
         "category": "PCR",
         "hazards": null,
-        "date_msds_expires": "November 14, 2025",
+        "date_msds_expires": "December 14, 2025",
         "filename": "RNaseOUT RecombinantRibonucleaseInhibitor_10777019_20190811reviewed.pdf"
     },
     {
@@ -1774,8 +1774,8 @@
         "name": "Tru Seq RNA Access Capture Reagent",
         "category": "Other Chemicals",
         "hazards": "SMB.STREPTAVIDIN MAGNETIC BEADS.-Carcinogenic, Reproductive toxic, Specific target organ toxic",
-        "date_msds_expires": "October 13, 2025",
-        "filename": "TruSeq RNA Access Capture Reagent_15052313_13Oct2025.zip"
+        "date_msds_expires": "November 04, 2028",
+        "filename": "Tru Seq RNA Access_15052313_04Nov2028.pdf"
     },
     {
         "name": "Tru Seq RNA Access Oligo Kit",
