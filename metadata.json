@@ -623,6 +623,13 @@
         "filename": "Extran_107555_SDS_05Nov2027.PDF"
     },
     {
+        "name": "Fenwal Blood-Pack Units, CPDA-1",
+        "category": "IDC Specimen Processing",
+        "hazards": null,
+        "date_msds_expires": "May 01, 2027",
+        "filename": "2024-05-01_cpda-1USP_safetydatasheet.pdf"
+    },
+    {
         "name": "Fetal Bovine Serum (FBS)",
         "category": "IDC Specimen Processing",
         "hazards": null,
@@ -1291,8 +1298,8 @@
         "name": "RNaseOUT Recombinant Ribonuclease Inhibitor",
         "category": "PCR",
         "hazards": null,
-        "date_msds_expires": "December 14, 2025",
-        "filename": "RNaseOUT RecombinantRibonucleaseInhibitor_10777019_20190811reviewed.pdf"
+        "date_msds_expires": "December 19, 2028",
+        "filename": "10777019_RNaseOUT_19Dec28ext.pdf"
     },
     {
         "name": "RPMI 1640 Medium, powder",
@@ -1804,13 +1811,6 @@
         "hazards": null,
         "date_msds_expires": "January 27, 2026",
         "filename": "TruSeq RNA Access, Coding Transcriptome( Oligo Kit)_15052314_reviwed_27Jan2026.zip"
-    },
-    {
-        "name": "TruSeq RNA Access cDNA Synthesis",
-        "category": "Other Chemicals",
-        "hazards": null,
-        "date_msds_expires": "November 14, 2025",
-        "filename": "TruSeq RNA Access cDNA synthesis_15052309_reviewed_14Nov2025.zip"
     },
     {
         "name": "Truvada",
