@@ -178,8 +178,8 @@
         "name": "Ammonium Acetate - Fisher",
         "category": "TDM",
         "hazards": null,
-        "date_msds_expires": "February 12, 2028",
-        "filename": "ammonium-acetate_A639-500_12feb2028.pdf"
+        "date_msds_expires": "December 18, 2028",
+        "filename": "AMMONIUM-ACETATE-OPTIMA-LC-MS_A114-50_18Dec2028.pdf"
     },
     {
         "name": "Ammonium formate",
@@ -348,6 +348,13 @@
         "hazards": null,
         "date_msds_expires": "February 16, 2026",
         "filename": "eye-wash_Cederroth_725200_exp16feb2026.pdf"
+    },
+    {
+        "name": "Chemagenic DNA Universal Kit",
+        "category": "Extraction",
+        "hazards": "Acute Toxicity, Eye/Skin Irritant, Flammable, Respiratory Sensitivity",
+        "date_msds_expires": "January 08, 2028",
+        "filename": "Revvity_SDS CMG-718_GB-signed.pdf"
     },
     {
         "name": "Chloramphenicol",
