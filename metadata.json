@@ -38,8 +38,8 @@
         "name": "1M Potassium Chloride Solution",
         "category": "Other Chemicals",
         "hazards": null,
-        "date_msds_expires": "August 24, 2027",
-        "filename": "Potassium chloride solution _60142_24August2027.pdf"
+        "date_msds_expires": "April 25, 2028",
+        "filename": "KCl_60142_25April2028.pdf"
     },
     {
         "name": "1M Tris-HCL buffer, pH 6.8",
@@ -634,7 +634,7 @@
         "category": "IDC Specimen Processing",
         "hazards": null,
         "date_msds_expires": "May 01, 2027",
-        "filename": "2024-05-01_cpda-1USP_safetydatasheet.pdf"
+        "filename": "CPDA_2024-05-01_cpda-1USP_01May2027.pdf"
     },
     {
         "name": "Fetal Bovine Serum (FBS)",
@@ -871,8 +871,8 @@
         "name": "Klentaq LA DNA Polymerase",
         "category": "PCR",
         "hazards": null,
-        "date_msds_expires": "January 04, 2026",
-        "filename": "KlentaqLA_v2_exp04Jan2026-signed.pdf"
+        "date_msds_expires": "January 19, 2029",
+        "filename": "SDS- Klentaq1_5_extended04Jan2029.pdf"
     },
     {
         "name": "Lambda DNA Standard (100 ug/ml)",
@@ -948,8 +948,8 @@
         "name": "Magnesium Chloride Solution, 1M",
         "category": "3730 Sequencing",
         "hazards": null,
-        "date_msds_expires": "December 28, 2025",
-        "filename": "Magnesium chloride solution_M1028_28Dec2025.pdf"
+        "date_msds_expires": "May 05, 2028",
+        "filename": "Magnesium chloride solution_m1028_05may2028.pdf"
     },
     {
         "name": "Magnesium Sulphate, 50mM",
@@ -1284,8 +1284,8 @@
         "name": "RNAlater",
         "category": "Extraction",
         "hazards": "N/A",
-        "date_msds_expires": "January 17, 2026",
-        "filename": "RNAlater_SDS_17JAN2023.pdf"
+        "date_msds_expires": "June 09, 2028",
+        "filename": "RNALATER_AM7020F_MTR-NALT_EN_09Jun2028.pdf"
     },
     {
         "name": "RNAqueous 4PCR: DNA-free RNA Isolation for RT-PCR",
@@ -1613,8 +1613,8 @@
         "name": "SupreDye v3.1",
         "category": "3730 Sequencing",
         "hazards": null,
-        "date_msds_expires": "January 31, 2026",
-        "filename": "SupreDye_SDS_V2.4_31-Jan-2023.pdf"
+        "date_msds_expires": "January 31, 2027",
+        "filename": "SupreDye v1.1 and v3.1 Cycle Sequencing Mix SDS_Jan2027.pdf"
     },
     {
         "name": "Synthetic SARS-CoV-2-RNA Control ",
@@ -1704,8 +1704,8 @@
         "name": "Tergitol",
         "category": "Other Chemicals",
         "hazards": null,
-        "date_msds_expires": "December 06, 2025",
-        "filename": "Tergitol_np40s_06Dec2025.pdf"
+        "date_msds_expires": "July 10, 2027",
+        "filename": "Tergitol_np40s_10Jul2027.pdf"
     },
     {
         "name": "Thymol",
@@ -1792,32 +1792,11 @@
         "filename": "Tru Seq RNA Access_15052313_04Nov2028.pdf"
     },
     {
-        "name": "Tru Seq RNA Access Oligo Kit",
-        "category": "Other Chemicals",
-        "hazards": "GA#-HP3-Skin corrosion, eye irritation; Enhanced PCR mix-Acute toxicity (Oral), specific target organ toxicity; Capture target buffer- Carcinogenicity, Reproductive toxicity, specific target organ toxicity",
-        "date_msds_expires": "December 09, 2025",
-        "filename": "TruSq RNA Accs CDNG_9Dec2025.zip"
-    },
-    {
         "name": "TruPure Formamide",
         "category": "3730 Sequencing",
         "hazards": "Carcinogenic",
         "date_msds_expires": "March 31, 2026",
         "filename": "TruPure Formamide SDS_v2.2.pdf"
-    },
-    {
-        "name": "TruSeq RNA Access 12 Index Set A",
-        "category": "Other Chemicals",
-        "hazards": null,
-        "date_msds_expires": "December 09, 2025",
-        "filename": "TruSq RNA Access 12 IDX Set A_9Dec2025.zip"
-    },
-    {
-        "name": "TruSeq RNA Access Coding Transcriptome",
-        "category": "Extraction",
-        "hazards": null,
-        "date_msds_expires": "January 27, 2026",
-        "filename": "TruSeq RNA Access, Coding Transcriptome( Oligo Kit)_15052314_reviwed_27Jan2026.zip"
     },
     {
         "name": "Truvada",
@@ -1935,8 +1914,8 @@
         "name": "easyMAG Extraction Buffer 1",
         "category": "Extraction",
         "hazards": "Guanidinium thiocyanate",
-        "date_msds_expires": "September 22, 2028",
-        "filename": "EasyMag_buffer1_MSDS_20280922.pdf"
+        "date_msds_expires": "March 07, 2026",
+        "filename": "easymag extraction buffer 1_280130_07March2026.pdf"
     },
     {
         "name": "easyMAG Extraction Buffer 2",
@@ -1956,8 +1935,8 @@
         "name": "easyMAG Lysis Buffer",
         "category": "Extraction",
         "hazards": "Guanidinium thiocyanate",
-        "date_msds_expires": "September 22, 2028",
-        "filename": "EasyMag_lysis_buffer_MSDS_2019-03-13.pdf"
+        "date_msds_expires": "March 03, 2028",
+        "filename": "easymag lysis buffer_280134_03March2028.pdf"
     },
     {
         "name": "easyMAG Magnetic Silica",
