@@ -45,15 +45,8 @@
         "name": "1M Tris-HCL buffer, pH 6.8",
         "category": "PCR",
         "hazards": null,
-        "date_msds_expires": "March 09, 2026",
-        "filename": "TRIS__1.0M_Buffer_Solution__pH_6.8_MTR_CLP1_EN_reviewed_9march2026.pdf"
-    },
-    {
-        "name": "1M Tris-HCl, pH 7.5",
-        "category": "Other Chemicals",
-        "hazards": null,
-        "date_msds_expires": "January 28, 2027",
-        "filename": "Thermo_15567027_exp26Feb2027-signed.pdf"
+        "date_msds_expires": "December 28, 2028",
+        "filename": "TRIS-1-0M-BUFR-pH6.8_J63831_28Dec2028.pdf"
     },
     {
         "name": "2-Mercaptoethanol",
@@ -89,20 +82,6 @@
         "hazards": "Corrosive, Harmful if swallowed, Causes severe skin burns and eye damage",
         "date_msds_expires": "October 10, 2026",
         "filename": "Potassium_hydroxide__8N_solution_in_water_380625000_4Oct2026.pdf"
-    },
-    {
-        "name": "ADS 10x CE Running buffer",
-        "category": "3730 Sequencing",
-        "hazards": null,
-        "date_msds_expires": "March 31, 2026",
-        "filename": "ADS 10x CE Running Buffer SDS_v2.2.pdf"
-    },
-    {
-        "name": "ADS Capillary Regeneration Kit for 3730",
-        "category": "3730 Sequencing",
-        "hazards": "toxic, acidic",
-        "date_msds_expires": "December 01, 2026",
-        "filename": "ADS_Capillary_Regeneration_Kit_exp01DEC2026-signed.pdf"
     },
     {
         "name": "Abacavir Sulfate",
@@ -280,13 +259,6 @@
         "filename": "Boceprevir_GP0844_7Jun2027.pdf"
     },
     {
-        "name": "Bovine Serum Albumin",
-        "category": "Other Chemicals",
-        "hazards": null,
-        "date_msds_expires": "October 21, 2027",
-        "filename": "700-100P BSA Fraction V_exp21Oct2027.pdf"
-    },
-    {
         "name": "Bromophenol Blue",
         "category": "PCR",
         "hazards": null,
@@ -346,8 +318,8 @@
         "name": "Cederroth Eye Wash, Sterile, 500ml",
         "category": "Safety/Emergency",
         "hazards": null,
-        "date_msds_expires": "February 16, 2026",
-        "filename": "eye-wash_Cederroth_725200_exp16feb2026.pdf"
+        "date_msds_expires": "January 28, 2029",
+        "filename": "eye-wash_Cederroth_725200_28Jan2029.pdf"
     },
     {
         "name": "Chemagenic DNA Universal Kit",
@@ -651,13 +623,6 @@
         "filename": "Thermo_FBSinactive_12484028_exp03JUN2027-signed.pdf"
     },
     {
-        "name": "Ficoll-Paque PLUS",
-        "category": "IDC Specimen Processing",
-        "hazards": null,
-        "date_msds_expires": "March 09, 2026",
-        "filename": "Ficoll-Paque PLUS, 6 x 100 ml_17-1440-02_reviewed_9March2026.pdf"
-    },
-    {
         "name": "Fluoresbrite YG Microspheres, 0.1um",
         "category": "Other Chemicals",
         "hazards": null,
@@ -854,20 +819,6 @@
         "filename": "Isopropanol_13Oct2026.pdf"
     },
     {
-        "name": "JumpStart Taq DNA Polyerase",
-        "category": "Other Chemicals",
-        "hazards": null,
-        "date_msds_expires": "July 13, 2027",
-        "filename": "JumpStart_d9307_13July2027.pdf"
-    },
-    {
-        "name": "Kapa HTP Library Kit",
-        "category": "Other Chemicals",
-        "hazards": "Irritant to eyes, respiratory system and skin.  Harmful in contact with skin. Toxic if swallowed",
-        "date_msds_expires": "December 06, 2027",
-        "filename": "07961928001_KAPA_271206.pdf"
-    },
-    {
         "name": "Klentaq LA DNA Polymerase",
         "category": "PCR",
         "hazards": null,
@@ -906,8 +857,8 @@
         "name": "Lime-A-Way",
         "category": "Disinfectants",
         "hazards": null,
-        "date_msds_expires": "September 22, 2028",
-        "filename": "SDS_Lime-A-Way_250922.pdf"
+        "date_msds_expires": "February 02, 2027",
+        "filename": "LIME-A-WAY (917352)_02Feb2027.pdf"
     },
     {
         "name": "Liqui-Jet 2 - Steris Canada",
@@ -1232,13 +1183,6 @@
         "filename": "Gojo_Purell_exp29Feb2027-signed.pdf"
     },
     {
-        "name": "PwrPOP-7 Polymer",
-        "category": "3730 Sequencing",
-        "hazards": "Causes skin and serious eye irritation",
-        "date_msds_expires": "March 31, 2026",
-        "filename": "PwrPOP-7_ SDS v2.4.pdf"
-    },
-    {
         "name": "QIAGEN Buffer EB Elution Buffer",
         "category": "NGS Sequencing",
         "hazards": null,
@@ -1328,13 +1272,6 @@
         "hazards": "Harmful if swallowed, Very toxic to aquatic life with long lasting effects",
         "date_msds_expires": "March 13, 2027",
         "filename": "MedChem_HY-10353A_exp13Mar2027-signed.pdf"
-    },
-    {
-        "name": "Reagent Alcohol, 95% - Surgipath",
-        "category": "Disinfectants",
-        "hazards": "flammable",
-        "date_msds_expires": "February 28, 2027",
-        "filename": "Leica_Reagent_Alcohol_exp28Feb2027-signed.pdf"
     },
     {
         "name": "Reconstituted ChromSystems MassCheck ",
@@ -1463,25 +1400,11 @@
         "filename": "Roche_SeqCap EZ Accessory Kit v2_exp03jul2028-signed.pdf"
     },
     {
-        "name": "SeqCap EZ Developer Library 4 Reaction",
-        "category": "NGS Sequencing",
-        "hazards": null,
-        "date_msds_expires": "May 02, 2028",
-        "filename": "SDS_06471757001_SeqCap EZ Developer Library_2May2028.pdf"
-    },
-    {
         "name": "SeqCap HE-Oligo Kit A & Kit B",
         "category": "Other Chemicals",
         "hazards": null,
         "date_msds_expires": "September 12, 2027",
         "filename": "Roche_SeqCapOligoKitAB_exp12Sep2027.pdf"
-    },
-    {
-        "name": "SeqCap Hybridization and Wash Kit",
-        "category": "NGS Sequencing",
-        "hazards": "Vial 5 contains tetramethylammonium chloride. Vial 6 contains formamide. Toxic and may cause serious health effects.",
-        "date_msds_expires": "February 10, 2027",
-        "filename": "SDS_08061033001_AVENIO Post-Hybridization Kit_EN_3_0.pdf"
     },
     {
         "name": "Silicone Oil",
@@ -1615,13 +1538,6 @@
         "hazards": null,
         "date_msds_expires": "January 31, 2027",
         "filename": "SupreDye v1.1 and v3.1 Cycle Sequencing Mix SDS_Jan2027.pdf"
-    },
-    {
-        "name": "Synthetic SARS-CoV-2-RNA Control ",
-        "category": "PCR",
-        "hazards": "Non-hazardous",
-        "date_msds_expires": "September 22, 2028",
-        "filename": "SDS_Twist Synthetic SARS-CoV-2 RNA Control_v8.2 _280922.pdf"
     },
     {
         "name": "T36 Disinfex",
@@ -1785,13 +1701,6 @@
         "filename": "Trizma_t2819_02Oct2027.pdf"
     },
     {
-        "name": "Tru Seq RNA Access Capture Reagent",
-        "category": "Other Chemicals",
-        "hazards": "SMB.STREPTAVIDIN MAGNETIC BEADS.-Carcinogenic, Reproductive toxic, Specific target organ toxic",
-        "date_msds_expires": "November 04, 2028",
-        "filename": "Tru Seq RNA Access_15052313_04Nov2028.pdf"
-    },
-    {
         "name": "TruPure Formamide",
         "category": "3730 Sequencing",
         "hazards": "Carcinogenic",
@@ -1944,13 +1853,6 @@
         "hazards": "non-hazardous",
         "date_msds_expires": "February 28, 2027",
         "filename": "BMX_Silica_2362312_exp28Feb2027-signed.pdf"
-    },
-    {
-        "name": "mMessage T7 kit",
-        "category": "Other Chemicals",
-        "hazards": "Loading Buffer II- Health hazard ( organ toxic, carcinogenic, reproductive toxic); LCPs-Health hazard (oral toxicity, skin corrosion, eye irritation) ",
-        "date_msds_expires": "May 31, 2026",
-        "filename": "Thermo_AM1344_exp12Mar2024-signed.pdf"
     },
     {
         "name": "phi29 DNA Polymerase",
