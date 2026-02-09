@@ -178,8 +178,8 @@
         "name": "Asqualab ARV",
         "category": "Antiviral Drugs/Standards",
         "hazards": null,
-        "date_msds_expires": "October 01, 2028",
-        "filename": "SDS_lyophilized_EQA_V2_20250929.docx"
+        "date_msds_expires": "February 02, 2029",
+        "filename": "SDS_lyophilized_EQA_V3_260202.docx"
     },
     {
         "name": "Atazanavir Bisulphate",
@@ -250,13 +250,6 @@
         "hazards": "corrosive",
         "date_msds_expires": "July 04, 2028",
         "filename": "BLEACH_6__-SDS_extended_04Jul2028.pdf"
-    },
-    {
-        "name": "Boceprevir",
-        "category": "Antiviral Drugs/Standards",
-        "hazards": null,
-        "date_msds_expires": "June 07, 2027",
-        "filename": "Boceprevir_GP0844_7Jun2027.pdf"
     },
     {
         "name": "Bromophenol Blue",
@@ -395,8 +388,8 @@
         "name": "Darunavir Ethanolate",
         "category": "Antiviral Drugs/Standards",
         "hazards": "Harmful if swallowed, Very toxic to aquatic life with long lasting effects",
-        "date_msds_expires": "February 06, 2026",
-        "filename": "Darunavir_CS-0750_6Feb2026.pdf"
+        "date_msds_expires": "February 02, 2029",
+        "filename": "Darunavir_CS-0750_ext02Feb2029.pdf"
     },
     {
         "name": "Darunavir-d9",
@@ -458,8 +451,8 @@
         "name": "Dulbecco's Phosphate-Buffered Saline (DPBS), 1X",
         "category": "Quant",
         "hazards": null,
-        "date_msds_expires": "February 10, 2026",
-        "filename": "Thermo_DPBS_exp10Feb2026-signed.pdf"
+        "date_msds_expires": "February 02, 2029",
+        "filename": "DPBS_14190144_ext02Feb29.pdf"
     },
     {
         "name": "Dynabeads M-270 Streptavidin ",
@@ -782,13 +775,6 @@
         "hazards": "Tagm. buffer: harmful if inhaled, causes serious eye irritation, may cause cancer",
         "date_msds_expires": "February 17, 2026",
         "filename": "IPB, DNA Prep, PCR & Buffer_20049005_17feb2026.zip"
-    },
-    {
-        "name": "Indinavir - USP Reference Standard",
-        "category": "Antiviral Drugs/Standards",
-        "hazards": "irritant",
-        "date_msds_expires": "April 09, 2027",
-        "filename": "USP_Indinavir_1339178_exp09APR2027-signed.pdf"
     },
     {
         "name": "Instand 1",
@@ -1323,13 +1309,6 @@
         "filename": "Reserpine_83580_reviewed_09March2026.pdf"
     },
     {
-        "name": "Ribo-Zero Gold rRNA Removal Kit (Human/Mouse/Rat)",
-        "category": "NGS Sequencing",
-        "hazards": null,
-        "date_msds_expires": "January 27, 2026",
-        "filename": "Ribo-Zero Gold rRNA Removal Kit (HumanMouseRat)_27Jan2026.zip"
-    },
-    {
         "name": "Rilpivirine (RPV)",
         "category": "Antiviral Drugs/Standards",
         "hazards": null,
@@ -1414,13 +1393,6 @@
         "filename": "MS_SiliconeOil_378372_exp30AUG2026-signed.pdf"
     },
     {
-        "name": "Simeprevir",
-        "category": "Antiviral Drugs/Standards",
-        "hazards": null,
-        "date_msds_expires": "September 12, 2027",
-        "filename": "Chemscene-Simeprivir_exp12Sep2027-signed.pdf"
-    },
-    {
         "name": "Sodium Acetate",
         "category": "3730 Sequencing",
         "hazards": null,
@@ -1440,13 +1412,6 @@
         "hazards": "corrosive, causes severe skin burns and eye damage",
         "date_msds_expires": "October 13, 2026",
         "filename": "sod-hydrox_SS267_13Oct2026.pdf"
-    },
-    {
-        "name": "Sofosbuvir",
-        "category": "Antiviral Drugs/Standards",
-        "hazards": null,
-        "date_msds_expires": "July 04, 2028",
-        "filename": "Sofosbuvir-GP2923_ext_04Jul2028.pdf"
     },
     {
         "name": "Softsoap Soothing Aloe Vera Liquid Soap",
@@ -1631,20 +1596,6 @@
         "filename": "Thymol_t0501_21Jun2027.pdf"
     },
     {
-        "name": "Tipranavir",
-        "category": "Antiviral Drugs/Standards",
-        "hazards": "irritataing to skin, eyes, respiratory system",
-        "date_msds_expires": "November 22, 2026",
-        "filename": "Chemscene_Tipranavir_CS1210_exp22NOV2026-signed.pdf"
-    },
-    {
-        "name": "Tipranavir from MedChem Express",
-        "category": "Antiviral Drugs/Standards",
-        "hazards": "Irritating to eyes, respitory system and eyes",
-        "date_msds_expires": "November 22, 2026",
-        "filename": "MedChemExpress_Tipranavir_HY15148_exp22NOV2026-signed.pdf"
-    },
-    {
         "name": "TrackIt 1 Kb Plus DNA Ladder",
         "category": "Gels",
         "hazards": null,
@@ -1668,9 +1619,9 @@
     {
         "name": "Tris, 1M, pH 8.5",
         "category": "NGS Sequencing",
-        "hazards": "No change noted, 08-Jun-2020",
-        "date_msds_expires": "May 09, 2026",
-        "filename": "Tris_SDS_786-269_09MAY2023.pdf"
+        "hazards": null,
+        "date_msds_expires": "January 17, 2028",
+        "filename": "Tris, pH 8.5_786-269_17Jan2028.pdf"
     },
     {
         "name": "Tris-buffered saline (TBS), pH 7.4",
@@ -1706,13 +1657,6 @@
         "hazards": "Carcinogenic",
         "date_msds_expires": "March 31, 2026",
         "filename": "TruPure Formamide SDS_v2.2.pdf"
-    },
-    {
-        "name": "Truvada",
-        "category": "Antiviral Drugs/Standards",
-        "hazards": "Causes serious eye damage",
-        "date_msds_expires": "June 30, 2028",
-        "filename": "Truvada_revised2016_revised190211_extended30Jun2028.pdf"
     },
     {
         "name": "Trypan Blue 0.4% Stain Solution",
