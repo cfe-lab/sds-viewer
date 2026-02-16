@@ -70,13 +70,6 @@
         "filename": "4335613_MTR-NALT_EN_31-Jan-2025.pdf"
     },
     {
-        "name": "40% Potassium Hydroxide (Voges-Proskauer B)",
-        "category": "Other Chemicals",
-        "hazards": "Caustic, harmful if swallowed",
-        "date_msds_expires": "April 14, 2028",
-        "filename": "40_Potassium Hydroxide_Voges-ProskauerB_R21281_17April2028.pdf"
-    },
-    {
         "name": "8N Potassium Hydroxide",
         "category": "Other Chemicals",
         "hazards": "Corrosive, Harmful if swallowed, Causes severe skin burns and eye damage",
@@ -108,8 +101,8 @@
         "name": "Acetonitrile Chromasolv Plus for HPLC, >99.9%",
         "category": "TDM",
         "hazards": "Highly flammable, harmful if swallowed or inhaled, causes serious eye irritation aand damage to organs",
-        "date_msds_expires": "February 10, 2028",
-        "filename": "acetonitrile_A998-1_10Feb2028.pdf"
+        "date_msds_expires": "December 18, 2028",
+        "filename": "acetonitrile_18Dec2028.pdf"
     },
     {
         "name": "Acycloguanosine, Acyclovir (ACV)",
@@ -143,8 +136,8 @@
         "name": "Albumin, from Bovine Serum",
         "category": "Tissue Culture",
         "hazards": null,
-        "date_msds_expires": "July 01, 2026",
-        "filename": "Sigma_Bovine-Serum_exp01Jul2026-signed.pdf"
+        "date_msds_expires": "August 24, 2028",
+        "filename": "BSA_A9418_24Aug2028.pdf"
     },
     {
         "name": "Ammonium Acetate (Solution)",
@@ -224,18 +217,11 @@
         "filename": "Bictegravir_A17011_AdooqBioscience_8Oct2026.pdf"
     },
     {
-        "name": "Big Dye Xterminator Purification Kit",
-        "category": "3730 Sequencing",
-        "hazards": "Tube Xterminator Solution, BTL Xterminator solution-eye irritation;",
-        "date_msds_expires": "April 19, 2027",
-        "filename": "Thermo_BigDye_Xterminator_exp19APR2027-signed.pdf"
-    },
-    {
         "name": "BigDye Terminator v3.1 Ready Reaction Mix",
         "category": "3730 Sequencing",
         "hazards": "None",
         "date_msds_expires": "February 28, 2027",
-        "filename": "Thermo_BD_4336913_exp28FEB2027-signed.pdf"
+        "filename": "4336913_BigDye_28-Feb-2027.pdf"
     },
     {
         "name": "BigDye v3.1 3730 Sequencing Standards",
@@ -616,13 +602,6 @@
         "filename": "Thermo_FBSinactive_12484028_exp03JUN2027-signed.pdf"
     },
     {
-        "name": "Fluoresbrite YG Microspheres, 0.1um",
-        "category": "Other Chemicals",
-        "hazards": null,
-        "date_msds_expires": "September 12, 2027",
-        "filename": "Polysciences_Fluoresbrite_exp12Sep2027-signed.pdf"
-    },
-    {
         "name": "Fluorescein Sodium Salt",
         "category": "Quant",
         "hazards": "None",
@@ -743,13 +722,6 @@
     },
     {
         "name": "Human Plasma, Normal, Pooled, K3 EDTA",
-        "category": "TDM",
-        "hazards": null,
-        "date_msds_expires": "April 14, 2028",
-        "filename": "HumanBiologicalFluids_SDS_14April2028.pdf"
-    },
-    {
-        "name": "Human Plasma, Normal, Pooled, Sodium Heparin",
         "category": "TDM",
         "hazards": null,
         "date_msds_expires": "April 14, 2028",
@@ -1270,29 +1242,29 @@
         "name": "Reconstituted Holland 1",
         "category": "TDM",
         "hazards": null,
-        "date_msds_expires": "October 01, 2028",
-        "filename": "SDS_lyophilized_EQA_V2_20250929.docx"
+        "date_msds_expires": "February 02, 2029",
+        "filename": "SDS_lyophilized_EQA_V3_260202.docx"
     },
     {
         "name": "Reconstituted Holland 2",
         "category": "TDM",
         "hazards": null,
-        "date_msds_expires": "October 01, 2028",
-        "filename": "SDS_lyophilized_EQA_V2_20250929.docx"
+        "date_msds_expires": "February 02, 2029",
+        "filename": "SDS_lyophilized_EQA_V3_260202.docx"
     },
     {
         "name": "Reconstituted Instand 1",
         "category": "TDM",
         "hazards": null,
-        "date_msds_expires": "July 04, 2028",
-        "filename": "SAFETY DATA SHEET_lyophilized_EQA_2019_04_29_ext_4Jul2028.docx"
+        "date_msds_expires": "February 02, 2029",
+        "filename": "SDS_lyophilized_EQA_V3_260202.docx"
     },
     {
         "name": "Reconstituted Instand 2",
         "category": "TDM",
         "hazards": null,
-        "date_msds_expires": "July 04, 2028",
-        "filename": "SAFETY DATA SHEET_lyophilized_EQA_2019_04_29_ext_4Jul2028.docx"
+        "date_msds_expires": "February 02, 2029",
+        "filename": "SDS_lyophilized_EQA_V3_260202.docx"
     },
     {
         "name": "Red-Z",
