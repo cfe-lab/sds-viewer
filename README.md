@@ -2,7 +2,7 @@
 
 [![Check](https://github.com/cfe-lab/sds-viewer/actions/workflows/selfcheck.yml/badge.svg)](https://github.com/cfe-lab/sds-viewer/actions/workflows/selfcheck.yml)
 
-Last update: February 16, 2026
+Last update: February 23, 2026
 
                                                                                                                                                                                                                                                                                                                                                                                                 
 | Name                                                             | Category                  | Hazards                                                                                                                                                                                                                                                 | Expiry Date        | Document       |
@@ -40,7 +40,7 @@ Last update: February 16, 2026
 | Bictegravir                                                      | Antiviral Drugs/Standards | Toxic, harmful if swallowed                                                                                                                                                                                                                             | October 08, 2026   | [📄 open][30]  |
 | BigDye Terminator v3.1 Ready Reaction Mix                        | 3730 Sequencing           | None                                                                                                                                                                                                                                                    | February 28, 2027  | [📄 open][31]  |
 | BigDye v3.1 3730 Sequencing Standards                            | 3730 Sequencing           | None                                                                                                                                                                                                                                                    | February 17, 2026  | [📄 open][32]  |
-| Bleach, Advance                                                  | Disinfectants             | corrosive                                                                                                                                                                                                                                               | July 04, 2028      | [📄 open][33]  |
+| Bleach, Advance                                                  | Disinfectants             | corrosive                                                                                                                                                                                                                                               | February 20, 2029  | [📄 open][33]  |
 | Bromophenol Blue                                                 | PCR                       | None                                                                                                                                                                                                                                                    | May 18, 2028       | [📄 open][34]  |
 | Buffer Solution pH 1.68 (White)                                  | TDM                       | None                                                                                                                                                                                                                                                    | April 17, 2028     | [📄 open][35]  |
 | Buffer Solution pH 4, Red                                        | TDM                       | None                                                                                                                                                                                                                                                    | October 13, 2026   | [📄 open][36]  |
@@ -298,7 +298,7 @@ Last update: February 16, 2026
 [30]: files/Bictegravir_A17011_AdooqBioscience_8Oct2026.pdf
 [31]: files/4336913_BigDye_28-Feb-2027.pdf
 [32]: files/Bigdye_37XX%20BDT%20V3.1%20SEQ%20STD%2CKIT_4336943_reviewed_17eb2026.pdf
-[33]: files/BLEACH_6__-SDS_extended_04Jul2028.pdf
+[33]: files/Advance-Bleach-6_-ADV-SDS_20Feb2029.pdf
 [34]: files/Bromophenol_b5525_18May2028.pdf
 [35]: files/pH%201.68%20Buffer_910168_17April2028.pdf
 [36]: files/Fisher_buffer-red-ph_exp13Oct2026-signed.pdf
