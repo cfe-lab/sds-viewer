@@ -1274,13 +1274,6 @@
         "filename": "Safetec_Red-Z-exp28Feb2027-signed.pdf"
     },
     {
-        "name": "Reserpine, RES ",
-        "category": "Antiviral Drugs/Standards",
-        "hazards": "toxic",
-        "date_msds_expires": "March 09, 2026",
-        "filename": "Reserpine_83580_reviewed_09March2026.pdf"
-    },
-    {
         "name": "Rilpivirine (RPV)",
         "category": "Antiviral Drugs/Standards",
         "hazards": null,
@@ -1508,8 +1501,8 @@
         "name": "TE Buffer, 20X, RNase-free",
         "category": "Quant",
         "hazards": null,
-        "date_msds_expires": "February 17, 2026",
-        "filename": "20X TE buffer RNase free_T11493_rvwd_17fb2026.pdf"
+        "date_msds_expires": "February 26, 2029",
+        "filename": "T11493_20X TE buffer_ext26Feb29.pdf"
     },
     {
         "name": "TE Buffer, pH 8.0",
