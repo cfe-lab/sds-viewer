@@ -581,6 +581,13 @@
         "filename": "Extran_107555_SDS_05Nov2027.PDF"
     },
     {
+        "name": "FastRuler DNA Ladder",
+        "category": "Gels",
+        "hazards": null,
+        "date_msds_expires": "April 09, 2029",
+        "filename": "SM1223F_MTR-NALT_EN_09April2029.pdf"
+    },
+    {
         "name": "Fenwal Blood-Pack Units, CPDA-1",
         "category": "IDC Specimen Processing",
         "hazards": null,
