@@ -227,8 +227,8 @@
         "name": "BigDye v3.1 3730 Sequencing Standards",
         "category": "3730 Sequencing",
         "hazards": null,
-        "date_msds_expires": "February 17, 2026",
-        "filename": "Bigdye_37XX BDT V3.1 SEQ STD,KIT_4336943_reviewed_17eb2026.pdf"
+        "date_msds_expires": "April 17, 2029",
+        "filename": "BigDye v3.1 3730 Sequencing Standards_4336943_MTR-NALT_EN_290417.pdf"
     },
     {
         "name": "Bleach, Advance",
@@ -794,8 +794,8 @@
         "name": "Lambda DNA Standard (100 ug/ml)",
         "category": "Quant",
         "hazards": null,
-        "date_msds_expires": "April 18, 2026",
-        "filename": "Lambda DNA_P7589_180426.pdf"
+        "date_msds_expires": "April 17, 2029",
+        "filename": "Lamda DNA_P7589COMPONENTC_MTR-NALT_EN_290417.pdf"
     },
     {
         "name": "Lamivudine (3TC) - USP Reference Standard",
@@ -1057,13 +1057,6 @@
         "filename": "NxtScript Reverse_07371527103_27June2027.pdf"
     },
     {
-        "name": "One-Step RT-ddPCR Adv kit",
-        "category": "PCR",
-        "hazards": null,
-        "date_msds_expires": "February 14, 2026",
-        "filename": "Bio-Rad_1864021-1864022_exp14Feb2026-signed.pdf"
-    },
-    {
         "name": "PfuUltra II Fusion HS DNA Polymerase",
         "category": "PCR",
         "hazards": "toxic, irritant",
@@ -1074,8 +1067,8 @@
         "name": "PhiX  Control v3",
         "category": "NGS Sequencing",
         "hazards": null,
-        "date_msds_expires": "April 18, 2026",
-        "filename": "PhiX_v1.1_20Jan2020.pdf"
+        "date_msds_expires": "February 28, 2029",
+        "filename": "PhiX_a3bb4bff-cecf-4ae5-8759-644f2af98413_290225.pdf"
     },
     {
         "name": "Phosphate-Buffered Saline (PBS), pH 7.4, 1X",
@@ -1109,8 +1102,8 @@
         "name": "Primers ",
         "category": "3730 Sequencing",
         "hazards": null,
-        "date_msds_expires": "March 31, 2026",
-        "filename": "unmodified-dna-oligo_reviewed_31March2026.pdf"
+        "date_msds_expires": "June 17, 2028",
+        "filename": "unmodified-dna-oligo_IDT-001_17Jun2028.pdf"
     },
     {
         "name": "Proguard Hand Cream ",
@@ -1151,8 +1144,8 @@
         "name": "QIAGEN Buffer EB Elution Buffer",
         "category": "NGS Sequencing",
         "hazards": null,
-        "date_msds_expires": "March 06, 2026",
-        "filename": "Qiagen_BufferEB_exp06Mar2026-signed.pdf"
+        "date_msds_expires": "September 18, 2028",
+        "filename": "215-BufferEB-en-GB-CA_280918.pdf"
     },
     {
         "name": "QIAamp DNA Mini Kit",
@@ -1172,8 +1165,8 @@
         "name": "Quant-iT PicoGreen dsDNA Reagent",
         "category": "Quant",
         "hazards": null,
-        "date_msds_expires": "April 18, 2026",
-        "filename": "Quant-iT_P7589COMPONENTA_18Apr2026.pdf"
+        "date_msds_expires": "December 19, 2026",
+        "filename": "Quant-it_P11496COMPONENTA_MTR-NALT_EN_26Dec19.pdf"
     },
     {
         "name": "Quant-iT RiboGreen RNA Assay Kit",
@@ -1340,8 +1333,8 @@
         "name": "SYBR Safe DNA Gel Stain",
         "category": "Gels",
         "hazards": "Flammable",
-        "date_msds_expires": "April 03, 2026",
-        "filename": "SYBR Safe\u00ae DNA gel stain_S33102_03April2026.pdf"
+        "date_msds_expires": "April 03, 2029",
+        "filename": "SYBR Safe_S33102_MTR-NALT_EN_ext03Apr2029.pdf"
     },
     {
         "name": "SeqCap EZ Accessory Kit v2",
@@ -1424,8 +1417,8 @@
         "name": "Spill-X-S, Solvent Adsorbent",
         "category": "Safety/Emergency",
         "hazards": null,
-        "date_msds_expires": "February 02, 2026",
-        "filename": "Spill-X-S_077265_2Feb2026.pdf"
+        "date_msds_expires": "January 21, 2027",
+        "filename": "077265_MTR_CGHN_EN_27Jan21.pdf"
     },
     {
         "name": "Sterikon\u00ae Plus Bioindicator",
@@ -1438,8 +1431,8 @@
         "name": "Sucrose",
         "category": "PCR",
         "hazards": null,
-        "date_msds_expires": "April 17, 2026",
-        "filename": "Sucrose_15-Apr-2023.pdf"
+        "date_msds_expires": "April 29, 2028",
+        "filename": "s0389_Sucrose_29april28.pdf"
     },
     {
         "name": "SuperScript 2X Reaction Mix",
@@ -1599,8 +1592,8 @@
         "name": "Tris-buffered saline (TBS), pH 7.4",
         "category": "Other Chemicals",
         "hazards": null,
-        "date_msds_expires": "March 09, 2026",
-        "filename": "TRIS-buffered_saline_(TBS__10X_MTR_CLP1_J62938_reviewed_09March2026.pdf"
+        "date_msds_expires": "December 28, 2028",
+        "filename": "TRIS-buffered_saline_(TBS__10X_MTR_AGHS_CE_J62938_28Dec2028.pdf"
     },
     {
         "name": "Triton X-100",
@@ -1739,8 +1732,8 @@
         "name": "easyMAG Extraction Buffer 1",
         "category": "Extraction",
         "hazards": "Guanidinium thiocyanate",
-        "date_msds_expires": "March 07, 2026",
-        "filename": "easymag extraction buffer 1_280130_07March2026.pdf"
+        "date_msds_expires": "October 27, 2026",
+        "filename": "easymag_buffer1_280130_27Oct26.pdf"
     },
     {
         "name": "easyMAG Extraction Buffer 2",
