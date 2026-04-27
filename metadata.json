@@ -742,13 +742,6 @@
         "filename": "Humonitor humidity cards_z163449_17April2028.pdf"
     },
     {
-        "name": "IDT for Illumina DNA/RNA UD Indexes Set A, Tagmentation",
-        "category": "NGS Sequencing",
-        "hazards": null,
-        "date_msds_expires": "February 17, 2026",
-        "filename": "20025019_20027213_96DNARNA UDP indx setA_rwd_17Feb 2026.pdf"
-    },
-    {
         "name": "IPB, DNA Prep, PCR & Buffer",
         "category": "NGS Sequencing",
         "hazards": "Tagm. buffer: harmful if inhaled, causes serious eye irritation, may cause cancer",
@@ -1473,8 +1466,8 @@
         "name": "T36 Disinfex",
         "category": "Disinfectants",
         "hazards": "flammable, toxic",
-        "date_msds_expires": "January 10, 2026",
-        "filename": "T36 Disinfex_Din02231344_review_10Jan2026.pdf"
+        "date_msds_expires": "July 20, 2028",
+        "filename": "T36_20Jul28.pdf"
     },
     {
         "name": "T4 DNA Ligase",
