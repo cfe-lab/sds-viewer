@@ -31,8 +31,8 @@
         "name": "10x Klentaq1 Buffer",
         "category": "PCR",
         "hazards": null,
-        "date_msds_expires": "March 09, 2026",
-        "filename": "10x Klentaq1 Reaction Buffer pH 7.9_RB21_reviewed_9March2026.pdf"
+        "date_msds_expires": "March 02, 2029",
+        "filename": "SDS-10x Klentaq1 Reaction Buffer pH 7.9 _29March02.pdf"
     },
     {
         "name": "1M Potassium Chloride Solution",
@@ -346,15 +346,15 @@
         "name": "DNA Prep, (M) Tagmentation beads(24 Samples)  ",
         "category": "NGS Sequencing",
         "hazards": null,
-        "date_msds_expires": "February 09, 2026",
-        "filename": "DNA Prep, (M) Tagmentation beads(24 Samples)_20015173_rwd_9Feb2026.pdf"
+        "date_msds_expires": "April 27, 2029",
+        "filename": "DNA Prep, (M) Tagmentation beads(24 Samples)_290427.pdf"
     },
     {
         "name": "DNA Prep, Beads & buffer",
         "category": "NGS Sequencing",
-        "hazards": "Stop Buffer: causes serious eye damage",
-        "date_msds_expires": "February 09, 2026",
-        "filename": "DNA Prep, Beads & buffer_illumina_20060060_9Feb2026.zip"
+        "hazards": "Tagmentation Buffer: eye irritation, acute toxicity ( inhalation), Reproductive toxicity",
+        "date_msds_expires": "January 20, 2029",
+        "filename": "DNA Prep, Beads & buffer_290120.pdf"
     },
     {
         "name": "DNAse-free kit DNase treatment and removal",
@@ -500,8 +500,8 @@
         "name": "Elvitegravir",
         "category": "Antiviral Drugs/Standards",
         "hazards": "Skin corrosion, Serious eye damage/irritation",
-        "date_msds_expires": "February 13, 2026",
-        "filename": "Chemscene_Elvitegravir_exp13Feb2026-signed.pdf"
+        "date_msds_expires": "April 29, 2029",
+        "filename": "Chemscene_Elvitegravir_29Apr29.pdf"
     },
     {
         "name": "Elvitegravir-d6",
@@ -745,8 +745,8 @@
         "name": "IPB, DNA Prep, PCR & Buffer",
         "category": "NGS Sequencing",
         "hazards": "Tagm. buffer: harmful if inhaled, causes serious eye irritation, may cause cancer",
-        "date_msds_expires": "February 17, 2026",
-        "filename": "IPB, DNA Prep, PCR & Buffer_20049005_17feb2026.zip"
+        "date_msds_expires": "October 10, 2028",
+        "filename": "IPB, DNA Prep, PCR & Buffer_281020.pdf"
     },
     {
         "name": "Instand 1",
@@ -864,8 +864,8 @@
         "name": "Magnesium Sulphate, 50mM",
         "category": "Other Chemicals",
         "hazards": null,
-        "date_msds_expires": "March 09, 2026",
-        "filename": "MgSO4 Assay_52044_reviewed_9March2026.pdf"
+        "date_msds_expires": "April 27, 2029",
+        "filename": "MgSO4 Assay_52044_reviewed_290427.pdf"
     },
     {
         "name": "Maraviroc",
@@ -892,22 +892,22 @@
         "name": "MiSeq v2 Reagent Kit, 300 cycles, Box 1 of 2",
         "category": "NGS Sequencing",
         "hazards": null,
-        "date_msds_expires": "November 14, 2025",
-        "filename": "MiSeq\u00ae Reagent Kit v2 (300 cycle)_MS-102-2022_reviewed_14Nov2025.zip"
+        "date_msds_expires": "November 25, 2028",
+        "filename": "MiSeq v2 Reagent Kit, 300 cycles, Box 1 of 2_281125.pdf"
     },
     {
         "name": "MiSeq v2 Reagent Kit, 500 & 300 cycles, Box 2 of 2",
         "category": "NGS Sequencing",
         "hazards": "may cause skin allergies",
-        "date_msds_expires": "December 28, 2025",
-        "filename": "MiSeq\u00ae v2 Reagent Kit Box 2 of2.zip"
+        "date_msds_expires": "March 27, 2029",
+        "filename": "MiSeq v2 Reagent Kit_290327.pdf"
     },
     {
         "name": "MiSeq v2 Reagent Kit, 500 cycles, Box 1 of 2",
         "category": "NGS Sequencing",
         "hazards": "Toxin, possible mutagen, carcinogen, teratagen",
-        "date_msds_expires": "December 02, 2025",
-        "filename": "MiSeq v2 Reagent Kit, 500 cycles, Box 1 of 2_2Dec2025.zip"
+        "date_msds_expires": "November 25, 2028",
+        "filename": "MiSeq v2 Reagent Kit,  Box 1 of 2_281125.pdf"
     },
     {
         "name": "Mineral Oil",
@@ -983,29 +983,29 @@
         "name": "Nextera XT Index Kit v2 Set A (96 indexes)",
         "category": "NGS Sequencing",
         "hazards": null,
-        "date_msds_expires": "December 28, 2025",
-        "filename": "Nextra XT IDX kt v2 set A 96 IDXS_28Dec2025.zip"
+        "date_msds_expires": "March 12, 2029",
+        "filename": "NXTR XT IDX Kt v2 Set A 96 IDXS_290312.pdf"
     },
     {
         "name": "Nextera XT Index Kit v2 Set B (96 indexes)",
         "category": "NGS Sequencing",
         "hazards": null,
-        "date_msds_expires": "December 28, 2025",
-        "filename": "Nextra XT IDX kt v2 set B 96 IDXS_rw_28Dec2025.zip"
+        "date_msds_expires": "March 29, 2029",
+        "filename": "NXTR XT IDX Kt v2 Set B 96 IDXS_290312.pdf"
     },
     {
         "name": "Nextera XT Index Kit v2 Set C (96 indexes)",
         "category": "NGS Sequencing",
         "hazards": null,
-        "date_msds_expires": "December 28, 2025",
-        "filename": "Nextra XT IDX kt v2 set C 96 IDXS_rw_28Dec2025.zip"
+        "date_msds_expires": "March 24, 2029",
+        "filename": "NXTR XT IDX Kt v2 Set C 96 IDXS_290324.pdf"
     },
     {
         "name": "Nextera XT Index Kit v2 Set D (96 indexes)",
         "category": "NGS Sequencing",
         "hazards": null,
-        "date_msds_expires": "December 09, 2025",
-        "filename": "NXTR  XT IDX Kt v2_reviewed_9Dec2025.zip"
+        "date_msds_expires": "March 16, 2029",
+        "filename": "NXTR XT IDX Kt v2 Set D 96 IDXS_290316.pdf"
     },
     {
         "name": "Nextera XT Library Prep Kit (Box 1)",
@@ -1586,7 +1586,7 @@
         "category": "Other Chemicals",
         "hazards": null,
         "date_msds_expires": "December 28, 2028",
-        "filename": "TRIS-buffered_saline_(TBS__10X_MTR_AGHS_CE_J62938_28Dec2028.pdf"
+        "filename": "TRIS-buffered_saline_28Dec28.pdf"
     },
     {
         "name": "Triton X-100",

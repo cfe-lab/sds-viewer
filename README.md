@@ -2,7 +2,7 @@
 
 [![Check](https://github.com/cfe-lab/sds-viewer/actions/workflows/selfcheck.yml/badge.svg)](https://github.com/cfe-lab/sds-viewer/actions/workflows/selfcheck.yml)
 
-Last update: April 27, 2026
+Last update: May 04, 2026
 
                                                                                                                                                                                                                                                                                                                                                                                                 
 | Name                                                             | Category                  | Hazards                                                                                                                                                                                                                                                 | Expiry Date        | Document       |
@@ -11,7 +11,7 @@ Last update: April 27, 2026
 | 0.1M DTT                                                         | PCR                       | None                                                                                                                                                                                                                                                    | September 28, 2026 | [📄 open][1]   |
 | 0.1M Sodium Chloride Solution                                    | Other Chemicals           | None                                                                                                                                                                                                                                                    | September 13, 2028 | [📄 open][2]   |
 | 1 M Magnesium Sulphate                                           | Other Chemicals           | None                                                                                                                                                                                                                                                    | July 15, 2027      | [📄 open][3]   |
-| 10x Klentaq1 Buffer                                              | PCR                       | None                                                                                                                                                                                                                                                    | March 09, 2026     | [📄 open][4]   |
+| 10x Klentaq1 Buffer                                              | PCR                       | None                                                                                                                                                                                                                                                    | March 02, 2029     | [📄 open][4]   |
 | 1M Potassium Chloride Solution                                   | Other Chemicals           | None                                                                                                                                                                                                                                                    | April 25, 2028     | [📄 open][5]   |
 | 1M Tris-HCL buffer, pH 6.8                                       | PCR                       | None                                                                                                                                                                                                                                                    | December 28, 2028  | [📄 open][6]   |
 | 2-Mercaptoethanol                                                | Extraction                | acute toxicity, skin sensitization, organ and reproductive toxicity                                                                                                                                                                                     | May 05, 2028       | [📄 open][7]   |
@@ -56,8 +56,8 @@ Last update: April 27, 2026
 | Cobicistat                                                       | Antiviral Drugs/Standards | toxic, harmful if swollowed                                                                                                                                                                                                                             | February 18, 2028  | [📄 open][46]  |
 | Cresol Red                                                       | PCR                       | none                                                                                                                                                                                                                                                    | June 22, 2027      | [📄 open][47]  |
 | D-(+)-Trehalose dihydrate                                        | Other Chemicals           | None                                                                                                                                                                                                                                                    | July 29, 2028      | [📄 open][48]  |
-| DNA Prep, (M) Tagmentation beads(24 Samples)                     | NGS Sequencing            | None                                                                                                                                                                                                                                                    | February 09, 2026  | [📄 open][49]  |
-| DNA Prep, Beads & buffer                                         | NGS Sequencing            | Stop Buffer: causes serious eye damage                                                                                                                                                                                                                  | February 09, 2026  | [📄 open][50]  |
+| DNA Prep, (M) Tagmentation beads(24 Samples)                     | NGS Sequencing            | None                                                                                                                                                                                                                                                    | April 27, 2029     | [📄 open][49]  |
+| DNA Prep, Beads & buffer                                         | NGS Sequencing            | Tagmentation Buffer: eye irritation, acute toxicity ( inhalation), Reproductive toxicity                                                                                                                                                                | January 20, 2029   | [📄 open][50]  |
 | DNAse-free kit DNase treatment and removal                       | PCR                       | None                                                                                                                                                                                                                                                    | July 04, 2028      | [📄 open][51]  |
 | DNase I                                                          | PCR                       | None                                                                                                                                                                                                                                                    | December 19, 2026  | [📄 open][52]  |
 | Darunavir Ethanolate                                             | Antiviral Drugs/Standards | Harmful if swallowed, Very toxic to aquatic life with long lasting effects                                                                                                                                                                              | February 02, 2029  | [📄 open][53]  |
@@ -78,7 +78,7 @@ Last update: April 27, 2026
 | Easysep Negative Human CD4 Kit                                   | Other Chemicals           | None                                                                                                                                                                                                                                                    | July 04, 2028      | [📄 open][68]  |
 | Efavirenz (EFV)                                                  | Antiviral Drugs/Standards | toxic, irritant, reproductive hazard                                                                                                                                                                                                                    | March 08, 2027     | [📄 open][69]  |
 | Electrolyte Solution KCl 3 mol/L                                 | TDM                       | None                                                                                                                                                                                                                                                    | September 23, 2028 | [📄 open][70]  |
-| Elvitegravir                                                     | Antiviral Drugs/Standards | Skin corrosion, Serious eye damage/irritation                                                                                                                                                                                                           | February 13, 2026  | [📄 open][71]  |
+| Elvitegravir                                                     | Antiviral Drugs/Standards | Skin corrosion, Serious eye damage/irritation                                                                                                                                                                                                           | April 29, 2029     | [📄 open][71]  |
 | Elvitegravir-d6                                                  | Antiviral Drugs/Standards | Toxic                                                                                                                                                                                                                                                   | April 09, 2027     | [📄 open][72]  |
 | Emtricitabine (FTC) - USP Reference Standard                     | Antiviral Drugs/Standards | Not considered a hazard with std use                                                                                                                                                                                                                    | December 03, 2027  | [📄 open][73]  |
 | Emtricitabine FTC (reagent)                                      | TDM                       | Avoid inhalation, skin and eye contact. Wear PPE.                                                                                                                                                                                                       | December 03, 2027  | [📄 open][74]  |
@@ -113,7 +113,7 @@ Last update: April 27, 2026
 | Human Plasma, Normal, Pooled, K2 EDTA                            | TDM                       | potentially infectious                                                                                                                                                                                                                                  | April 14, 2028     | [📄 open][103] |
 | Human Plasma, Normal, Pooled, K3 EDTA                            | TDM                       | None                                                                                                                                                                                                                                                    | April 14, 2028     | [📄 open][104] |
 | Humonitor Humidity indicator cards                               | Other Chemicals           | very toxic and toxic for environment                                                                                                                                                                                                                    | April 17, 2028     | [📄 open][105] |
-| IPB, DNA Prep, PCR & Buffer                                      | NGS Sequencing            | Tagm. buffer: harmful if inhaled, causes serious eye irritation, may cause cancer                                                                                                                                                                       | February 17, 2026  | [📄 open][106] |
+| IPB, DNA Prep, PCR & Buffer                                      | NGS Sequencing            | Tagm. buffer: harmful if inhaled, causes serious eye irritation, may cause cancer                                                                                                                                                                       | October 10, 2028   | [📄 open][106] |
 | Instand 1                                                        | TDM                       | None                                                                                                                                                                                                                                                    | July 03, 2028      | [📄 open][107] |
 | Instand 2                                                        | TDM                       | None                                                                                                                                                                                                                                                    | July 04, 2028      | [📄 open][108] |
 | Isopropanol (2-Propanol), HPLC grade                             | TDM                       | flammable, toxic                                                                                                                                                                                                                                        | July 02, 2027      | [📄 open][109] |
@@ -130,13 +130,13 @@ Last update: April 27, 2026
 | Lymphoprep                                                       | Other Chemicals           | None                                                                                                                                                                                                                                                    | April 25, 2028     | [📄 open][120] |
 | MS Chemical Kit 1, Low-High Conc. PPGs                           | TDM                       | flammable, toxic                                                                                                                                                                                                                                        | July 23, 2028      | [📄 open][121] |
 | Magnesium Chloride Solution, 1M                                  | 3730 Sequencing           | None                                                                                                                                                                                                                                                    | May 05, 2028       | [📄 open][122] |
-| Magnesium Sulphate, 50mM                                         | Other Chemicals           | None                                                                                                                                                                                                                                                    | March 09, 2026     | [📄 open][123] |
+| Magnesium Sulphate, 50mM                                         | Other Chemicals           | None                                                                                                                                                                                                                                                    | April 27, 2029     | [📄 open][123] |
 | Maraviroc                                                        | Antiviral Drugs/Standards | None                                                                                                                                                                                                                                                    | March 12, 2027     | [📄 open][124] |
 | Metergoline                                                      | Antiviral Drugs/Standards | toxic                                                                                                                                                                                                                                                   | April 03, 2027     | [📄 open][125] |
 | Methanol, LCMS grade                                             | TDM                       | highly flammable, toxic                                                                                                                                                                                                                                 | July 29, 2028      | [📄 open][126] |
-| MiSeq v2 Reagent Kit, 300 cycles, Box 1 of 2                     | NGS Sequencing            | None                                                                                                                                                                                                                                                    | November 14, 2025  | [📄 open][127] |
-| MiSeq v2 Reagent Kit, 500 & 300 cycles, Box 2 of 2               | NGS Sequencing            | may cause skin allergies                                                                                                                                                                                                                                | December 28, 2025  | [📄 open][128] |
-| MiSeq v2 Reagent Kit, 500 cycles, Box 1 of 2                     | NGS Sequencing            | Toxin, possible mutagen, carcinogen, teratagen                                                                                                                                                                                                          | December 02, 2025  | [📄 open][129] |
+| MiSeq v2 Reagent Kit, 300 cycles, Box 1 of 2                     | NGS Sequencing            | None                                                                                                                                                                                                                                                    | November 25, 2028  | [📄 open][127] |
+| MiSeq v2 Reagent Kit, 500 & 300 cycles, Box 2 of 2               | NGS Sequencing            | may cause skin allergies                                                                                                                                                                                                                                | March 27, 2029     | [📄 open][128] |
+| MiSeq v2 Reagent Kit, 500 cycles, Box 1 of 2                     | NGS Sequencing            | Toxin, possible mutagen, carcinogen, teratagen                                                                                                                                                                                                          | November 25, 2028  | [📄 open][129] |
 | Mineral Oil                                                      | Other Chemicals           | None                                                                                                                                                                                                                                                    | May 24, 2026       | [📄 open][130] |
 | Minipax absorbent packets                                        | Other Chemicals           | No Hazards                                                                                                                                                                                                                                              | May 25, 2026       | [📄 open][131] |
 | Multi-Capillary DS-33 Dye Set Matrix Std                         | 3730 Sequencing           | None                                                                                                                                                                                                                                                    | May 14, 2027       | [📄 open][132] |
@@ -147,10 +147,10 @@ Last update: April 27, 2026
 | NEUTRASORB Acid Neutralizer                                      | Safety/Emergency          | irritant                                                                                                                                                                                                                                                | July 19, 2026      | [📄 open][137] |
 | Nevirapine (NVP)                                                 | Antiviral Drugs/Standards | toxic, irritant                                                                                                                                                                                                                                         | October 25, 2026   | [📄 open][138] |
 | Nevirapine-d3                                                    | Antiviral Drugs/Standards | None                                                                                                                                                                                                                                                    | May 10, 2026       | [📄 open][139] |
-| Nextera XT Index Kit v2 Set A (96 indexes)                       | NGS Sequencing            | None                                                                                                                                                                                                                                                    | December 28, 2025  | [📄 open][140] |
-| Nextera XT Index Kit v2 Set B (96 indexes)                       | NGS Sequencing            | None                                                                                                                                                                                                                                                    | December 28, 2025  | [📄 open][141] |
-| Nextera XT Index Kit v2 Set C (96 indexes)                       | NGS Sequencing            | None                                                                                                                                                                                                                                                    | December 28, 2025  | [📄 open][142] |
-| Nextera XT Index Kit v2 Set D (96 indexes)                       | NGS Sequencing            | None                                                                                                                                                                                                                                                    | December 09, 2025  | [📄 open][143] |
+| Nextera XT Index Kit v2 Set A (96 indexes)                       | NGS Sequencing            | None                                                                                                                                                                                                                                                    | March 12, 2029     | [📄 open][140] |
+| Nextera XT Index Kit v2 Set B (96 indexes)                       | NGS Sequencing            | None                                                                                                                                                                                                                                                    | March 29, 2029     | [📄 open][141] |
+| Nextera XT Index Kit v2 Set C (96 indexes)                       | NGS Sequencing            | None                                                                                                                                                                                                                                                    | March 24, 2029     | [📄 open][142] |
+| Nextera XT Index Kit v2 Set D (96 indexes)                       | NGS Sequencing            | None                                                                                                                                                                                                                                                    | March 16, 2029     | [📄 open][143] |
 | Nextera XT Library Prep Kit (Box 1)                              | NGS Sequencing            | Normalization wash-Carcinogenicity, Reproductive toxicity, Specific organ toxicity; Normalization additives-Carcinogenicity, Reproductive toxicity, Specific organ toxicity; Tagment DNA Buffer- eye irritation, carcinogenicity, reproductive toxicity | November 04, 2028  | [📄 open][144] |
 | Nextera XT Library Prep Kit (Box 2)                              | NGS Sequencing            | None                                                                                                                                                                                                                                                    | November 04, 2028  | [📄 open][145] |
 | Normal Human Serum                                               | TDM                       | None                                                                                                                                                                                                                                                    | November 22, 2026  | [📄 open][146] |
@@ -267,7 +267,7 @@ Last update: April 27, 2026
 [1]: files/Dithiothreitol%20%28DTT%29%2C%200.1M%20Solution_707265ML_MTR-NALT_EN_28Sep2026.pdf
 [2]: files/sds_Sodium%20Chloride%201%20Molar%20Solution_SS0441_280913.pdf
 [3]: files/34276-1L_270715.pdf
-[4]: files/10x%20Klentaq1%20Reaction%20Buffer%20pH%207.9_RB21_reviewed_9March2026.pdf
+[4]: files/SDS-10x%20Klentaq1%20Reaction%20Buffer%20pH%207.9%20_29March02.pdf
 [5]: files/KCl_60142_25April2028.pdf
 [6]: files/TRIS-1-0M-BUFR-pH6.8_J63831_28Dec2028.pdf
 [7]: files/2-Mercaptoethanol_M6250_05May2028.pdf
@@ -312,8 +312,8 @@ Last update: April 27, 2026
 [46]: files/Cobicistat_C633150_SDS_18Feb2028.pdf
 [47]: files/Cresol%20red_114472_22June2027.pdf
 [48]: files/Trehalose%20dihydrate_t5251_29-Jul-28.pdf
-[49]: files/DNA%20Prep%2C%20%28M%29%20Tagmentation%20beads%2824%20Samples%29_20015173_rwd_9Feb2026.pdf
-[50]: files/DNA%20Prep%2C%20Beads%20%26%20buffer_illumina_20060060_9Feb2026.zip
+[49]: files/DNA%20Prep%2C%20%28M%29%20Tagmentation%20beads%2824%20Samples%29_290427.pdf
+[50]: files/DNA%20Prep%2C%20Beads%20%26%20buffer_290120.pdf
 [51]: files/DNA_free_DNSRemoval_kit_ext04Jul2028.pdf
 [52]: files/DNaseI_M0303S_19Dec2026.pdf
 [53]: files/Darunavir_CS-0750_ext02Feb2029.pdf
@@ -334,7 +334,7 @@ Last update: April 27, 2026
 [68]: files/EasysepNegativeHumanCD4kit_ext04Jul2028.pdf
 [69]: files/Efavirenz_sml0536_08March2027.pdf
 [70]: files/Electrolyte_KCl_3_mol_l_280923.pdf
-[71]: files/Chemscene_Elvitegravir_exp13Feb2026-signed.pdf
+[71]: files/Chemscene_Elvitegravir_29Apr29.pdf
 [72]: files/LGC_TRC-E509002_exp09APR2027-signed.pdf
 [73]: files/emtricitabine_1235106_extended_3Dec2027.pdf
 [74]: files/emtricitabine_1235106_extended_3Dec2027.pdf
@@ -369,7 +369,7 @@ Last update: April 27, 2026
 [103]: files/HumanBiologicalFluids_SDS_14April2028.pdf
 [104]: files/HumanBiologicalFluids_SDS_14April2028.pdf
 [105]: files/Humonitor%20humidity%20cards_z163449_17April2028.pdf
-[106]: files/IPB%2C%20DNA%20Prep%2C%20PCR%20%26%20Buffer_20049005_17feb2026.zip
+[106]: files/IPB%2C%20DNA%20Prep%2C%20PCR%20%26%20Buffer_281020.pdf
 [107]: files/SAFETY%20DATA%20SHEET_lyophilized_EQA_2019_04_29_ext_4Jul2028.docx
 [108]: files/SAFETY%20DATA%20SHEET_lyophilized_EQA_2019_04_29_ext_4Jul2028.docx
 [109]: files/Millipore_2-Propanol_exp02JUL2027.pdf
@@ -386,13 +386,13 @@ Last update: April 27, 2026
 [120]: files/Lymphoprep_DX20981_25April2028.pdf
 [121]: files/MS%20Chemical%20kit_4406127_23Jul2028.pdf
 [122]: files/Magnesium%20chloride%20solution_m1028_05may2028.pdf
-[123]: files/MgSO4%20Assay_52044_reviewed_9March2026.pdf
+[123]: files/MgSO4%20Assay_52044_reviewed_290427.pdf
 [124]: files/CS_CS-0366_Maraviroc_exp12MAR2027-signed.pdf
 [125]: files/m3668_Metergoline_270403.pdf
 [126]: files/Methanol_34966-4X4L_29Jul2028.pdf
-[127]: files/MiSeq%C2%AE%20Reagent%20Kit%20v2%20%28300%20cycle%29_MS-102-2022_reviewed_14Nov2025.zip
-[128]: files/MiSeq%C2%AE%20v2%20Reagent%20Kit%20Box%202%20of2.zip
-[129]: files/MiSeq%20v2%20Reagent%20Kit%2C%20500%20cycles%2C%20Box%201%20of%202_2Dec2025.zip
+[127]: files/MiSeq%20v2%20Reagent%20Kit%2C%20300%20cycles%2C%20Box%201%20of%202_281125.pdf
+[128]: files/MiSeq%20v2%20Reagent%20Kit_290327.pdf
+[129]: files/MiSeq%20v2%20Reagent%20Kit%2C%20%20Box%201%20of%202_281125.pdf
 [130]: files/Sigma_m5904_exp24May2026-signed.pdf
 [131]: files/Sigma_z163562_exp24May2026-signed.pdf
 [132]: files/Matrix%20Standard%20DS-33_4345320_14May2027.pdf
@@ -403,10 +403,10 @@ Last update: April 27, 2026
 [137]: files/Avantor_Neutrasorb_exp19Jul2026-signed.pdf
 [138]: files/USP_Nevirapine-Anhydrous_1460703_exp25Oct2025-signed.pdf
 [139]: files/ClearSynth_Nevirapine_SDS_10MAY2023.pdf
-[140]: files/Nextra%20XT%20IDX%20kt%20v2%20set%20A%2096%20IDXS_28Dec2025.zip
-[141]: files/Nextra%20XT%20IDX%20kt%20v2%20set%20B%2096%20IDXS_rw_28Dec2025.zip
-[142]: files/Nextra%20XT%20IDX%20kt%20v2%20set%20C%2096%20IDXS_rw_28Dec2025.zip
-[143]: files/NXTR%20%20XT%20IDX%20Kt%20v2_reviewed_9Dec2025.zip
+[140]: files/NXTR%20XT%20IDX%20Kt%20v2%20Set%20A%2096%20IDXS_290312.pdf
+[141]: files/NXTR%20XT%20IDX%20Kt%20v2%20Set%20B%2096%20IDXS_290312.pdf
+[142]: files/NXTR%20XT%20IDX%20Kt%20v2%20Set%20C%2096%20IDXS_290324.pdf
+[143]: files/NXTR%20XT%20IDX%20Kt%20v2%20Set%20D%2096%20IDXS_290316.pdf
 [144]: files/NXTR_XT_DNA_281104.pdf
 [145]: files/NXTR_XT_DNA_281104.pdf
 [146]: files/Innovative_Research_Human_exp22Nov2026-signed.pdf
@@ -489,7 +489,7 @@ Last update: April 27, 2026
 [223]: files/Sigma_Triazine_exp25Nov2026-signed.pdf
 [224]: files/Thermo_Tris8__AM9855G_exp27DEC2026-signed.pdf
 [225]: files/Tris%2C%20pH%208.5_786-269_17Jan2028.pdf
-[226]: files/TRIS-buffered_saline_%28TBS__10X_MTR_AGHS_CE_J62938_28Dec2028.pdf
+[226]: files/TRIS-buffered_saline_28Dec28.pdf
 [227]: files/t8787_Triton_271114.pdf
 [228]: files/Sigma_t1503_exp08Jun2026-signed.pdf
 [229]: files/Trizma_t2819_02Oct2027.pdf
