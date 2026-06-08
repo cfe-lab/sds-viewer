@@ -248,8 +248,8 @@
         "name": "Buffer Solution pH 1.68 (White)",
         "category": "TDM",
         "hazards": null,
-        "date_msds_expires": "April 17, 2028",
-        "filename": "pH 1.68 Buffer_910168_17April2028.pdf"
+        "date_msds_expires": "April 01, 2027",
+        "filename": "Buffer Solution pH 1.68 (White)_01-apr-2027.pdf"
     },
     {
         "name": "Buffer Solution pH 4, Red",
@@ -290,8 +290,8 @@
         "name": "Cabotegravir-d5",
         "category": "Antiviral Drugs/Standards",
         "hazards": "Acute toxicity; harmful if swallowed or inhaled, in contact with skin",
-        "date_msds_expires": "July 19, 2026",
-        "filename": "Cayman_cabotegravir-d5_31319m_exp19-Jul2026-signed.pdf"
+        "date_msds_expires": "October 06, 2028",
+        "filename": "Cabotegravir-d5_06-oct-2028.pdf"
     },
     {
         "name": "Cederroth Eye Wash, Sterile, 500ml",
@@ -346,15 +346,15 @@
         "name": "DNA Prep, (M) Tagmentation beads(24 Samples)  ",
         "category": "NGS Sequencing",
         "hazards": null,
-        "date_msds_expires": "April 27, 2029",
-        "filename": "DNA Prep, (M) Tagmentation beads(24 Samples)_290427.pdf"
+        "date_msds_expires": "July 22, 2028",
+        "filename": "DNA Prep, (M) Tagmentation beads (24 Samples)-22-Jul-2028.pdf"
     },
     {
         "name": "DNA Prep, Beads & buffer",
         "category": "NGS Sequencing",
         "hazards": "Tagmentation Buffer: eye irritation, acute toxicity ( inhalation), Reproductive toxicity",
         "date_msds_expires": "January 20, 2029",
-        "filename": "DNA Prep, Beads & buffer_290120.pdf"
+        "filename": "DNA Prep, Beads & buffer_20Jan2029.pdf"
     },
     {
         "name": "DNAse-free kit DNase treatment and removal",
@@ -395,8 +395,8 @@
         "name": "Dichloromethane DCM (Methylene Chloride)",
         "category": "TDM",
         "hazards": "Very toxic-Cancerogenic",
-        "date_msds_expires": "June 30, 2028",
-        "filename": "Dichloromethane_32667_ext30June2025.pdf"
+        "date_msds_expires": "March 31, 2028",
+        "filename": "Dichloromethane-31-mar-2028.pdf"
     },
     {
         "name": "Dimethyl Sulfoxide (DMSO), Hybri-Max",
@@ -416,8 +416,8 @@
         "name": "Dolutegravir",
         "category": "Antiviral Drugs/Standards",
         "hazards": "Toxic, harmful if swallowed",
-        "date_msds_expires": "September 12, 2027",
-        "filename": "ChemScene_Dolutegravir_exp27Jul2024-2-signed.pdf"
+        "date_msds_expires": "December 23, 2028",
+        "filename": "Dolutegravir 23-Dec-2028.pdf"
     },
     {
         "name": "Dolutegravir-D5,C13",
@@ -1531,13 +1531,6 @@
         "hazards": null,
         "date_msds_expires": "July 10, 2027",
         "filename": "Tergitol_np40s_10Jul2027.pdf"
-    },
-    {
-        "name": "Thymol",
-        "category": "IDC Specimen Processing",
-        "hazards": "corrosive, toxic",
-        "date_msds_expires": "June 21, 2027",
-        "filename": "Thymol_t0501_21Jun2027.pdf"
     },
     {
         "name": "TrackIt 1 Kb Plus DNA Ladder",
