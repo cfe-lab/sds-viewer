@@ -129,8 +129,8 @@
         "name": "Agencourt RNAClean XP",
         "category": "NGS Sequencing",
         "hazards": null,
-        "date_msds_expires": "May 31, 2026",
-        "filename": "Beckman_RNACleanXP_exp31May2026-signed.pdf"
+        "date_msds_expires": "September 14, 2028",
+        "filename": "A63987AL_Agencourt RNAclean XP_14sept2028.pdf"
     },
     {
         "name": "Albumin, from Bovine Serum",
@@ -138,13 +138,6 @@
         "hazards": null,
         "date_msds_expires": "August 24, 2028",
         "filename": "BSA_A9418_24Aug2028.pdf"
-    },
-    {
-        "name": "Ammonium Acetate (Solution)",
-        "category": "TDM",
-        "hazards": "Avoid inhalation, skin and eye contact. Wear PPE.",
-        "date_msds_expires": "May 24, 2026",
-        "filename": "Sigma_AmmoniumAcetate_73594_exp24MAY2026-signed.pdf"
     },
     {
         "name": "Ammonium Acetate - Fisher",
@@ -206,8 +199,8 @@
         "name": "Betaine Solution, 5M",
         "category": "PCR",
         "hazards": null,
-        "date_msds_expires": "May 24, 2026",
-        "filename": "Sigma_Betaine_b0300_exp24MAY2026-signed.pdf"
+        "date_msds_expires": "November 07, 2028",
+        "filename": "b0300_Betaine_07Nov2028.pdf"
     },
     {
         "name": "Bictegravir",
@@ -402,8 +395,8 @@
         "name": "Dimethyl Sulfoxide (DMSO), Hybri-Max",
         "category": "IDC Specimen Processing",
         "hazards": "combustible",
-        "date_msds_expires": "July 01, 2026",
-        "filename": "Sigma_DMSO_D2650_exp01JUL2026-signed.pdf"
+        "date_msds_expires": "September 10, 2028",
+        "filename": "d2650_Dimethyl sulfoxide_10Sept2028.pdf"
     },
     {
         "name": "Dimethyl sulfoxide (DMSO), CHROMASOLV Plus for HPLC",
@@ -451,8 +444,8 @@
         "name": "Dynabeads Protein A",
         "category": "Other Chemicals",
         "hazards": null,
-        "date_msds_expires": "April 24, 2026",
-        "filename": "Dynabeads_ProteinA_10002D_24Apr2026.pdf"
+        "date_msds_expires": "June 10, 2029",
+        "filename": "10002D_Dynabeads_Protein A_ext. 10June2029.pdf"
     },
     {
         "name": "Dynabeads Protein G",
@@ -493,8 +486,8 @@
         "name": "Electrolyte Solution KCl 3 mol/L",
         "category": "TDM",
         "hazards": null,
-        "date_msds_expires": "September 23, 2028",
-        "filename": "Electrolyte_KCl_3_mol_l_280923.pdf"
+        "date_msds_expires": "June 11, 2029",
+        "filename": "Electrolyte Solution KCl 3 mol\uf022L-ext.11June2029.pdf"
     },
     {
         "name": "Elvitegravir",
@@ -535,8 +528,8 @@
         "name": "Ethanol (Ethyl Alcohol), Anhydrous - Commercial Alcohols",
         "category": "NGS Sequencing",
         "hazards": "flammable",
-        "date_msds_expires": "February 28, 2027",
-        "filename": "CA_Anhydrous_exp28Feb2027-signed.pdf"
+        "date_msds_expires": "March 20, 2029",
+        "filename": "Ethanol (Ethyl Alcohol), Anhydrous_20March2029.pdf"
     },
     {
         "name": "Etravirine ETV (Chemscene)",
@@ -899,15 +892,15 @@
         "name": "Mineral Oil",
         "category": "Other Chemicals",
         "hazards": null,
-        "date_msds_expires": "May 24, 2026",
-        "filename": "Sigma_m5904_exp24May2026-signed.pdf"
+        "date_msds_expires": "September 10, 2028",
+        "filename": "m5904_mineral oil_10Sep28.pdf"
     },
     {
         "name": "Minipax absorbent packets",
         "category": "Other Chemicals",
         "hazards": "No Hazards",
-        "date_msds_expires": "May 25, 2026",
-        "filename": "Sigma_z163562_exp24May2026-signed.pdf"
+        "date_msds_expires": "June 02, 2029",
+        "filename": "z163562_Minipax Absorbent_02June2029.pdf"
     },
     {
         "name": "Multi-Capillary DS-33 Dye Set Matrix Std",
@@ -1130,15 +1123,8 @@
         "name": "QIAamp DNA Mini Kit",
         "category": "Other Chemicals",
         "hazards": null,
-        "date_msds_expires": "June 23, 2026",
-        "filename": "QIAampDNA_51206_exp23Jun2026.pdf"
-    },
-    {
-        "name": "QX200 EvaGreen ddPCR Supermix",
-        "category": "Other Chemicals",
-        "hazards": null,
-        "date_msds_expires": "June 03, 2027",
-        "filename": "BioRad_QX200_exp03JUN2027-signed.pdf"
+        "date_msds_expires": "September 26, 2028",
+        "filename": "96-QIAampDNAMiniK_26sept2028.pdf"
     },
     {
         "name": "Quant-iT PicoGreen dsDNA Reagent",
@@ -1146,13 +1132,6 @@
         "hazards": null,
         "date_msds_expires": "December 19, 2026",
         "filename": "Quant-it_P11496COMPONENTA_MTR-NALT_EN_26Dec19.pdf"
-    },
-    {
-        "name": "Quant-iT RiboGreen RNA Assay Kit",
-        "category": "Quant",
-        "hazards": "Combustible and toxic",
-        "date_msds_expires": "April 26, 2026",
-        "filename": "Quant-iT RiboGreen_R11490_260423.pdf"
     },
     {
         "name": "RBC Lysis Solution",
@@ -1305,8 +1284,8 @@
         "name": "SPINKOTE Lubricant for metal threads",
         "category": "Other Chemicals",
         "hazards": "Damages fertility or unborn child, mild skin irritation, toxic to aquatic life",
-        "date_msds_expires": "June 21, 2026",
-        "filename": "Beckman_Spinkote_306812AM_exp21DEC2026.pdf"
+        "date_msds_expires": "September 20, 2028",
+        "filename": "306812AR_SPINKOTE_20Sep2028.pdf"
     },
     {
         "name": "SYBR Safe DNA Gel Stain",
@@ -1498,13 +1477,6 @@
         "filename": "460204 PCR4-TOPO VECTOR_460204_25Apr2028.pdf"
     },
     {
-        "name": "TOPO TA Cloning Kit, pCR 2.1-TOPO Vector",
-        "category": "Other Chemicals",
-        "hazards": null,
-        "date_msds_expires": "June 20, 2026",
-        "filename": "Thermo_Topo_450641-signed.pdf"
-    },
-    {
         "name": "Tenofovir (Chemscene)",
         "category": "Antiviral Drugs/Standards",
         "hazards": "Harmful if swallowed, causes skin irritation and eye irritation",
@@ -1575,13 +1547,6 @@
         "filename": "t8787_Triton_271114.pdf"
     },
     {
-        "name": "Trizma Base",
-        "category": "Other Chemicals",
-        "hazards": null,
-        "date_msds_expires": "June 08, 2026",
-        "filename": "Sigma_t1503_exp08Jun2026-signed.pdf"
-    },
-    {
         "name": "Trizma Hydrochloride Solution, pH 9.0, 1M",
         "category": "3730 Sequencing",
         "hazards": "none",
@@ -1592,8 +1557,8 @@
         "name": "TruPure Formamide",
         "category": "3730 Sequencing",
         "hazards": "Carcinogenic",
-        "date_msds_expires": "March 31, 2026",
-        "filename": "TruPure Formamide SDS_v2.2.pdf"
+        "date_msds_expires": "June 10, 2029",
+        "filename": "090025_TruPure Formamide SDS_v2.2_ext10June29.pdf"
     },
     {
         "name": "Trypan Blue 0.4% Stain Solution",
