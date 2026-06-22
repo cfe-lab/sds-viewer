@@ -501,7 +501,7 @@
         "category": "Antiviral Drugs/Standards",
         "hazards": "Toxic",
         "date_msds_expires": "April 09, 2027",
-        "filename": "LGC_TRC-E509002_exp09APR2027-signed.pdf"
+        "filename": "Elvitegravir-d6_LGC_TRC-E509002_exp09APR2027.pdf"
     },
     {
         "name": "Emtricitabine (FTC) - USP Reference Standard",
@@ -591,15 +591,15 @@
         "name": "Fetal Bovine Serum (FBS)",
         "category": "IDC Specimen Processing",
         "hazards": null,
-        "date_msds_expires": "June 03, 2027",
-        "filename": "Thermo_FBS_12483020_exp03JUN2027-signed.pdf"
+        "date_msds_expires": "July 22, 2027",
+        "filename": "FBS_12483020_22Jul2027.pdf"
     },
     {
         "name": "Fetal Bovine Serum (FBS), Heat Inactivated (Gibco)",
         "category": "IDC Specimen Processing",
         "hazards": null,
-        "date_msds_expires": "June 03, 2027",
-        "filename": "Thermo_FBSinactive_12484028_exp03JUN2027-signed.pdf"
+        "date_msds_expires": "June 16, 2029",
+        "filename": "FBS Heat Inactivated_12484028_16Jun2029.pdf"
     },
     {
         "name": "Fluorescein Sodium Salt",
@@ -619,15 +619,15 @@
         "name": "Fyrite CO2 indicator fluid refill",
         "category": "Other Chemicals",
         "hazards": "corrosive. poisonous",
-        "date_msds_expires": "December 03, 2027",
-        "filename": "Fyrite_ghs_10-5057_03Dec2027.pdf"
+        "date_msds_expires": "June 16, 2029",
+        "filename": "Fluid, Fyrite, CO2_16Jun2029.pdf"
     },
     {
         "name": "GeneScan DS-33 Installation Standard",
         "category": "3730 Sequencing",
         "hazards": null,
-        "date_msds_expires": "April 14, 2028",
-        "filename": "GeneScan_4330399_17April2028.pdf"
+        "date_msds_expires": "November 28, 2028",
+        "filename": "GeneScan InstallationStandardDS-_4330399_28Nov2028.pdf"
     },
     {
         "name": "Glycogen, Ultrapure",
@@ -661,8 +661,8 @@
         "name": "Hi-Di Formamide",
         "category": "3730 Sequencing",
         "hazards": "Toxic",
-        "date_msds_expires": "May 13, 2027",
-        "filename": "Thermo_4311320_HiDi_exp13May2027-signed.pdf"
+        "date_msds_expires": "May 21, 2027",
+        "filename": "Hi-Di_4311320_21May2027.pdf"
     },
     {
         "name": "Holland 1",
@@ -773,8 +773,8 @@
         "name": "Lamivudine (3TC) - USP Reference Standard",
         "category": "Antiviral Drugs/Standards",
         "hazards": "toxic, irritant, weak mutagen",
-        "date_msds_expires": "September 26, 2026",
-        "filename": "USP_3TC_1356836_exp26Sep2026-signed.pdf"
+        "date_msds_expires": "December 20, 2028",
+        "filename": "LAMIVUDINE_20Dec2028.pdf"
     },
     {
         "name": "Lamivudine 3TC (reagent)",
@@ -801,15 +801,15 @@
         "name": "Liqui-Jet 2 - Steris Canada",
         "category": "Disinfectants",
         "hazards": "Causes serious eye and skin damage",
-        "date_msds_expires": "November 04, 2028",
-        "filename": "Liqui-Jet 2_ext281104.pdf"
+        "date_msds_expires": "May 20, 2029",
+        "filename": "Liqui-Jet_5080533_20May2029.pdf"
     },
     {
         "name": "Liquinox phosphate-free liquid detergent",
         "category": "Disinfectants",
         "hazards": null,
-        "date_msds_expires": "September 22, 2028",
-        "filename": "z273279_Liqui-nox_280922.pdf"
+        "date_msds_expires": "November 07, 2028",
+        "filename": "Liqui-nox_z273279_7Nov2028.pdf"
     },
     {
         "name": "Lopinavir (LPV)",
@@ -822,8 +822,8 @@
         "name": "Lymphoprep",
         "category": "Other Chemicals",
         "hazards": null,
-        "date_msds_expires": "April 25, 2028",
-        "filename": "Lymphoprep_DX20981_25April2028.pdf"
+        "date_msds_expires": "September 23, 2027",
+        "filename": "Lymphoprep_DX20981_23sep2027.pdf"
     },
     {
         "name": "MS Chemical Kit 1, Low-High Conc. PPGs",
@@ -948,8 +948,8 @@
         "name": "Nevirapine (NVP)",
         "category": "Antiviral Drugs/Standards",
         "hazards": "toxic, irritant",
-        "date_msds_expires": "October 25, 2026",
-        "filename": "USP_Nevirapine-Anhydrous_1460703_exp25Oct2025-signed.pdf"
+        "date_msds_expires": "June 15, 2029",
+        "filename": "Nevirapine_1460703_ext15June2029.pdf"
     },
     {
         "name": "Nevirapine-d3",
@@ -990,8 +990,8 @@
         "name": "Nextera XT Library Prep Kit (Box 1)",
         "category": "NGS Sequencing",
         "hazards": "Normalization wash-Carcinogenicity, Reproductive toxicity, Specific organ toxicity; Normalization additives-Carcinogenicity, Reproductive toxicity, Specific organ toxicity; Tagment DNA Buffer- eye irritation, carcinogenicity, reproductive toxicity",
-        "date_msds_expires": "November 04, 2028",
-        "filename": "NXTR_XT_DNA_281104.pdf"
+        "date_msds_expires": "September 19, 2028",
+        "filename": "NXTR XT DNA SMP_19Sept2028.pdf"
     },
     {
         "name": "Nextera XT Library Prep Kit (Box 2)",
@@ -1004,8 +1004,8 @@
         "name": "Normal Human Serum",
         "category": "TDM",
         "hazards": null,
-        "date_msds_expires": "November 22, 2026",
-        "filename": "Innovative_Research_Human_exp22Nov2026-signed.pdf"
+        "date_msds_expires": "June 26, 2028",
+        "filename": "Normal human Serum_ISERAB100mL_26Jun2028.pdf"
     },
     {
         "name": "NspI",
@@ -1018,8 +1018,8 @@
         "name": "Nuclease-Free Water (not DEPC-Treated)",
         "category": "Other Chemicals",
         "hazards": null,
-        "date_msds_expires": "February 26, 2027",
-        "filename": "Thermo_AM9930_exp26Feb2027-signed.pdf"
+        "date_msds_expires": "March 19, 2027",
+        "filename": "Nuclease-Free water_AM9930_19Mar2027.pdf"
     },
     {
         "name": "NxtScript RT",
@@ -1032,8 +1032,8 @@
         "name": "PfuUltra II Fusion HS DNA Polymerase",
         "category": "PCR",
         "hazards": "toxic, irritant",
-        "date_msds_expires": "April 14, 2028",
-        "filename": "PfuUltra II Fusion HS DNA Polymerase_600672_NACanada.pdf"
+        "date_msds_expires": "November 26, 2028",
+        "filename": "PfuUltra II Fusion HS DNA Polymerase_26Nov2028.pdf"
     },
     {
         "name": "PhiX  Control v3",
@@ -1053,8 +1053,8 @@
         "name": "Platinum Taq DNA Polymerase High Fidelity",
         "category": "PCR",
         "hazards": null,
-        "date_msds_expires": "May 13, 2027",
-        "filename": "Thermo_PlatTaq_exp13May2027-signed.pdf"
+        "date_msds_expires": "January 23, 2028",
+        "filename": "Platinum Taq DNA Polymerase_52046_23Jan2028.pdf"
     },
     {
         "name": "Poly(ethylene glycol) (PEG-8000)",
@@ -1067,8 +1067,8 @@
         "name": "Poly(ethylene glycol) PEG-400",
         "category": "NGS Sequencing",
         "hazards": "NA",
-        "date_msds_expires": "June 03, 2027",
-        "filename": "Sigma_PEG-400_202398_exp03JUN2027-signed.pdf"
+        "date_msds_expires": "April 28, 2028",
+        "filename": "Poly( ethylene glycol)_202398_28Apr2028.pdf"
     },
     {
         "name": "Primers ",
@@ -1081,8 +1081,8 @@
         "name": "Proguard Hand Cream ",
         "category": "Disinfectants",
         "hazards": null,
-        "date_msds_expires": "May 13, 2027",
-        "filename": "Decon_Proguard_exp13May2027-signed.pdf"
+        "date_msds_expires": "December 31, 2027",
+        "filename": "Proguard_9516_31dec2027.pdf"
     },
     {
         "name": "Propylene glycol ",
@@ -1137,8 +1137,8 @@
         "name": "RBC Lysis Solution",
         "category": "Other Chemicals",
         "hazards": null,
-        "date_msds_expires": "April 09, 2027",
-        "filename": "Thermo_RBC_00-4333-57_exp09APR2027-signed.pdf"
+        "date_msds_expires": "April 30, 2027",
+        "filename": "RBC Lysis Buffer_00-4333-57_30Apr2027.pdf"
     },
     {
         "name": "RNAlater",
@@ -1148,18 +1148,11 @@
         "filename": "RNALATER_AM7020F_MTR-NALT_EN_09Jun2028.pdf"
     },
     {
-        "name": "RNAqueous 4PCR: DNA-free RNA Isolation for RT-PCR",
-        "category": "Other Chemicals",
-        "hazards": null,
-        "date_msds_expires": "November 22, 2026",
-        "filename": "Thermo_RNAqueousKit_AM1914_exp22NOV2026-signed.pdf"
-    },
-    {
         "name": "RNase A",
         "category": "Other Chemicals",
         "hazards": null,
-        "date_msds_expires": "September 12, 2027",
-        "filename": "Qiagen_RnaseA_exp12Sep2024-signed.pdf"
+        "date_msds_expires": "September 18, 2028",
+        "filename": "RNaseA_19101_18Sept2028.pdf"
     },
     {
         "name": "RNaseOUT Recombinant Ribonuclease Inhibitor",
@@ -1270,8 +1263,8 @@
         "name": "SARS-CoV-Negative",
         "category": "Other Chemicals",
         "hazards": null,
-        "date_msds_expires": "September 22, 2028",
-        "filename": "Exact Diagnostics SARS-CoV-2 Negative_COV000_280922.pdf"
+        "date_msds_expires": "July 03, 2028",
+        "filename": "SARS-CoV-Negative_COV000CE_03Jul2028.pdf"
     },
     {
         "name": "SOLUSORB Solvent Adsorbent",
@@ -1293,20 +1286,6 @@
         "hazards": "Flammable",
         "date_msds_expires": "April 03, 2029",
         "filename": "SYBR Safe_S33102_MTR-NALT_EN_ext03Apr2029.pdf"
-    },
-    {
-        "name": "SeqCap EZ Accessory Kit v2",
-        "category": "NGS Sequencing",
-        "hazards": null,
-        "date_msds_expires": "July 03, 2028",
-        "filename": "Roche_SeqCap EZ Accessory Kit v2_exp03jul2028-signed.pdf"
-    },
-    {
-        "name": "SeqCap HE-Oligo Kit A & Kit B",
-        "category": "Other Chemicals",
-        "hazards": null,
-        "date_msds_expires": "September 12, 2027",
-        "filename": "Roche_SeqCapOligoKitAB_exp12Sep2027.pdf"
     },
     {
         "name": "Silicone Oil",
@@ -1396,22 +1375,22 @@
         "name": "SuperScript 2X Reaction Mix",
         "category": "PCR",
         "hazards": "None",
-        "date_msds_expires": "July 17, 2026",
-        "filename": "2x-RNX-Mix_51099_MTR-NALT_EN.pdf"
+        "date_msds_expires": "June 11, 2027",
+        "filename": "SuperScript 2X reaction_51099_11Jun2027.pdf"
     },
     {
         "name": "SuperScript III Reverse Transcriptase (Enzyme)",
         "category": "PCR",
         "hazards": null,
         "date_msds_expires": "January 08, 2027",
-        "filename": "Thermo_SSIII_58080_exp08Jan2027-signed.pdf"
+        "filename": "SUPERSCRIPT III REV TRANSCRIPT_18080044_18Jun2029.pdf"
     },
     {
         "name": "SuperScript IV",
         "category": "PCR",
         "hazards": null,
-        "date_msds_expires": "April 14, 2028",
-        "filename": "SuperScript\u2122 IV_EP1452F_14April208.pdf"
+        "date_msds_expires": "June 02, 2028",
+        "filename": "SUPERSCRIPT_EP1452F_02Jun2028.pdf"
     },
     {
         "name": "SuperScript/Platinum High Fidelity Enzyme Mix",
@@ -1585,8 +1564,8 @@
         "name": "Unmodified DNA Oligo (SDS)",
         "category": "Primers",
         "hazards": null,
-        "date_msds_expires": "October 25, 2026",
-        "filename": "IDT_unmodifiedDNAoligo_exp25Oct2026-signed.pdf"
+        "date_msds_expires": "June 17, 2028",
+        "filename": "unmodified-dna-oligo_IDT-001_17Jun2028.pdf"
     },
     {
         "name": "Vacuum Grease, Silicone",
