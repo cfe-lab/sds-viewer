@@ -336,13 +336,6 @@
         "filename": "Trehalose dihydrate_t5251_29-Jul-28.pdf"
     },
     {
-        "name": "DNA Prep, (M) Tagmentation beads(24 Samples)  ",
-        "category": "NGS Sequencing",
-        "hazards": null,
-        "date_msds_expires": "July 22, 2028",
-        "filename": "DNA Prep, (M) Tagmentation beads (24 Samples)-22-Jul-2028.pdf"
-    },
-    {
         "name": "DNA Prep, Beads & buffer",
         "category": "NGS Sequencing",
         "hazards": "Tagmentation Buffer: eye irritation, acute toxicity ( inhalation), Reproductive toxicity",
@@ -432,13 +425,6 @@
         "hazards": null,
         "date_msds_expires": "February 02, 2029",
         "filename": "DPBS_14190144_ext02Feb29.pdf"
-    },
-    {
-        "name": "Dynabeads M-270 Streptavidin ",
-        "category": "Other Chemicals",
-        "hazards": null,
-        "date_msds_expires": "March 14, 2028",
-        "filename": "dynabeads_M-270_Strept_65305_14March2028_extended.pdf"
     },
     {
         "name": "Dynabeads Protein A",
@@ -747,13 +733,6 @@
         "hazards": "flammable, toxic",
         "date_msds_expires": "July 02, 2027",
         "filename": "Millipore_2-Propanol_exp02JUL2027.pdf"
-    },
-    {
-        "name": "Isopropanol (2-Propanol), Histological",
-        "category": "TDM",
-        "hazards": "flammable, toxic",
-        "date_msds_expires": "October 13, 2026",
-        "filename": "Isopropanol_13Oct2026.pdf"
     },
     {
         "name": "Klentaq LA DNA Polymerase",
@@ -1489,13 +1468,6 @@
         "hazards": null,
         "date_msds_expires": "June 05, 2027",
         "filename": "Track_104880851F_05Jun2027.pdf"
-    },
-    {
-        "name": "Triazine Pesticides Standards Mix",
-        "category": "TDM",
-        "hazards": "Flammable, Poisonous, Aspiration",
-        "date_msds_expires": "November 25, 2026",
-        "filename": "Sigma_Triazine_exp25Nov2026-signed.pdf"
     },
     {
         "name": "Tris, 1M, pH 8.0",
