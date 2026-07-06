@@ -2,7 +2,7 @@
 
 [![Check](https://github.com/cfe-lab/sds-viewer/actions/workflows/selfcheck.yml/badge.svg)](https://github.com/cfe-lab/sds-viewer/actions/workflows/selfcheck.yml)
 
-Last update: June 29, 2026
+Last update: July 06, 2026
 
                                                                                                                                                                                                                                                                                                                                                                                                 
 | Name                                                             | Category                  | Hazards                                                                                                                                                                                                                                                 | Expiry Date        | Document       |
@@ -17,10 +17,10 @@ Last update: June 29, 2026
 | 2-Mercaptoethanol                                                | Extraction                | acute toxicity, skin sensitization, organ and reproductive toxicity                                                                                                                                                                                     | May 05, 2028       | [📄 open][7]   |
 | 3730 POP-7 Polymer                                               | 3730 Sequencing           | None                                                                                                                                                                                                                                                    | February 14, 2028  | [📄 open][8]   |
 | 3730 Running Buffer, 10X                                         | 3730 Sequencing           | None                                                                                                                                                                                                                                                    | October 15, 2027   | [📄 open][9]   |
-| 8N Potassium Hydroxide                                           | Other Chemicals           | Corrosive, Harmful if swallowed, Causes severe skin burns and eye damage                                                                                                                                                                                | October 10, 2026   | [📄 open][10]  |
+| 8N Potassium Hydroxide                                           | Other Chemicals           | Corrosive, Harmful if swallowed, Causes severe skin burns and eye damage                                                                                                                                                                                | December 19, 2028  | [📄 open][10]  |
 | Abacavir Sulfate                                                 | Antiviral Drugs/Standards | Eye irritation, Skin sensitisation, Germ cell mutagenicity, Carcinogenicity, Reproductive toxicity                                                                                                                                                      | July 01, 2028      | [📄 open][11]  |
 | Acetic Acid, Glacial, HPLC grade                                 | TDM                       | corrosive, irritant                                                                                                                                                                                                                                     | October 13, 2026   | [📄 open][12]  |
-| Acetone, HPLC grade                                              | TDM                       | highly flammable, toxic                                                                                                                                                                                                                                 | October 11, 2026   | [📄 open][13]  |
+| Acetone, HPLC grade                                              | TDM                       | highly flammable, toxic                                                                                                                                                                                                                                 | December 27, 2028  | [📄 open][13]  |
 | Acetonitrile Chromasolv Plus for HPLC, >99.9%                    | TDM                       | Highly flammable, harmful if swallowed or inhaled, causes serious eye irritation aand damage to organs                                                                                                                                                  | December 18, 2028  | [📄 open][14]  |
 | Acycloguanosine, Acyclovir (ACV)                                 | Antiviral Drugs/Standards | Not considered a hazard with std use                                                                                                                                                                                                                    | May 26, 2028       | [📄 open][15]  |
 | Agarose, Standard Low mr - 500g - Bio-Rad                        | Gels                      | None                                                                                                                                                                                                                                                    | August 25, 2026    | [📄 open][16]  |
@@ -90,7 +90,7 @@ Last update: June 29, 2026
 | FastRuler DNA Ladder                                             | Gels                      | None                                                                                                                                                                                                                                                    | April 09, 2029     | [📄 open][80]  |
 | Fenwal Blood-Pack Units, CPDA-1                                  | IDC Specimen Processing   | None                                                                                                                                                                                                                                                    | May 01, 2027       | [📄 open][81]  |
 | Fetal Bovine Serum (FBS)                                         | IDC Specimen Processing   | None                                                                                                                                                                                                                                                    | July 22, 2027      | [📄 open][82]  |
-| Fetal Bovine Serum (FBS), Heat Inactivated (Gibco)               | IDC Specimen Processing   | None                                                                                                                                                                                                                                                    | June 16, 2029      | [📄 open][83]  |
+| Fetal Bovine Serum (FBS), Heat Inactivated (Gibco)               | IDC Specimen Processing   | None                                                                                                                                                                                                                                                    | January 07, 2028   | [📄 open][83]  |
 | Fluorescein Sodium Salt                                          | Quant                     | None                                                                                                                                                                                                                                                    | February 17, 2028  | [📄 open][84]  |
 | Formic Acid                                                      | TDM                       | corrosive                                                                                                                                                                                                                                               | October 07, 2028   | [📄 open][85]  |
 | Fyrite CO2 indicator fluid refill                                | Other Chemicals           | corrosive. poisonous                                                                                                                                                                                                                                    | June 16, 2029      | [📄 open][86]  |
@@ -185,7 +185,7 @@ Last update: June 29, 2026
 | RoboSep Buffer                                                   | IDC Specimen Processing   | None                                                                                                                                                                                                                                                    | November 01, 2026  | [📄 open][175] |
 | SAR-CoV-2 Standard                                               | Other Chemicals           | None                                                                                                                                                                                                                                                    | September 15, 2026 | [📄 open][176] |
 | SARS-CoV-Negative                                                | Other Chemicals           | None                                                                                                                                                                                                                                                    | July 03, 2028      | [📄 open][177] |
-| SOLUSORB Solvent Adsorbent                                       | Safety/Emergency          | None                                                                                                                                                                                                                                                    | January 10, 2028   | [📄 open][178] |
+| SOLUSORB Solvent Adsorbent                                       | Safety/Emergency          | None                                                                                                                                                                                                                                                    | July 03, 2029      | [📄 open][178] |
 | SPINKOTE Lubricant for metal threads                             | Other Chemicals           | Damages fertility or unborn child, mild skin irritation, toxic to aquatic life                                                                                                                                                                          | September 20, 2028 | [📄 open][179] |
 | SYBR Safe DNA Gel Stain                                          | Gels                      | Flammable                                                                                                                                                                                                                                               | April 03, 2029     | [📄 open][180] |
 | Silicone Oil                                                     | Other Chemicals           | not WHMIS controlled                                                                                                                                                                                                                                    | July 30, 2026      | [📄 open][181] |
@@ -195,7 +195,7 @@ Last update: June 29, 2026
 | Softsoap Soothing Aloe Vera Liquid Soap                          | Disinfectants             | No Hazard                                                                                                                                                                                                                                               | September 26, 2026 | [📄 open][185] |
 | Softsoap Soothing Aloe Vera Liquid Soap Refill - 1 Gal           | Disinfectants             | No Hazard                                                                                                                                                                                                                                               | September 26, 2026 | [📄 open][186] |
 | Softsoap Soothing Aloe Vera Liquid Soap Refill - 1.65L or 2.36L  | Disinfectants             | No Hazard                                                                                                                                                                                                                                               | September 26, 2026 | [📄 open][187] |
-| Spill-X-A, Acid Neutralizer                                      | Safety/Emergency          | Acute toxicity                                                                                                                                                                                                                                          | May 24, 2028       | [📄 open][188] |
+| Spill-X-A, Acid Neutralizer                                      | Safety/Emergency          | Acute toxicity                                                                                                                                                                                                                                          | July 03, 2029      | [📄 open][188] |
 | Spill-X-C, Caustic Neutralizer                                   | Safety/Emergency          | Toxic, serious eye damage                                                                                                                                                                                                                               | May 26, 2028       | [📄 open][189] |
 | Spill-X-S, Solvent Adsorbent                                     | Safety/Emergency          | None                                                                                                                                                                                                                                                    | January 21, 2027   | [📄 open][190] |
 | Sterikon® Plus Bioindicator                                      | Other Chemicals           | not hazardous                                                                                                                                                                                                                                           | April 29, 2028     | [📄 open][191] |
@@ -208,9 +208,9 @@ Last update: June 29, 2026
 | T36 Disinfex                                                     | Disinfectants             | flammable, toxic                                                                                                                                                                                                                                        | July 20, 2028      | [📄 open][198] |
 | T4 DNA Ligase                                                    | Other Chemicals           | None                                                                                                                                                                                                                                                    | December 19, 2026  | [📄 open][199] |
 | T4 DNA Ligase Reaction Buffer                                    | Other Chemicals           | None                                                                                                                                                                                                                                                    | December 19, 2026  | [📄 open][200] |
-| TAE Buffer, 50X, UltraPure DNA Typing Grade                      | Gels                      | mild irritant                                                                                                                                                                                                                                           | October 25, 2026   | [📄 open][201] |
+| TAE Buffer, 50X, UltraPure DNA Typing Grade                      | Gels                      | mild irritant                                                                                                                                                                                                                                           | November 15, 2026  | [📄 open][201] |
 | TE Buffer, 20X, RNase-free                                       | Quant                     | None                                                                                                                                                                                                                                                    | February 26, 2029  | [📄 open][202] |
-| TE Buffer, pH 8.0                                                | Other Chemicals           | None                                                                                                                                                                                                                                                    | February 28, 2027  | [📄 open][203] |
+| TE Buffer, pH 8.0                                                | Other Chemicals           | None                                                                                                                                                                                                                                                    | June 03, 2027      | [📄 open][203] |
 | TOPO TA Cloning Kit for Sequencing                               | Other Chemicals           | None                                                                                                                                                                                                                                                    | April 25, 2028     | [📄 open][204] |
 | Tenofovir (Chemscene)                                            | Antiviral Drugs/Standards | Harmful if swallowed, causes skin irritation and eye irritation                                                                                                                                                                                         | December 10, 2027  | [📄 open][205] |
 | Tenofovir alafenamide (TAF)                                      | Antiviral Drugs/Standards | Irritating to eyes, respiratory system and skin                                                                                                                                                                                                         | December 03, 2027  | [📄 open][206] |
@@ -223,12 +223,12 @@ Last update: June 29, 2026
 | Triton X-100                                                     | Other Chemicals           | None                                                                                                                                                                                                                                                    | November 14, 2027  | [📄 open][213] |
 | Trizma Hydrochloride Solution, pH 9.0, 1M                        | 3730 Sequencing           | none                                                                                                                                                                                                                                                    | October 02, 2027   | [📄 open][214] |
 | TruPure Formamide                                                | 3730 Sequencing           | Carcinogenic                                                                                                                                                                                                                                            | June 10, 2029      | [📄 open][215] |
-| Trypan Blue 0.4% Stain Solution                                  | IDC Specimen Processing   | toxic, carcinogen                                                                                                                                                                                                                                       | May 08, 2027       | [📄 open][216] |
+| Trypan Blue 0.4% Stain Solution                                  | IDC Specimen Processing   | toxic, carcinogen                                                                                                                                                                                                                                       | July 03, 2029      | [📄 open][216] |
 | Trypsin-EDTA, 0.05%, 1X                                          | Tissue Culture            | None                                                                                                                                                                                                                                                    | November 22, 2026  | [📄 open][217] |
 | Tween 20                                                         | NGS Sequencing            | None                                                                                                                                                                                                                                                    | May 28, 2027       | [📄 open][218] |
 | Unmodified DNA Oligo (SDS)                                       | Primers                   | None                                                                                                                                                                                                                                                    | June 17, 2028      | [📄 open][219] |
 | Vacuum Grease, Silicone                                          | Other Chemicals           | Not hazardous                                                                                                                                                                                                                                           | December 21, 2026  | [📄 open][220] |
-| Water LC-MS Grade                                                | TDM                       | None                                                                                                                                                                                                                                                    | September 22, 2028 | [📄 open][221] |
+| Water LC-MS Grade                                                | TDM                       | None                                                                                                                                                                                                                                                    | July 30, 2028      | [📄 open][221] |
 | Water, DEPC-treated                                              | PCR                       | None                                                                                                                                                                                                                                                    | September 12, 2027 | [📄 open][222] |
 | XHO I                                                            | Other Chemicals           | None                                                                                                                                                                                                                                                    | December 19, 2026  | [📄 open][223] |
 | ZR Viral RNA Kit                                                 | Other Chemicals           | Acute Toxicity, Skin Irritation, Eye irritation                                                                                                                                                                                                         | June 03, 2027      | [📄 open][224] |
@@ -258,10 +258,10 @@ Last update: June 29, 2026
 [7]: files/2-Mercaptoethanol_M6250_05May2028.pdf
 [8]: files/4363929_POP7-3730_14feb2028.pdf
 [9]: files/4335613_MTR-NALT_EN_31-Jan-2025.pdf
-[10]: files/Potassium_hydroxide__8N_solution_in_water_380625000_4Oct2026.pdf
+[10]: files/Potassium_hydroxide__8N_solution_in_water_19Dec28.pdf
 [11]: files/Abacavir%20%28sulfate%29_CS-250701.pdf
 [12]: files/Acetic_acid_MTR_AGHS_CE_261013.pdf
-[13]: files/Acetone_11Oct2026.pdf
+[13]: files/ACETONE-HPLC-GRD-99-5_27Dec28.pdf
 [14]: files/acetonitrile_18Dec2028.pdf
 [15]: files/Acycloguanosine_a4669_26May2028.pdf
 [16]: files/Agarose_low_1620100_25Aug2026.pdf
@@ -331,7 +331,7 @@ Last update: June 29, 2026
 [80]: files/SM1223F_MTR-NALT_EN_09April2029.pdf
 [81]: files/CPDA_2024-05-01_cpda-1USP_01May2027.pdf
 [82]: files/FBS_12483020_22Jul2027.pdf
-[83]: files/FBS%20Heat%20Inactivated_12484028_16Jun2029.pdf
+[83]: files/Raltegravir%20potassium%20salt_07Jan28.pdf
 [84]: files/Fluorescein%20sodium%20salt%20_f6377_17Feb2028.pdf
 [85]: files/Formic_acid_MTR_CLP1_EN_270480_281007.pdf
 [86]: files/Fluid%2C%20Fyrite%2C%20CO2_16Jun2029.pdf
@@ -426,7 +426,7 @@ Last update: June 29, 2026
 [175]: files/Stemcell_DX21063_exp01NOV2026-signed.pdf
 [176]: files/Exact%20Diagnostics%20SARS-CoV-2_exp15Sep2026.pdf
 [177]: files/SARS-CoV-Negative_COV000CE_03Jul2028.pdf
-[178]: files/Solusorb_Adsorbent_4437_extended10_Jan2028.pdf
+[178]: files/SOLUSORB%20Solvent%20Adsorbent_ext03Jul29.pdf
 [179]: files/306812AR_SPINKOTE_20Sep2028.pdf
 [180]: files/SYBR%20Safe_S33102_MTR-NALT_EN_ext03Apr2029.pdf
 [181]: files/MS_SiliconeOil_378372_exp30AUG2026-signed.pdf
@@ -436,7 +436,7 @@ Last update: June 29, 2026
 [185]: files/Colgate-Palmolive_AloeSoap_v2.2_exp26Sep2026-signed.pdf
 [186]: files/Colgate-Palmolive_AloeSoap_v2.2_exp26Sep2026-signed.pdf
 [187]: files/Colgate-Palmolive_AloeSoap_v2.2_exp26Sep2026-signed.pdf
-[188]: files/SDS_Spill-X-A_extended%20to%2026May2028.pdf
+[188]: files/Spill-X-A%C2%AE%20Acid%20Neutralizer_03Jul2029.pdf
 [189]: files/SDS_Spill-X-C_ext26may2028.pdf
 [190]: files/077265_MTR_CGHN_EN_27Jan21.pdf
 [191]: files/Millipore_Sterikon_29Apr2028-signed.pdf
@@ -449,9 +449,9 @@ Last update: June 29, 2026
 [198]: files/T36_20Jul28.pdf
 [199]: files/NEB_T4_Ligase_exp19Dec2026-signed.pdf
 [200]: files/NEB_T4_Ligase_Buffer_exp19Dec2026-signed.pdf
-[201]: files/Thermo_50xTAE_exp25Oct2026-signed.pdf
+[201]: files/TAE%20Buffer%2C%2050X%2C%20UltraPure%20DNA%20Typing%20Grade_15Nov26.pdf
 [202]: files/T11493_20X%20TE%20buffer_ext26Feb29.pdf
-[203]: files/Thermo_AM9849_exp28Feb2027-signed.pdf
+[203]: files/TE%20Buffer%2C%20pH%208.0_03Jun27.pdf
 [204]: files/460204%20PCR4-TOPO%20VECTOR_460204_25Apr2028.pdf
 [205]: files/Tenofovir_CS-1609_10Dec2027.pdf
 [206]: files/Tenofovir_alafenamide_CS-3366_ext03Dec2027.pdf
@@ -464,12 +464,12 @@ Last update: June 29, 2026
 [213]: files/t8787_Triton_271114.pdf
 [214]: files/Trizma_t2819_02Oct2027.pdf
 [215]: files/090025_TruPure%20Formamide%20SDS_v2.2_ext10June29.pdf
-[216]: files/MP_Trypan_195532_exp08MAY2027-signed.pdf
+[216]: files/Trypan%20Blue%200.4%25%20Stain%20Solution_195532_03Jul29.pdf
 [217]: files/Thermo_Trypsin_25300062_exp22NOV2023-signed.pdf
 [218]: files/Tween20_p7949_28may2027.pdf
 [219]: files/unmodified-dna-oligo_IDT-001_17Jun2028.pdf
 [220]: files/Beckman_Grease_335148AK_exp21DEC2026.pdf
-[221]: files/Water_LCMS%20grade_280922.pdf
+[221]: files/Water%20LC-MS%20Grade_OmniSolv_30July28.pdf
 [222]: files/Thermo_DEPC_AM9922_exp12Sep2027-signed.pdf
 [223]: files/XHOL_sdsR0146-_19Dec2026.pdf
 [224]: files/Zymo_ViralRNAKit_exp03JUN2027-signed.pdf

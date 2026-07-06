@@ -73,8 +73,8 @@
         "name": "8N Potassium Hydroxide",
         "category": "Other Chemicals",
         "hazards": "Corrosive, Harmful if swallowed, Causes severe skin burns and eye damage",
-        "date_msds_expires": "October 10, 2026",
-        "filename": "Potassium_hydroxide__8N_solution_in_water_380625000_4Oct2026.pdf"
+        "date_msds_expires": "December 19, 2028",
+        "filename": "Potassium_hydroxide__8N_solution_in_water_19Dec28.pdf"
     },
     {
         "name": "Abacavir Sulfate",
@@ -94,8 +94,8 @@
         "name": "Acetone, HPLC grade",
         "category": "TDM",
         "hazards": "highly flammable, toxic",
-        "date_msds_expires": "October 11, 2026",
-        "filename": "Acetone_11Oct2026.pdf"
+        "date_msds_expires": "December 27, 2028",
+        "filename": "ACETONE-HPLC-GRD-99-5_27Dec28.pdf"
     },
     {
         "name": "Acetonitrile Chromasolv Plus for HPLC, >99.9%",
@@ -584,8 +584,8 @@
         "name": "Fetal Bovine Serum (FBS), Heat Inactivated (Gibco)",
         "category": "IDC Specimen Processing",
         "hazards": null,
-        "date_msds_expires": "June 16, 2029",
-        "filename": "FBS Heat Inactivated_12484028_16Jun2029.pdf"
+        "date_msds_expires": "January 07, 2028",
+        "filename": "Raltegravir potassium salt_07Jan28.pdf"
     },
     {
         "name": "Fluorescein Sodium Salt",
@@ -1249,8 +1249,8 @@
         "name": "SOLUSORB Solvent Adsorbent",
         "category": "Safety/Emergency",
         "hazards": null,
-        "date_msds_expires": "January 10, 2028",
-        "filename": "Solusorb_Adsorbent_4437_extended10_Jan2028.pdf"
+        "date_msds_expires": "July 03, 2029",
+        "filename": "SOLUSORB Solvent Adsorbent_ext03Jul29.pdf"
     },
     {
         "name": "SPINKOTE Lubricant for metal threads",
@@ -1319,8 +1319,8 @@
         "name": "Spill-X-A, Acid Neutralizer",
         "category": "Safety/Emergency",
         "hazards": "Acute toxicity",
-        "date_msds_expires": "May 24, 2028",
-        "filename": "SDS_Spill-X-A_extended to 26May2028.pdf"
+        "date_msds_expires": "July 03, 2029",
+        "filename": "Spill-X-A\u00ae Acid Neutralizer_03Jul2029.pdf"
     },
     {
         "name": "Spill-X-C, Caustic Neutralizer",
@@ -1410,8 +1410,8 @@
         "name": "TAE Buffer, 50X, UltraPure DNA Typing Grade",
         "category": "Gels",
         "hazards": "mild irritant",
-        "date_msds_expires": "October 25, 2026",
-        "filename": "Thermo_50xTAE_exp25Oct2026-signed.pdf"
+        "date_msds_expires": "November 15, 2026",
+        "filename": "TAE Buffer, 50X, UltraPure DNA Typing Grade_15Nov26.pdf"
     },
     {
         "name": "TE Buffer, 20X, RNase-free",
@@ -1424,8 +1424,8 @@
         "name": "TE Buffer, pH 8.0",
         "category": "Other Chemicals",
         "hazards": null,
-        "date_msds_expires": "February 28, 2027",
-        "filename": "Thermo_AM9849_exp28Feb2027-signed.pdf"
+        "date_msds_expires": "June 03, 2027",
+        "filename": "TE Buffer, pH 8.0_03Jun27.pdf"
     },
     {
         "name": "TOPO TA Cloning Kit for Sequencing",
@@ -1515,8 +1515,8 @@
         "name": "Trypan Blue 0.4% Stain Solution",
         "category": "IDC Specimen Processing",
         "hazards": "toxic, carcinogen",
-        "date_msds_expires": "May 08, 2027",
-        "filename": "MP_Trypan_195532_exp08MAY2027-signed.pdf"
+        "date_msds_expires": "July 03, 2029",
+        "filename": "Trypan Blue 0.4% Stain Solution_195532_03Jul29.pdf"
     },
     {
         "name": "Trypsin-EDTA, 0.05%, 1X",
@@ -1550,8 +1550,8 @@
         "name": "Water LC-MS Grade",
         "category": "TDM",
         "hazards": null,
-        "date_msds_expires": "September 22, 2028",
-        "filename": "Water_LCMS grade_280922.pdf"
+        "date_msds_expires": "July 30, 2028",
+        "filename": "Water LC-MS Grade_OmniSolv_30July28.pdf"
     },
     {
         "name": "Water, DEPC-treated",
