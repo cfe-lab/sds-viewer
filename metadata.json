@@ -269,8 +269,8 @@
         "name": "Cabotegravir-D5 (reagent)",
         "category": "Antiviral Drugs/Standards",
         "hazards": null,
-        "date_msds_expires": "July 19, 2026",
-        "filename": "Cayman_cabotegravir-d5_31319m_exp19-Jul2026-signed.pdf"
+        "date_msds_expires": "October 06, 2028",
+        "filename": "Cabotegravir-d5_06-oct-2028.pdf"
     },
     {
         "name": "Cabotegravir-d5",
@@ -913,8 +913,8 @@
         "name": "NEUTRASORB Acid Neutralizer",
         "category": "Safety/Emergency",
         "hazards": "irritant",
-        "date_msds_expires": "July 19, 2026",
-        "filename": "Avantor_Neutrasorb_exp19Jul2026-signed.pdf"
+        "date_msds_expires": "July 19, 2029",
+        "filename": "Avantor_Neutrasorb_exp19Jul2029.pdf"
     },
     {
         "name": "Nevirapine (NVP)",

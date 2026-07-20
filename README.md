@@ -2,7 +2,7 @@
 
 [![Check](https://github.com/cfe-lab/sds-viewer/actions/workflows/selfcheck.yml/badge.svg)](https://github.com/cfe-lab/sds-viewer/actions/workflows/selfcheck.yml)
 
-Last update: July 13, 2026
+Last update: July 20, 2026
 
                                                                                                                                                                                                                                                                                                                                                                                                 
 | Name                                                             | Category                  | Hazards                                                                                                                                                                                                                                                 | Expiry Date        | Document       |
@@ -45,7 +45,7 @@ Last update: July 13, 2026
 | Buffer Solution pH 4, Red                                        | TDM                       | None                                                                                                                                                                                                                                                    | December 18, 2028  | [📄 open][35]  |
 | Buffer Solution pH 7, Yellow                                     | TDM                       | None                                                                                                                                                                                                                                                    | December 18, 2028  | [📄 open][36]  |
 | Cabotegravir                                                     | Antiviral Drugs/Standards | Harmful if swallowed, very toxic to aquatic life with long lasting effects                                                                                                                                                                              | April 09, 2027     | [📄 open][37]  |
-| Cabotegravir-D5 (reagent)                                        | Antiviral Drugs/Standards | None                                                                                                                                                                                                                                                    | July 19, 2026      | [📄 open][38]  |
+| Cabotegravir-D5 (reagent)                                        | Antiviral Drugs/Standards | None                                                                                                                                                                                                                                                    | October 06, 2028   | [📄 open][38]  |
 | Cabotegravir-d5                                                  | Antiviral Drugs/Standards | Acute toxicity; harmful if swallowed or inhaled, in contact with skin                                                                                                                                                                                   | October 06, 2028   | [📄 open][39]  |
 | Cederroth Eye Wash, Sterile, 500ml                               | Safety/Emergency          | None                                                                                                                                                                                                                                                    | January 28, 2029   | [📄 open][40]  |
 | Chemagenic DNA Universal Kit                                     | Extraction                | Acute Toxicity, Eye/Skin Irritant, Flammable, Respiratory Sensitivity                                                                                                                                                                                   | October 20, 2026   | [📄 open][41]  |
@@ -137,7 +137,7 @@ Last update: July 13, 2026
 | NEBNext Multiplex Oligos for Illumina (Dual Index Primers Set 1) | NGS Sequencing            | None                                                                                                                                                                                                                                                    | July 04, 2028      | [📄 open][127] |
 | NEBNext rRNA Depletion Kit                                       | NGS Sequencing            | None                                                                                                                                                                                                                                                    | May 26, 2028       | [📄 open][128] |
 | NEUTRACIT Caustic Neutralizer                                    | Safety/Emergency          | irritant                                                                                                                                                                                                                                                | August 05, 2028    | [📄 open][129] |
-| NEUTRASORB Acid Neutralizer                                      | Safety/Emergency          | irritant                                                                                                                                                                                                                                                | July 19, 2026      | [📄 open][130] |
+| NEUTRASORB Acid Neutralizer                                      | Safety/Emergency          | irritant                                                                                                                                                                                                                                                | July 19, 2029      | [📄 open][130] |
 | Nevirapine (NVP)                                                 | Antiviral Drugs/Standards | toxic, irritant                                                                                                                                                                                                                                         | June 15, 2029      | [📄 open][131] |
 | Nevirapine-d3                                                    | Antiviral Drugs/Standards | None                                                                                                                                                                                                                                                    | May 10, 2026       | [📄 open][132] |
 | Nextera XT Index Kit v2 Set A (96 indexes)                       | NGS Sequencing            | None                                                                                                                                                                                                                                                    | March 12, 2029     | [📄 open][133] |
@@ -285,7 +285,7 @@ Last update: July 13, 2026
 [35]: files/Buffer%20Solution%20pH%204%2C%20Red_18Dec28.pdf
 [36]: files/Buffer%20Solution%20pH%207%2C%20Yellow_18Dec28.pdf
 [37]: files/CS_CS-5078_Cabotegravir_exp09APR2027-signed.pdf
-[38]: files/Cayman_cabotegravir-d5_31319m_exp19-Jul2026-signed.pdf
+[38]: files/Cabotegravir-d5_06-oct-2028.pdf
 [39]: files/Cabotegravir-d5_06-oct-2028.pdf
 [40]: files/eye-wash_Cederroth_725200_28Jan2029.pdf
 [41]: files/Revvity_SDS%20CMG-718_GB-signed.pdf
@@ -377,7 +377,7 @@ Last update: July 13, 2026
 [127]: files/NEBNext%20Multiplex%20Oligos%20for%20Illumina_ext_04Jul2028.pdf
 [128]: files/NEBNext_rRNA_Depletion_kit_26May2028.pdf
 [129]: files/Neutracit_BAKER_4470-05_05Aug2028.pdf
-[130]: files/Avantor_Neutrasorb_exp19Jul2026-signed.pdf
+[130]: files/Avantor_Neutrasorb_exp19Jul2029.pdf
 [131]: files/Nevirapine_1460703_ext15June2029.pdf
 [132]: files/ClearSynth_Nevirapine_SDS_10MAY2023.pdf
 [133]: files/NXTR%20XT%20IDX%20Kt%20v2%20Set%20A%2096%20IDXS_290312.pdf
