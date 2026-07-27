@@ -3,8 +3,8 @@
         "name": "0.1 - 2 Kb RNA Ladder",
         "category": "PCR",
         "hazards": "None",
-        "date_msds_expires": "July 21, 2026",
-        "filename": "Thermo_AM7145_exp21JUL2026-signed.pdf"
+        "date_msds_expires": "July 22, 2029",
+        "filename": "Thermo_AM7145_exp21JUL2029-signed.pdf"
     },
     {
         "name": "0.1M DTT",
@@ -81,7 +81,7 @@
         "category": "Antiviral Drugs/Standards",
         "hazards": "Eye irritation, Skin sensitisation, Germ cell mutagenicity, Carcinogenicity, Reproductive toxicity",
         "date_msds_expires": "July 01, 2028",
-        "filename": "Abacavir (sulfate)_CS-250701.pdf"
+        "filename": "Abacavir (sulfate)_CS-250701_01Jul2028.pdf"
     },
     {
         "name": "Acetic Acid, Glacial, HPLC grade",
@@ -178,8 +178,8 @@
         "name": "Atazanavir Sulfate",
         "category": "Antiviral Drugs/Standards",
         "hazards": "Serious eye damage, Specific target organ toxicity",
-        "date_msds_expires": "July 03, 2028",
-        "filename": "Atazanavir (sulfate)_ext_03Jul2028.pdf"
+        "date_msds_expires": "June 04, 2028",
+        "filename": "Atazanavir Sulfate_CS-1890_4Jun2028.pdf"
     },
     {
         "name": "Automated Droplet Generation Oil for Probes",
@@ -192,8 +192,8 @@
         "name": "Bar Keeper's Friend",
         "category": "Other Chemicals",
         "hazards": null,
-        "date_msds_expires": "November 25, 2027",
-        "filename": "Bar Keepers Friend_extended25Nov2027.pdf"
+        "date_msds_expires": "July 23, 2029",
+        "filename": "Bar Keepers Friend Cleanser & Polish_23Jul2029.pdf"
     },
     {
         "name": "Betaine Solution, 5M",
@@ -353,8 +353,8 @@
         "name": "Darunavir Ethanolate",
         "category": "Antiviral Drugs/Standards",
         "hazards": "Harmful if swallowed, Very toxic to aquatic life with long lasting effects",
-        "date_msds_expires": "February 02, 2029",
-        "filename": "Darunavir_CS-0750_ext02Feb2029.pdf"
+        "date_msds_expires": "December 08, 2028",
+        "filename": "Darunavir_CS-0750-8Dec2028.pdf"
     },
     {
         "name": "Darunavir-d9",
@@ -409,8 +409,15 @@
         "name": "Doravirine (DOR)",
         "category": "Antiviral Drugs/Standards",
         "hazards": "Skin corrosion, serious eye damage, specific target organ toxicity- single exposure, respiratory system",
-        "date_msds_expires": "September 12, 2027",
-        "filename": "Chemscene-Doravirine_exp12Sep2027-signed.pdf"
+        "date_msds_expires": "April 26, 2029",
+        "filename": "DOR_CS-5924_26Apr2029.pdf"
+    },
+    {
+        "name": "Dry Ice, Carbon Dioxide, Solid ",
+        "category": "Other Chemicals",
+        "hazards": "Asphyxiant, explosive hazard when sublimates",
+        "date_msds_expires": "June 06, 2027",
+        "filename": "Dry ice_Carbon Diozxide_Linde_06Jun2027.pdf"
     },
     {
         "name": "Dulbecco's Phosphate-Buffered Saline (DPBS), 1X",
@@ -451,8 +458,8 @@
         "name": "Easysep Negative Human CD4 Kit",
         "category": "Other Chemicals",
         "hazards": null,
-        "date_msds_expires": "July 04, 2028",
-        "filename": "EasysepNegativeHumanCD4kit_ext04Jul2028.pdf"
+        "date_msds_expires": "January 19, 2027",
+        "filename": "EasySep_19052_19052F_19Jan2027.pdf"
     },
     {
         "name": "Efavirenz (EFV)",
@@ -490,13 +497,6 @@
         "filename": "emtricitabine_1235106_extended_3Dec2027.pdf"
     },
     {
-        "name": "Emtricitabine FTC (reagent)",
-        "category": "TDM",
-        "hazards": "Avoid inhalation, skin and eye contact. Wear PPE.",
-        "date_msds_expires": "December 03, 2027",
-        "filename": "emtricitabine_1235106_extended_3Dec2027.pdf"
-    },
-    {
         "name": "Ethanol (Ethyl Alcohol), 95% - Commercial Alcohols",
         "category": "3730 Sequencing",
         "hazards": "flammable",
@@ -514,8 +514,8 @@
         "name": "Etravirine ETV (Chemscene)",
         "category": "Antiviral Drugs/Standards",
         "hazards": "Acute toxicity",
-        "date_msds_expires": "September 12, 2027",
-        "filename": "Chemscene-Etravirine_exp12Sep2027-signed.pdf"
+        "date_msds_expires": "August 26, 2027",
+        "filename": "Etravirine_CS-0435_26Aug2027.pdf"
     },
     {
         "name": "Etravirine-d8",
@@ -619,8 +619,8 @@
         "name": "Guava ICF Instrument Cleaning Fluid",
         "category": "Other Chemicals",
         "hazards": "Causes skin and serious eye irritation",
-        "date_msds_expires": "April 17, 2028",
-        "filename": "Guava_Instrument_cleaning fluid_632805_17April2028.pdf"
+        "date_msds_expires": "January 26, 2029",
+        "filename": "Instrument Cleaning Fluid (ICF)_26Jan2029.pdf"
     },
     {
         "name": "HIV-1 Genotyping Kit Amplification Module",
@@ -885,8 +885,8 @@
         "name": "NEBNEXT RNA Library Prep Kit",
         "category": "NGS Sequencing",
         "hazards": null,
-        "date_msds_expires": "February 12, 2028",
-        "filename": "NEBNEXT RNA Library Prep Kit_E7530S_12Feb2028.pdf"
+        "date_msds_expires": "December 13, 2026",
+        "filename": "NEBNEXT RNA Library Prep Kit_13Dec2026.pdf"
     },
     {
         "name": "NEBNext Multiplex Oligos for Illumina (Dual Index Primers Set 1)",
@@ -1200,8 +1200,8 @@
         "name": "Rilpivirine (RPV)",
         "category": "Antiviral Drugs/Standards",
         "hazards": null,
-        "date_msds_expires": "April 25, 2028",
-        "filename": "Rilpivirine_CS-0440_25April2028.pdf"
+        "date_msds_expires": "December 08, 2028",
+        "filename": "Rilpivirine_HY-10574-MedChemExpress_8Dec2028.pdf"
     },
     {
         "name": "Ritonavir (RTV) ",
@@ -1291,22 +1291,22 @@
         "name": "Softsoap Soothing Aloe Vera Liquid Soap",
         "category": "Disinfectants",
         "hazards": "No Hazard",
-        "date_msds_expires": "September 26, 2026",
-        "filename": "Colgate-Palmolive_AloeSoap_v2.2_exp26Sep2026-signed.pdf"
+        "date_msds_expires": "July 23, 2029",
+        "filename": "Softsoap Soothing Aloe Vera_23Jul2029.pdf"
     },
     {
         "name": "Softsoap Soothing Aloe Vera Liquid Soap Refill - 1 Gal",
         "category": "Disinfectants",
         "hazards": "No Hazard",
-        "date_msds_expires": "September 26, 2026",
-        "filename": "Colgate-Palmolive_AloeSoap_v2.2_exp26Sep2026-signed.pdf"
+        "date_msds_expires": "July 23, 2029",
+        "filename": "Softsoap Soothing Aloe Vera_23Jul2029.pdf"
     },
     {
         "name": "Softsoap Soothing Aloe Vera Liquid Soap Refill - 1.65L or 2.36L",
         "category": "Disinfectants",
         "hazards": "No Hazard",
-        "date_msds_expires": "September 26, 2026",
-        "filename": "Colgate-Palmolive_AloeSoap_v2.2_exp26Sep2026-signed.pdf"
+        "date_msds_expires": "July 23, 2029",
+        "filename": "Softsoap Soothing Aloe Vera_23Jul2029.pdf"
     },
     {
         "name": "Spill-X-A, Acid Neutralizer",
@@ -1319,8 +1319,8 @@
         "name": "Spill-X-C, Caustic Neutralizer",
         "category": "Safety/Emergency",
         "hazards": "Toxic, serious eye damage",
-        "date_msds_expires": "May 26, 2028",
-        "filename": "SDS_Spill-X-C_ext26may2028.pdf"
+        "date_msds_expires": "July 23, 2029",
+        "filename": "Ansul--SPILL-X-C-Caustic_077261_23Jul2029.pdf"
     },
     {
         "name": "Spill-X-S, Solvent Adsorbent",
@@ -1368,8 +1368,8 @@
         "name": "SuperScript/Platinum High Fidelity Enzyme Mix",
         "category": "PCR",
         "hazards": null,
-        "date_msds_expires": "June 03, 2027",
-        "filename": "Thermo_SSIII_Taq_100005841_exp03JUN2027-signed.pdf"
+        "date_msds_expires": "July 09, 2027",
+        "filename": "superscrit_enzym_100005841_09Jul2027.pdf"
     },
     {
         "name": "SupreDye v3.1",
@@ -1424,8 +1424,8 @@
         "name": "TOPO TA Cloning Kit for Sequencing",
         "category": "Other Chemicals",
         "hazards": null,
-        "date_msds_expires": "April 25, 2028",
-        "filename": "460204 PCR4-TOPO VECTOR_460204_25Apr2028.pdf"
+        "date_msds_expires": "July 20, 2029",
+        "filename": "TOPO\u2122 TA Cloning\u2122 Kit for Sequencing_450071_20Jul29.pdf"
     },
     {
         "name": "Tenofovir (Chemscene)",
@@ -1433,13 +1433,6 @@
         "hazards": "Harmful if swallowed, causes skin irritation and eye irritation",
         "date_msds_expires": "December 10, 2027",
         "filename": "Tenofovir_CS-1609_10Dec2027.pdf"
-    },
-    {
-        "name": "Tenofovir alafenamide (TAF)",
-        "category": "Antiviral Drugs/Standards",
-        "hazards": "Irritating to eyes, respiratory system and skin",
-        "date_msds_expires": "December 03, 2027",
-        "filename": "Tenofovir_alafenamide_CS-3366_ext03Dec2027.pdf"
     },
     {
         "name": "Tenofovir-D6",
@@ -1550,8 +1543,8 @@
         "name": "Water, DEPC-treated",
         "category": "PCR",
         "hazards": null,
-        "date_msds_expires": "September 12, 2027",
-        "filename": "Thermo_DEPC_AM9922_exp12Sep2027-signed.pdf"
+        "date_msds_expires": "May 28, 2028",
+        "filename": "AM9920_DEPC-Treated water_28May2028.pdf"
     },
     {
         "name": "XHO I",
@@ -1564,8 +1557,8 @@
         "name": "ZR Viral RNA Kit",
         "category": "Other Chemicals",
         "hazards": "Acute Toxicity, Skin Irritation, Eye irritation",
-        "date_msds_expires": "June 03, 2027",
-        "filename": "Zymo_ViralRNAKit_exp03JUN2027-signed.pdf"
+        "date_msds_expires": "July 22, 2029",
+        "filename": "Quick-RNA Viral 96 Kit_R1040-E & R1041-E_22Jul2029.pdf"
     },
     {
         "name": "dATP PCR Grade, Sodium Solution, 20 ml",
