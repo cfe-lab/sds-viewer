@@ -77,6 +77,13 @@
         "filename": "Potassium_hydroxide__8N_solution_in_water_19Dec28.pdf"
     },
     {
+        "name": "AVF 60 GOLD MS grade",
+        "category": "TDM",
+        "hazards": "may dry skin and cause irritation.",
+        "date_msds_expires": "June 19, 2029",
+        "filename": "AVF 60 GOLD_agilent_19Jun2029.pdf"
+    },
+    {
         "name": "Abacavir Sulfate",
         "category": "Antiviral Drugs/Standards",
         "hazards": "Eye irritation, Skin sensitisation, Germ cell mutagenicity, Carcinogenicity, Reproductive toxicity",
