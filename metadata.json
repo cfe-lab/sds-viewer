@@ -609,6 +609,13 @@
         "filename": "Fluid, Fyrite, CO2_16Jun2029.pdf"
     },
     {
+        "name": "Gel Loading Dye, Purple (6X)",
+        "category": "Other Chemicals",
+        "hazards": null,
+        "date_msds_expires": "January 14, 2028",
+        "filename": "NEB_GelLoadingDyePurple_exp14Jan2028-signed.pdf"
+    },
+    {
         "name": "GeneScan DS-33 Installation Standard",
         "category": "3730 Sequencing",
         "hazards": null,
