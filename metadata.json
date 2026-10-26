@@ -10,8 +10,8 @@
         "name": "0.1M DTT",
         "category": "PCR",
         "hazards": null,
-        "date_msds_expires": "September 28, 2026",
-        "filename": "Dithiothreitol (DTT), 0.1M Solution_707265ML_MTR-NALT_EN_28Sep2026.pdf"
+        "date_msds_expires": "October 19, 2029",
+        "filename": "DDT( 0.1M)_707265ML_19Oct2029.pdf"
     },
     {
         "name": "0.1M Sodium Chloride Solution",
@@ -213,8 +213,8 @@
         "name": "Bictegravir",
         "category": "Antiviral Drugs/Standards",
         "hazards": "Toxic, harmful if swallowed",
-        "date_msds_expires": "October 08, 2026",
-        "filename": "Bictegravir_A17011_AdooqBioscience_8Oct2026.pdf"
+        "date_msds_expires": "October 19, 2029",
+        "filename": "Bictegravir_A17011_AdooqBioscience_19Oct2029.pdf"
     },
     {
         "name": "BigDye Terminator v3.1 Ready Reaction Mix",
@@ -297,7 +297,7 @@
         "name": "Chemagenic DNA Universal Kit",
         "category": "Extraction",
         "hazards": "Acute Toxicity, Eye/Skin Irritant, Flammable, Respiratory Sensitivity",
-        "date_msds_expires": "October 20, 2026",
+        "date_msds_expires": "January 27, 2027",
         "filename": "Revvity_SDS CMG-718_GB-signed.pdf"
     },
     {
@@ -941,8 +941,8 @@
         "name": "Nevirapine-d3",
         "category": "Antiviral Drugs/Standards",
         "hazards": null,
-        "date_msds_expires": "May 10, 2026",
-        "filename": "ClearSynth_Nevirapine_SDS_10MAY2023.pdf"
+        "date_msds_expires": "October 19, 2029",
+        "filename": "Nevirapine D3_19-Oct-2029_CS-T-59235.pdf"
     },
     {
         "name": "Nextera XT Index Kit v2 Set A (96 indexes)",
@@ -1620,8 +1620,8 @@
         "name": "easyMAG Extraction Buffer 1",
         "category": "Extraction",
         "hazards": "Guanidinium thiocyanate",
-        "date_msds_expires": "October 27, 2026",
-        "filename": "easymag_buffer1_280130_27Oct26.pdf"
+        "date_msds_expires": "October 21, 2029",
+        "filename": "Easymag extraction buffer 1_280130_21Oct2029.pdf"
     },
     {
         "name": "easyMAG Extraction Buffer 2",
